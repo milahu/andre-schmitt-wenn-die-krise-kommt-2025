@@ -118,14 +118,13 @@
      </span>
     </p>
 
-    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 889 602 1153 697">
-     <span class='ocr_line' id='line_1_8' title="bbox 889 602 1153 697; baseline 0 0; x_size 118.47287; x_descenders 23.472872; x_ascenders 36">
-      <span class='ocrx_word' id='word_1_88' title='bbox 889 602 1153 697; x_wconf 21'>BFE</span>
-     </span>
-    </p>
-
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 848 745 1204 770">
      <span class='ocr_line' id='line_1_9' title="bbox 848 745 1204 770; baseline -0.003 0; x_size 30.763371; x_descenders 6.76337; x_ascenders 7">
+      <!-- qrcode:
+       https://www.youtube.com/watch?v=AZ8_Poo1Q8M&list=PLBg0Z-5qO8PyDyc-f3NPW5PLUi42CWmQf&index=46
+       02 BIA - Warum noch so ein Buch
+       videos/02 BIA - Warum noch so ein Buch.AZ8_Poo1Q8M.mp4
+      -->
       <span class='ocrx_word' id='word_1_89' title='bbox 848 747 946 770; x_wconf 95'>Warum</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 957 745 1022 770; x_wconf 96'>noch</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 1032 752 1061 770; x_wconf 96'>so</span>
@@ -163,8 +162,8 @@
       <span class='ocrx_word' id='word_1_114' title='bbox 125 986 329 1022; x_wconf 95' lang='deu'>Warnungen</span>
       <span class='ocrx_word' id='word_1_115' title='bbox 358 984 416 1014; x_wconf 91'>des</span>
       <span class='ocrx_word' id='word_1_116' title='bbox 446 985 682 1014; x_wconf 96' lang='deu'>Bundesamtes</span>
-      <span class='ocrx_word' id='word_1_117' title='bbox 709 984 759 1014; x_wconf 91'>fiir</span>
-      <span class='ocrx_word' id='word_1_118' title='bbox 788 985 1139 1022; x_wconf 29'>Bevolkerungsschutz</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 709 984 759 1014; x_wconf 91'>für</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 788 985 1139 1022; x_wconf 29'>Bevölkerungsschutz</span>
       <span class='ocrx_word' id='word_1_119' title='bbox 1168 985 1231 1014; x_wconf 91'>und</span>
       <span class='ocrx_word' id='word_1_120' title='bbox 1263 984 1588 1021; x_wconf 91'>Katastrophenhilfe,</span>
       <span class='ocrx_word' id='word_1_121' title='bbox 1618 984 1692 1014; x_wconf 93'>kurz</span>
