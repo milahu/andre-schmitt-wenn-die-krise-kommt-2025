@@ -29,17 +29,6 @@
       <span class='ocrx_word' id='word_1_10' title='bbox 1009 417 1071 447; x_wconf 93'>und</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 1079 419 1460 454; x_wconf 91'>Krisenvorsorgeexperten</span>
      </span>
-     <span class='ocr_line' id='line_1_4' title="bbox 589 645 1443 685; baseline 0.001 -2; x_size 37; x_descenders 6; x_ascenders 12">
-      <span class='ocrx_word' id='word_1_12' title='bbox 589 645 691 683; x_wconf 34'>oA</span>
-      <span class='ocrx_word' id='word_1_13' title='bbox 737 652 784 677; x_wconf 10'>Ee</span>
-      <span class='ocrx_word' id='word_1_14' title='bbox 1365 646 1443 685; x_wconf 80'>=</span>
-     </span>
-     <span class='ocr_line' id='line_1_5' title="bbox 508 680 754 729; baseline 0 -21; x_size 25; x_descenders 6; x_ascenders 6">
-      <span class='ocrx_word' id='word_1_15' title='bbox 508 695 513 729; x_wconf 84'>|</span>
-      <span class='ocrx_word' id='word_1_16' title='bbox 574 700 586 723; x_wconf 51' lang='deu'>(</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 629 680 696 715; x_wconf 45' lang='deu'>&gt;’</span>
-      <span class='ocrx_word' id='word_1_18' title='bbox 747 705 785 714; x_wconf 51' lang='deu'>—</span>
-     </span>
      <span class='ocr_line' id='line_1_6' title="bbox 486 871 1450 903; baseline 0 -2; x_size 37.042778; x_descenders 7.0427799; x_ascenders 9">
       <span class='ocrx_word' id='word_1_19' title='bbox 486 871 613 901; x_wconf 96' lang='deu'>Patrick</span>
       <span class='ocrx_word' id='word_1_20' title='bbox 621 873 744 901; x_wconf 96' lang='deu'>Krause</span>
