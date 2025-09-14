@@ -128,21 +128,13 @@
       <span class='ocrx_word' id='word_1_101' title='bbox 227 434 391 465; x_wconf 96'>beschafft</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 405 435 521 465; x_wconf 96'>haben.</span>
      </span>
-     <span class='ocr_line' id='line_1_8' title="bbox 1006 514 1080 536; baseline 0 0; x_size 36.922115; x_descenders 5.9642859; x_ascenders 9.4555836">
-      <span class='ocrx_word' id='word_1_103' title='bbox 1006 521 1043 536; x_wconf 30' lang='eng'>The</span>
-      <span class='ocrx_word' id='word_1_104' title='bbox 1065 514 1080 536; x_wconf 49'>1”</span>
-     </span>
-     <span class='ocr_line' id='line_1_9' title="bbox 889 514 1160 587; baseline 0 -21; x_size 97.866928; x_descenders 23; x_ascenders 22.866928">
-      <span class='ocrx_word' id='word_1_105' title='bbox 889 514 1160 587; x_wconf 36'>EA</span>
-     </span>
-     <span class='ocr_line' id='line_1_10' title="bbox 1050 727 1146 749; baseline 0.01 -1; x_size 36.922115; x_descenders 5.9642859; x_ascenders 9.4555836">
-      <span class='ocrx_word' id='word_1_106' title='bbox 1050 727 1086 748; x_wconf 0'>=</span>
-      <span class='ocrx_word' id='word_1_107' title='bbox 1093 741 1146 749; x_wconf 41'>1-15</span>
-     </span>
-     <span class='ocr_line' id='line_1_11' title="bbox 889 733 1138 785; baseline 0 0; x_size 62.263046; x_descenders 10.263047; x_ascenders 15">
-      <span class='ocrx_word' id='word_1_108' title='bbox 889 733 1138 785; x_wconf 28'>Or</span>
-     </span>
      <span class='ocr_line' id='line_1_12' title="bbox 966 835 1085 864; baseline 0.008 -7; x_size 28; x_descenders 6; x_ascenders 5">
+      <!--
+       qrcode:
+       https://www.youtube.com/watch?v=hA-RDSoflHM&list=PLBg0Z-5qO8PyDyc-f3NPW5PLUi42CWmQf&index=5
+       05 BIA - Vorsorge
+       videos/05 BIA - Vorsorge.hA-RDSoflHM.mp4
+      -->
       <span class='ocrx_word' id='word_1_109' title='bbox 966 835 1085 864; x_wconf 96'>Vorsorge</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 43 918 2005 956; baseline 0 -8; x_size 35.824974; x_descenders 5.8249731; x_ascenders 9">
