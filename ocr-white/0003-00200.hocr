@@ -14,6 +14,11 @@
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 925 236 1109 393">
      <span class='ocr_line' id='line_1_1' title="bbox 925 236 1109 393; baseline 0 0; x_size 65.333328; x_descenders 16.333332; x_ascenders 16.333334">
       <span class='ocrx_word' id='word_1_1' title='bbox 925 236 1109 393; x_wconf 93'>A</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 923 400 989 429; x_wconf 93'>BIA</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 998 400 1110 429; x_wconf 93'>GMBH</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 946 438 996 451; x_wconf 93'>TRADE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1003 438 1014 451; x_wconf 93'>&amp;</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1020 438 1092 450; x_wconf 93'>CONSULT</span>
      </span>
     </p>
    </div>
