@@ -125,16 +125,11 @@
     </p>
 
     <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 889 514 1160 843">
-     <span class='ocr_line' id='line_1_8' title="bbox 889 514 1160 572; baseline 0 -6; x_size 66.782257; x_descenders 14.782253; x_ascenders 14.802794">
-      <span class='ocrx_word' id='word_1_94' title='bbox 889 514 1160 572; x_wconf 16'>OO</span>
-     </span>
-     <span class='ocr_line' id='line_1_9' title="bbox 933 609 1138 631; baseline 0 0; x_size 38.603764; x_descenders 8.5449438; x_ascenders 8.556818">
-      <span class='ocrx_word' id='word_1_95' title='bbox 933 624 1006 631; x_wconf 7' lang='eng'>Sh</span>
-      <span class='ocrx_word' id='word_1_96' title='bbox 1124 609 1138 631; x_wconf 2' lang='eng'>r</span>
-     </span>
-     <span class='ocr_line' id='line_1_10' title="bbox 1079 770 1109 785; baseline 0 0; x_size 19.264111; x_descenders 4.2641115; x_ascenders 4.2700372">
-      <span class='ocrx_word' id='word_1_97' title='bbox 1079 770 1109 785; x_wconf 36' lang='eng'>«1</span>
-     </span>
+     <!-- qrcode:
+      https://www.youtube.com/watch?v=n5b_Fxe8bQ0&list=PLBg0Z-5qO8PyDyc-f3NPW5PLUi42CWmQf&index=2
+      01 BIA - Intro
+      videos/01 BIA - Intro.n5b_Fxe8bQ0.mp4
+     -->
      <span class='ocr_line' id='line_1_11' title="bbox 991 820 1057 843; baseline 0.015 -1; x_size 28.755838; x_descenders 6.7558384; x_ascenders 5">
       <span class='ocrx_word' id='word_1_98' title='bbox 991 820 1057 843; x_wconf 94' lang='eng'>Intro</span>
      </span>
