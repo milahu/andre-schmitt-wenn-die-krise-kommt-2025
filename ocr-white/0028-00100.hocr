@@ -184,7 +184,7 @@
 
     <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 42 809 639 845">
      <span class='ocr_line' id='line_1_12' title="bbox 42 809 639 845; baseline 0 -6; x_size 36; x_descenders 6; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_138' title='bbox 42 823 52 834; x_wconf 65'>+</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 42 823 52 834; x_wconf 65'>•</span>
       <span class='ocrx_word' id='word_1_139' title='bbox 67 811 139 845; x_wconf 95'>„Für</span>
       <span class='ocrx_word' id='word_1_140' title='bbox 151 818 188 839; x_wconf 96' lang='eng'>so</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 202 813 304 839; x_wconf 96'>etwas</span>
@@ -197,7 +197,7 @@
 
     <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 875 667 911">
      <span class='ocr_line' id='line_1_13' title="bbox 42 875 667 911; baseline 0 -6; x_size 36; x_descenders 6; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_146' title='bbox 42 889 52 900; x_wconf 39'>«</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 42 889 52 900; x_wconf 39'>•</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 67 877 139 911; x_wconf 96' lang='deu'>„Für</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 151 884 188 905; x_wconf 96' lang='deu'>so</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 202 879 304 905; x_wconf 96' lang='deu'>etwas</span>
@@ -210,7 +210,7 @@
 
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 941 1373 980">
      <span class='ocr_line' id='line_1_14' title="bbox 42 941 1373 980; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_154' title='bbox 42 955 52 966; x_wconf 59'>«</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 42 955 52 966; x_wconf 59'>•</span>
       <span class='ocrx_word' id='word_1_155' title='bbox 67 941 131 977; x_wconf 90' lang='deu'>„Ich</span>
       <span class='ocrx_word' id='word_1_156' title='bbox 147 941 231 971; x_wconf 96'>habe</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 245 943 316 971; x_wconf 96' lang='deu'>eine</span>
