@@ -94,6 +94,16 @@ Jetzt bestellen und bereit sein, wenn das Licht ausgeht.
 magnet:?xt=urn:btih:876924d4fac48ffa91e3bf1e7532c106aa8fe311&dn=wenn.die.krise.kommt.von.andre.schmitt.2025.german.book.amazon.kindle.scan&xl=385940703&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
+## videos
+
+https://www.youtube.com/playlist?list=PLBg0Z-5qO8PyDyc-f3NPW5PLUi42CWmQf
+
+### wenn.die.krise.kommt.von.andre.schmitt.2025.german.videos.720p
+
+```
+magnet:?xt=urn:btih:2885fab23c6f3aeac02c4d7f34904733df43e826&dn=wenn.die.krise.kommt.von.andre.schmitt.2025.german.videos.720p&xl=1566223901&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
+```
+
 ## mirrors
 
 - https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025
