@@ -188,19 +188,6 @@
       <span class='ocrx_word' id='word_1_153' title='bbox 929 743 1201 773; x_wconf 95'>hinbekommen?</span>
      </span>
     </p>
-
-    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 889 822 1160 874">
-     <span class='ocr_line' id='line_1_12' title="bbox 889 822 1160 874; baseline 0 0; x_size 66.217682; x_descenders 14.217681; x_ascenders 15.765114">
-      <span class='ocrx_word' id='word_1_154' title='bbox 889 822 1160 874; x_wconf 31'>OO</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 889 880 1153 917">
-     <span class='ocr_line' id='line_1_13' title="bbox 889 880 1153 917; baseline 0 0; x_size 37.239883; x_descenders 8.2398853; x_ascenders 8">
-      <span class='ocrx_word' id='word_1_155' title='bbox 889 880 955 911; x_wconf 52'>Cl</span>
-      <span class='ocrx_word' id='word_1_156' title='bbox 1043 888 1057 903; x_wconf 3'>Eh</span>
-     </span>
-    </p>
    </div>
   </div>
  </body>
