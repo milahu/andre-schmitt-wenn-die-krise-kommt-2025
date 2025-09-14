@@ -13,7 +13,7 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 40 17 2008 1104">
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 43 17 722 55">
      <span class='ocr_line' id='line_1_1' title="bbox 43 17 722 55; baseline 0.001 -9; x_size 38; x_descenders 9; x_ascenders 8">
-      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 256 55; x_wconf 96'>Hintergrund</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 15 256 53; x_wconf 96'>Hintergrund</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 271 17 322 47; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 338 17 506 47; x_wconf 96'>Probleme</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 519 17 722 55; x_wconf 96'>anzugehen.</span>
@@ -43,7 +43,7 @@
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 43 170 2005 209; baseline 0 -8; x_size 39; x_descenders 8; x_ascenders 10">
       <span class='ocrx_word' id='word_1_23' title='bbox 43 171 168 201; x_wconf 93'>kommt</span>
-      <span class='ocrx_word' id='word_1_24' title='bbox 180 188 200 192; x_wconf 75'>-</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 180 188 200 192; x_wconf 75'>—</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 213 171 316 209; x_wconf 97'>sprich</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 330 170 382 201; x_wconf 97'>für</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 397 171 505 201; x_wconf 93' lang='eng'>Fehler</span>
