@@ -65,7 +65,7 @@
     <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 41 347 408 378">
      <span class='ocr_line' id='line_1_5' title="bbox 41 347 408 378; baseline 0 -1; x_size 38.29538; x_descenders 8.2953787; x_ascenders 9">
       <span class='ocrx_word' id='word_1_35' title='bbox 41 349 141 377; x_wconf 95'>Autor</span>
-      <span class='ocrx_word' id='word_1_36' title='bbox 152 347 257 377; x_wconf 96'>Andre</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 152 347 257 377; x_wconf 96'>André</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 271 347 408 378; x_wconf 96'>Schmitt</span>
      </span>
     </p>
@@ -77,7 +77,7 @@
       <span class='ocrx_word' id='word_1_40' title='bbox 243 438 362 466; x_wconf 96'>Januar</span>
       <span class='ocrx_word' id='word_1_41' title='bbox 375 437 462 466; x_wconf 96'>2025</span>
       <span class='ocrx_word' id='word_1_42' title='bbox 476 437 505 466; x_wconf 96'>©</span>
-      <span class='ocrx_word' id='word_1_43' title='bbox 517 435 622 466; x_wconf 96'>Andre</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 517 435 622 466; x_wconf 96'>André</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 636 436 773 466; x_wconf 96'>Schmitt</span>
      </span>
     </p>
