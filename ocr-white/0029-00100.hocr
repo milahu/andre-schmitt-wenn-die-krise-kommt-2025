@@ -38,6 +38,9 @@
       <span class='ocrx_word' id='word_1_21' title='bbox 646 84 703 112; x_wconf 95'>mit</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 722 91 779 113; x_wconf 93'>nur</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 798 83 990 121; x_wconf 92'>Bürgergeld</span>
+      <!-- 563 Euro pro Monat
+       https://www.buerger-geld.org/buergergeld/regelsatz/
+      -->
       <span class='ocrx_word' id='word_1_24' title='bbox 1011 83 1127 113; x_wconf 96'>kannst</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 1145 83 1186 113; x_wconf 96'>du</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 1206 86 1340 113; x_wconf 95'>starten.</span>
