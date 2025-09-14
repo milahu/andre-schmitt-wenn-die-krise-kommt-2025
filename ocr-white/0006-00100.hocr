@@ -16,17 +16,9 @@
       <span class='ocrx_word' id='word_1_1' title='bbox 42 11 154 51; x_wconf 96'>Zum</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 172 11 319 51; x_wconf 96'>Autor</span>
      </span>
-     <span class='ocr_line' id='line_1_2' title="bbox 40 289 401 429; baseline -0.003 0; x_size 12.770202; x_descenders 2.7702019; x_ascenders 2.9481826">
-      <span class='ocrx_word' id='word_1_3' title='bbox 40 289 112 429; x_wconf 74' lang='eng'>=</span>
-      <span class='ocrx_word' id='word_1_4' title='bbox 270 342 294 355; x_wconf 49'>f</span>
-      <span class='ocrx_word' id='word_1_5' title='bbox 373 300 401 332; x_wconf 35'>|</span>
-     </span>
     </p>
 
     <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 40 521 2008 1069">
-     <span class='ocr_line' id='line_1_3' title="bbox 257 521 401 574; baseline 0.007 -1; x_size 66.534904; x_descenders 14.534902; x_ascenders 15">
-      <span class='ocrx_word' id='word_1_6' title='bbox 257 521 401 574; x_wconf 57'>a</span>
-     </span>
      <span class='ocr_line' id='line_1_4' title="bbox 43 613 2005 651; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
       <span class='ocrx_word' id='word_1_7' title='bbox 43 615 144 643; x_wconf 96'>Unser</span>
       <span class='ocrx_word' id='word_1_8' title='bbox 165 615 265 643; x_wconf 96'>Autor</span>
