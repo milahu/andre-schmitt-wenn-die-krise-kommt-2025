@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0006-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 16 2005 1077">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 16 403 47">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 16 403 47; baseline 0 -1; x_size 38.429874; x_descenders 8.4298754; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 34 54 37; x_wconf 88'>-</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 69 16 403 47; x_wconf 88'>Industriekaufmann</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 42 82 470 121">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 470 121; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_3' title='bbox 42 100 54 103; x_wconf 91'>-</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 69 83 218 113; x_wconf 91'>Fachwirt</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 230 82 281 113; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 295 83 470 121; x_wconf 96'>Marketing</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 150 467 187">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 150 467 187; baseline 0.002 -9; x_size 36; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_7' title='bbox 42 166 54 169; x_wconf 87'>-</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 69 150 467 187; x_wconf 91'>E-Commerce-Manager</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 215 366 253">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 215 366 253; baseline 0.003 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 42 232 54 235; x_wconf 90'>-</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 69 215 366 253; x_wconf 90'>Projekt-Manager</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 42 280 434 311">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 280 434 311; baseline 0 -1; x_size 38.429874; x_descenders 8.4298754; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_11' title='bbox 42 298 54 301; x_wconf 90'>-</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 67 280 434 311; x_wconf 91'>Wirtschaftsmediator</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 347 472 385">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 347 472 385; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_13' title='bbox 42 364 54 367; x_wconf 88'>-</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 66 347 472 385; x_wconf 90' lang='deu'>Verhandlungsmanager</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 42 413 461 443">
+     <span class='ocr_line' id='line_1_7' title="bbox 42 413 461 443; baseline 0.002 -1; x_size 37.429874; x_descenders 8.4298754; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_15' title='bbox 42 430 54 433; x_wconf 90'>-</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 69 413 461 443; x_wconf 91'>Mimikresonanzmaster</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 41 500 2005 803">
+     <span class='ocr_line' id='line_1_8' title="bbox 42 500 2005 539; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_17' title='bbox 42 502 136 531; x_wconf 96'>Seine</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 147 501 344 539; x_wconf 96'>Tätigkeiten</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 358 500 525 531; x_wconf 95'>umfassen</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 539 501 645 531; x_wconf 95'>neben</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 659 501 734 531; x_wconf 95'>dem</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 748 501 973 531; x_wconf 96'>militärischen</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 987 501 1051 531; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1065 501 1408 531; x_wconf 92'>unternehmerischen</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1423 502 1532 531; x_wconf 96'>Dienst</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1544 501 1667 531; x_wconf 93'>diverse</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1681 500 2005 531; x_wconf 92'>Beraterfunktionen</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 41 566 2005 605; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_28' title='bbox 41 566 92 597; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 112 567 274 602; x_wconf 96'>Industrie,</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 296 567 413 602; x_wconf 96'>Politik,</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 434 567 573 597; x_wconf 96'>diskrete</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 594 566 852 597; x_wconf 96'>Gesellschaften</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 873 567 937 597; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 959 568 1067 597; x_wconf 95'>NGOs.</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1088 567 1320 605; x_wconf 96'>Schwerpunkt</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1340 567 1446 597; x_wconf 96'>bilden</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1468 567 1586 597; x_wconf 96'>hierbei</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1607 567 1658 597; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1679 567 2005 605; x_wconf 92'>Rüstungsindustrie,</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 42 633 2005 671; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_40' title='bbox 42 633 93 663; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 112 633 529 671; x_wconf 91'>Prototypenentwicklung</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 549 633 613 663; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 634 634 876 671; x_wconf 96'>Konzeptionen</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 896 634 936 662; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 957 634 1088 668; x_wconf 96'>Einsatz,</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1107 634 1205 663; x_wconf 92'>sowie</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1222 633 1468 671; x_wconf 92'>Vermittlungs-</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1487 633 1551 663; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1572 633 1957 671; x_wconf 91'>Mediationstätigkeiten</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1977 634 2005 662; x_wconf 96'>in</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 43 698 2005 737; baseline 0 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_51' title='bbox 43 700 164 737; x_wconf 92'>Kriegs-</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 191 699 254 729; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 283 699 555 737; x_wconf 90'>Krisengebieten.</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 583 701 644 729; x_wconf 96'>Des</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 668 700 825 729; x_wconf 96'>Weiteren</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 852 699 991 729; x_wconf 96'>arbeitet</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1016 708 1049 729; x_wconf 96'>er</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1073 699 1120 729; x_wconf 96'>als</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1146 700 1294 729; x_wconf 96'>Business</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1320 699 1424 729; x_wconf 96'>Coach</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1452 699 1516 729; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1541 698 1636 729; x_wconf 95'>freier</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1662 701 1785 729; x_wconf 96'>Dozent</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1811 700 1851 728; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1879 699 2005 729; x_wconf 96'>Bereich</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 43 764 1010 803; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_66' title='bbox 43 764 510 803; x_wconf 92'>Führungskräfteausbildung</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 525 766 623 795; x_wconf 96'>sowie</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 637 766 844 803; x_wconf 96'>Community</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 858 765 1010 803; x_wconf 94'>Building.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 43 877 214 921">
+     <span class='ocr_line' id='line_1_13' title="bbox 43 877 214 921; baseline 0 -8; x_size 44; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_70' title='bbox 43 877 214 921; x_wconf 96'>Quellen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='deu' title="bbox 43 975 2005 1077">
+     <span class='ocr_line' id='line_1_14' title="bbox 43 975 2005 1013; baseline 0 -8; x_size 38.429874; x_descenders 8.4298754; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_71' title='bbox 43 975 239 1005; x_wconf 96'>Mitwirkend</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 260 975 307 1005; x_wconf 96'>als</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 327 975 463 1011; x_wconf 96'>Quellen</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 486 975 549 1005; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 573 975 782 1005; x_wconf 96'>Fachberater</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 800 975 851 1005; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 870 975 977 1005; x_wconf 96'>dieses</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 998 975 1080 1005; x_wconf 96'>Buch</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1102 975 1234 1005; x_wconf 96'>dienten</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1257 977 1412 1013; x_wconf 96'>Experten</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1433 984 1491 1005; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1511 975 1568 1005; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1589 975 1909 1013; x_wconf 91'>Energiewirtschaft,</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1930 975 2005 1005; x_wconf 96'>dem</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 43 1041 789 1077; baseline 0 -6; x_size 38.429874; x_descenders 8.4298754; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_85' title='bbox 43 1042 364 1077; x_wconf 96'>Innenministerium,</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 380 1041 624 1071; x_wconf 96'>medizinisches</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 639 1041 789 1071; x_wconf 96'>Personal</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

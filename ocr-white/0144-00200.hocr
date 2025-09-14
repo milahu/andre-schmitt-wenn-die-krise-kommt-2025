@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0144-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2006 363">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 467 47">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 467 47; baseline -0.002 0; x_size 38.495403; x_descenders 8.4954033; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 17 149 47; x_wconf 96'>denen</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 164 17 284 47; x_wconf 96'>andere</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 298 17 467 47; x_wconf 95'>scheitern.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 41 104 2006 275">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 104 2006 143; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_4' title='bbox 42 107 72 135; x_wconf 96'>3.</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 94 105 196 135; x_wconf 96' lang='deu'>Deine</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 214 105 423 143; x_wconf 93' lang='deu'>Ausrüstung</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 442 122 462 126; x_wconf 89'>—</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 481 107 525 135; x_wconf 96' lang='deu'>Du</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 547 105 609 135; x_wconf 96' lang='deu'>bist</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 628 105 697 135; x_wconf 96' lang='deu'>also</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 718 105 892 143; x_wconf 96' lang='deu'>körperlich</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 911 104 949 135; x_wconf 96'>fit</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 969 105 1033 135; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1055 105 1178 135; x_wconf 96' lang='deu'>mental</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1197 105 1309 135; x_wconf 96' lang='deu'>stabil?</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1330 107 1418 135; x_wconf 96' lang='deu'>Dann</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1438 104 1522 135; x_wconf 96' lang='deu'>fehlt</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1541 105 1587 135; x_wconf 96'>dir</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1606 114 1664 135; x_wconf 96'>nur</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1683 105 1765 135; x_wconf 96'>noch</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1786 105 1837 135; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1858 104 2006 143; x_wconf 96' lang='deu'>perfekte</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 41 170 2005 209; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_23' title='bbox 41 172 251 209; x_wconf 96' lang='deu'>Ausrüstung.</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 267 173 311 201; x_wconf 96' lang='deu'>Du</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 326 171 443 201; x_wconf 96' lang='deu'>kannst</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 455 180 490 201; x_wconf 96' lang='deu'>es</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 502 180 586 201; x_wconf 96' lang='deu'>zwar</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 599 172 656 201; x_wconf 96' lang='deu'>mit</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 668 172 774 201; x_wconf 96' lang='deu'>einem</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 788 171 916 201; x_wconf 96' lang='deu'>starken</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 929 171 1039 201; x_wconf 96' lang='deu'>Willen</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1052 172 1127 201; x_wconf 96' lang='deu'>weit</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1140 171 1283 209; x_wconf 95' lang='deu'>bringen,</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1297 171 1375 201; x_wconf 96' lang='deu'>aber</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1388 171 1529 209; x_wconf 96' lang='deu'>bequem</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1544 171 1608 201; x_wconf 93' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1624 170 1825 209; x_wconf 91' lang='deu'>Kampfkraft</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1837 171 2005 201; x_wconf 96' lang='deu'>schonend</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 41 236 1450 275; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_39' title='bbox 41 237 115 267; x_wconf 96' lang='deu'>wird</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 130 246 165 267; x_wconf 96' lang='deu'>es</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 179 241 244 267; x_wconf 96' lang='deu'>erst</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 258 238 315 267; x_wconf 96' lang='deu'>mit</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 328 237 391 267; x_wconf 96' lang='deu'>den</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 407 237 560 275; x_wconf 96' lang='deu'>richtigen</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 574 237 675 272; x_wconf 96' lang='deu'>Tools,</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 689 237 811 267; x_wconf 96' lang='deu'>welche</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 825 237 920 267; x_wconf 96' lang='deu'>deine</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 934 237 1024 267; x_wconf 96' lang='deu'>Skills</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1037 246 1092 267; x_wconf 96' lang='deu'>zur</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1105 236 1291 275; x_wconf 96' lang='deu'>Entfaltung</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1307 237 1450 275; x_wconf 96' lang='deu'>bringen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 43 325 1190 363">
+     <span class='ocr_line' id='line_1_5' title="bbox 43 325 1190 363; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_52' title='bbox 43 326 206 363; x_wconf 96'>Beginnen</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 220 326 274 355; x_wconf 96'>wir</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 286 325 443 355; x_wconf 96'>zunächst</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 458 326 514 355; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 527 325 657 355; x_wconf 93'>deinem</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 673 325 812 355; x_wconf 92'>Mindset</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 826 325 890 355; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 905 325 1016 355; x_wconf 93'>deiner</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1030 325 1190 355; x_wconf 91'>Resilienz.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

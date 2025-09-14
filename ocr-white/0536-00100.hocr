@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0536-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 16 615 319">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 16 482 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 16 482 55; baseline 0 -9; x_size 37.273533; x_descenders 7.2735343; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 47'>«</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 65 16 482 55; x_wconf 88'>www.netzfrequenz.info</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 83 397 121">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 83 397 121; baseline 0 -9; x_size 36.273533; x_descenders 7.2735343; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_3' title='bbox 42 96 53 107; x_wconf 42'>»</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 65 83 397 121; x_wconf 89'>www.gridradar.net</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 149 451 179">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 149 451 179; baseline 0 -1; x_size 36.273533; x_descenders 7.2735343; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_5' title='bbox 42 162 53 173; x_wconf 0'>ee</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 65 149 451 179; x_wconf 51' lang='eng'>www.sO-recorder.com</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 214 615 319">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 615 253; baseline 0.002 -9; x_size 37.619892; x_descenders 7.6198931; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_7' title='bbox 42 228 53 239; x_wconf 50'>«</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 65 214 615 253; x_wconf 87'>www.netzfrequenzmessung.de</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 42 281 377 319; baseline 0 -9; x_size 36.273533; x_descenders 7.2735343; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 42 294 53 305; x_wconf 35'>»</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 65 281 377 319; x_wconf 35'>www.swissgrid.ch</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

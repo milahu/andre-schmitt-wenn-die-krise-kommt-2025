@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0612-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 16 2007 1081">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 43 16 600 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 16 600 55; baseline 0.002 -9; x_size 39; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 16 600 55; x_wconf 90'>biologie/photosynthese/50676</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 82 1409 121">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 1409 121; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_2' title='bbox 42 96 53 107; x_wconf 71'>«</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 67 83 323 120; x_wconf 91'>Chloroplasten:</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 337 83 601 121; x_wconf 92'>Zellorganellen,</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 616 83 666 113; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 679 82 730 113; x_wconf 96' lang='deu'>für</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 743 83 794 113; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 809 83 1043 121; x_wconf 92'>Fotosynthese</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1056 83 1315 113; x_wconf 96' lang='deu'>verantwortlich</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1329 83 1409 113; x_wconf 96'>sind.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 143 1745 187">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 143 1745 187; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_11' title='bbox 42 162 53 173; x_wconf 58'>+</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 67 150 225 179; x_wconf 92' lang='eng'>Stomata:</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 241 149 347 179; x_wconf 93' lang='eng'>Kleine</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 361 143 551 187; x_wconf 96'>Öffnungen</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 566 148 623 179; x_wconf 96' lang='eng'>auf</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 635 149 692 179; x_wconf 93' lang='eng'>der</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 706 148 989 184; x_wconf 14' lang='eng'>Blattoberfliche,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1004 149 1054 179; x_wconf 96' lang='eng'>die</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1067 148 1118 179; x_wconf 94' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1131 149 1194 179; x_wconf 93' lang='eng'>den</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1209 149 1448 179; x_wconf 91' lang='eng'>Gasaustausch</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1464 149 1650 187; x_wconf 96'>notwendig</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1665 149 1745 179; x_wconf 96' lang='eng'>sind.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 214 1967 253">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 1967 253; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_24' title='bbox 42 228 53 239; x_wconf 13'>«</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 65 215 183 253; x_wconf 95'>Xylem:</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 199 216 260 245; x_wconf 93'>Das</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 274 214 465 252; x_wconf 96' lang='deu'>pflanzliche</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 480 215 628 250; x_wconf 96' lang='deu'>Gewebe,</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 643 215 701 245; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 714 216 839 245; x_wconf 96'>Wasser</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 852 215 916 245; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 933 214 1119 245; x_wconf 96' lang='deu'>Nährstoffe</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1131 223 1194 245; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1209 215 1272 245; x_wconf 92'>den</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1286 215 1430 245; x_wconf 96' lang='deu'>Wurzeln</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1444 224 1482 245; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1497 215 1560 245; x_wconf 92'>den</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1576 215 1716 245; x_wconf 96' lang='deu'>Blättern</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1730 216 1967 252; x_wconf 96' lang='deu'>transportiert.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 280 2005 384">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 280 2005 319; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_40' title='bbox 42 294 53 305; x_wconf 46'>+</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 66 281 208 311; x_wconf 96'>Phloem:</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 222 282 283 311; x_wconf 93'>Das</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 296 280 487 318; x_wconf 96' lang='deu'>pflanzliche</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 500 281 648 316; x_wconf 96' lang='deu'>Gewebe,</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 662 281 720 311; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 731 281 849 311; x_wconf 96'>Zucker</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 861 281 925 311; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 938 281 1058 311; x_wconf 93'>andere</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1070 281 1261 319; x_wconf 96' lang='deu'>organische</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1273 280 1379 311; x_wconf 96' lang='deu'>Stoffe</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1390 289 1453 311; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1466 281 1529 311; x_wconf 93'>den</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1544 281 1684 311; x_wconf 96' lang='deu'>Blättern</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1696 290 1734 311; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1747 281 1889 311; x_wconf 93'>anderen</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1901 281 2005 311; x_wconf 96' lang='deu'>Teilen</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 42 346 491 384; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_57' title='bbox 42 347 99 377; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 113 346 241 377; x_wconf 92'>Pflanze</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 253 348 491 384; x_wconf 91'>transportiert.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 40 412 2007 517">
+     <span class='ocr_line' id='line_1_7' title="bbox 42 412 2007 451; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_60' title='bbox 42 426 53 437; x_wconf 66'>«</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 69 413 210 443; x_wconf 93' lang='deu'>Botanik:</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 224 412 535 443; x_wconf 92'>wissenschaftliche</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 551 413 797 451; x_wconf 96'>Untersuchung</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 812 421 875 443; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 892 412 1052 443; x_wconf 96'>Pflanzen.</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1067 414 1202 443; x_wconf 96'>Weitere</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1219 412 1471 443; x_wconf 96'>Informationen</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1487 413 1568 443; x_wconf 93'>dazu</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1583 412 1706 443; x_wconf 96' lang='deu'>findest</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1720 413 1761 443; x_wconf 96'>du</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1778 413 1853 443; x_wconf 93'>hier:</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1869 412 2007 450; x_wconf 91'>https://</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 40 478 712 517; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_73' title='bbox 40 478 484 517; x_wconf 91'>www.biologie-schule.de/</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 501 479 712 516; x_wconf 91'>botanik.php</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 544 1509 583">
+     <span class='ocr_line' id='line_1_9' title="bbox 42 544 1509 583; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_75' title='bbox 42 558 53 569; x_wconf 73'>«</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 68 544 398 575; x_wconf 91'>Pflanzenanatomie:</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 413 545 660 583; x_wconf 96'>Untersuchung</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 675 545 732 575; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 745 545 891 575; x_wconf 96' lang='deu'>Struktur</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 902 553 965 575; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 981 544 1132 575; x_wconf 96'>Pflanzen</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1146 544 1203 575; x_wconf 93'>auf</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1215 545 1380 575; x_wconf 90'>zelluldrer</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1394 545 1509 575; x_wconf 95'>Ebene.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 41 610 2005 714">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 610 2005 649; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_85' title='bbox 42 624 53 635; x_wconf 20'>«</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 101 610 466 649; x_wconf 68'>Pflanzenphysiologie:</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 514 611 761 649; x_wconf 88'>Untersuchung</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 808 611 865 641; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 912 611 1110 641; x_wconf 94'>Funktionen</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1156 619 1219 641; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1268 610 1428 646; x_wconf 87'>Pflanzen,</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1476 610 1713 641; x_wconf 90' lang='deu'>einschließlich</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1762 611 2005 649; x_wconf 79'>Fotosynthese,</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 41 677 781 714; baseline 0 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_94' title='bbox 41 678 335 714; x_wconf 91'>Wassertransport</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 349 677 413 707; x_wconf 90'>und</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 430 677 781 714; x_wconf 90'>Hormonproduktion.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 42 742 1558 781">
+     <span class='ocr_line' id='line_1_12' title="bbox 42 742 1558 781; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_97' title='bbox 42 756 53 767; x_wconf 61'>*</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 65 744 268 773; x_wconf 93'>Taxonomie:</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 281 742 591 773; x_wconf 91' lang='eng'>wissenschaftliche</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 607 742 860 781; x_wconf 96'>Klassifizierung</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 873 751 936 773; x_wconf 96' lang='eng'>von</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 952 742 1103 773; x_wconf 96' lang='eng'>Pflanzen</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1118 743 1182 773; x_wconf 96' lang='eng'>und</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1197 743 1339 773; x_wconf 93' lang='eng'>anderen</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1356 743 1558 773; x_wconf 95'>Lebewesen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 41 830 432 861">
+     <span class='ocr_line' id='line_1_13' title="bbox 41 830 432 861; baseline 0 -1; x_size 38.206768; x_descenders 8.2067671; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_106' title='bbox 41 830 321 861; x_wconf 91'>Weiterfiihrende</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 336 831 432 861; x_wconf 96'>Links:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 42 896 1021 935">
+     <span class='ocr_line' id='line_1_14' title="bbox 42 896 1021 935; baseline 0 -8; x_size 39.617104; x_descenders 8.6171055; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_108' title='bbox 42 911 53 921; x_wconf 48'>«</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 68 897 275 927; x_wconf 96' lang='deu'>Botanischer</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 288 898 407 927; x_wconf 96'>Garten</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 423 897 532 927; x_wconf 93'>Berlin:</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 547 896 1021 935; x_wconf 88'>https://www.bgbm.org/de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 42 962 1328 1001">
+     <span class='ocr_line' id='line_1_15' title="bbox 42 962 1328 1001; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_113' title='bbox 42 977 53 987; x_wconf 68'>«</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 68 963 275 993; x_wconf 96' lang='deu'>Botanischer</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 288 964 407 993; x_wconf 93'>Garten</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 423 963 866 1001; x_wconf 89'>Miinchen-Nymphenburg:</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 881 962 1328 1001; x_wconf 91'>https://www.botmuc.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 42 1052 127 1081">
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1052 127 1081; baseline 0 0; x_size 39.236561; x_descenders 8.8207169; x_ascenders 8.9196424">
+      <span class='ocrx_word' id='word_1_118' title='bbox 42 1052 127 1081; x_wconf 95'>PMO</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

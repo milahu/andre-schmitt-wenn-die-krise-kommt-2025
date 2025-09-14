@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0169-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 47 54 456 1089">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 47 54 456 1089">
+     <span class='ocr_line' id='line_1_1' title="bbox 139 54 424 127; baseline 0.007 -29; x_size 59.08057; x_descenders 13.080569; x_ascenders 13.625592">
+      <span class='ocrx_word' id='word_1_1' title='bbox 139 86 192 127; x_wconf 88'>A</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 385 54 424 91; x_wconf 80'>N</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 99 440 107 454; baseline 0 -3; x_size 18.629629; x_descenders 3; x_ascenders 4.6296296">
+      <span class='ocrx_word' id='word_1_3' title='bbox 99 440 107 454; x_wconf 0'>R</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 50 759 274 794; baseline 0.004 -8; x_size 34; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_4' title='bbox 50 759 192 794; x_wconf 93'>Hinckley</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 204 761 274 787; x_wconf 96'>Face</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 48 839 237 862; baseline 0 0; x_size 29.868687; x_descenders 6.8686867; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_6' title='bbox 48 848 58 858; x_wconf 43'>+</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 69 839 237 862; x_wconf 91' lang='eng'>Zusammen-</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 48 911 184 935; baseline 0 -7; x_size 32.118519; x_descenders 7.1111112; x_ascenders 7.4074073">
+      <span class='ocrx_word' id='word_1_8' title='bbox 48 911 184 935; x_wconf 96'>gezogene</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 47 970 238 1000; baseline 0 -6; x_size 30; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_9' title='bbox 47 970 238 1000; x_wconf 96'>Augenbrauen</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 48 1058 456 1089; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_10' title='bbox 48 1069 58 1079; x_wconf 57'>+</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 69 1058 204 1082; x_wconf 92' lang='eng'>Oberlider</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 213 1058 299 1089; x_wconf 96' lang='eng'>gehen</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 311 1058 375 1082; x_wconf 96'>nach</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 387 1058 456 1082; x_wconf 96'>oben</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0353-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 16 2006 121">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 16 2006 121">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 16 2006 55; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 16 233 55; x_wconf 96'>erfolgreich</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 250 17 457 47; x_wconf 96'>beobachten</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 473 17 553 47; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 566 16 745 55; x_wconf 96'>verfolgen,</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 762 25 815 47; x_wconf 95'>um</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 831 18 929 47; x_wconf 96'>somit</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 943 17 1073 47; x_wconf 96'>deinem</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1088 18 1182 47; x_wconf 96'>Team</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1198 17 1249 47; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1265 18 1398 55; x_wconf 96'>nötigen</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1416 16 1668 47; x_wconf 96'>Informationen</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1684 26 1722 47; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1739 16 1939 52; x_wconf 96'>beschaffen,</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1955 17 2006 47; x_wconf 96'>die</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 878 121; baseline -0.001 -8; x_size 38; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_15' title='bbox 42 91 77 113; x_wconf 96'>es</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 89 82 140 113; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 153 84 224 113; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 238 83 399 121; x_wconf 93'>objektive</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 415 83 704 121; x_wconf 92'>Lagebeurteilung</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 720 83 878 121; x_wconf 96'>benötigt.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

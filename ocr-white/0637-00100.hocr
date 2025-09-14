@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0637-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 712 103 1333 1017">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 712 103 1333 1017">
+     <span class='ocr_line' id='line_1_1' title="bbox 714 103 1104 137; baseline 0 0; x_size 41.023952; x_descenders 7.023952; x_ascenders 10.383234">
+      <span class='ocrx_word' id='word_1_1' title='bbox 714 103 891 137; x_wconf 92'>BITCOIN</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 914 103 1104 137; x_wconf 96'>ENDLICH</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 712 144 1063 203; baseline 0 -16; x_size 59; x_descenders 16; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_3' title='bbox 712 144 1063 203; x_wconf 96'>VERSTÄNDLICH</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 714 204 915 238; baseline 0 0; x_size 41.023952; x_descenders 7.023952; x_ascenders 10.383234">
+      <span class='ocrx_word' id='word_1_4' title='bbox 714 204 915 238; x_wconf 90' lang='eng'>ERKLART.</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1189 363 1251 384; baseline 0.048 -3; x_size 21.866379; x_descenders 3.8663793; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_5' title='bbox 1189 363 1251 384; x_wconf 94' lang='eng'>Autor</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 940 674 1100 707; baseline 0.069 -11; x_size 29; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_6' title='bbox 940 674 980 696; x_wconf 92' lang='eng'>DIE</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 987 678 1100 707; x_wconf 92'>GRÖSSTE</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 928 724 1134 784; baseline 0.058 -12; x_size 33.583336; x_descenders 5.75; x_ascenders 8.5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 928 751 1005 775; x_wconf 93' lang='eng'>ALLER</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1014 758 1098 784; x_wconf 96'>ZEITEN</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1112 724 1134 754; x_wconf 78' lang='eng'>8</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 813 793 1181 838; baseline 0.003 -18; x_size 33.583336; x_descenders 5.75; x_ascenders 8.5">
+      <span class='ocrx_word' id='word_1_11' title='bbox 813 793 882 824; x_wconf 92'>FBV</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1079 819 1082 838; x_wconf 57' lang='eng'>:</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1180 827 1181 831; x_wconf 57'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 930 959 1333 983; baseline -0.002 -1; x_size 27.751497; x_descenders 4.7514968; x_ascenders 7.023952">
+      <span class='ocrx_word' id='word_1_14' title='bbox 930 959 1024 983; x_wconf 96'>JETZT</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1038 959 1208 983; x_wconf 96'>BESTELLEN</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1222 959 1333 983; x_wconf 96'>UNTER:</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 979 992 1333 1017; baseline 0.003 -1; x_size 30.056034; x_descenders 5.0560346; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_17' title='bbox 979 992 1333 1017; x_wconf 89' lang='eng'>www.marc-friedrich.de</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

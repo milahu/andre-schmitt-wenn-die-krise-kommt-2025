@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0106-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 248 2008 1109">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 41 248 1151 302">
+     <span class='ocr_line' id='line_1_1' title="bbox 41 248 1151 302; baseline 0.001 -12; x_size 53; x_descenders 11; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_1' title='bbox 41 252 85 291; x_wconf 95'>4.</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 104 249 200 291; x_wconf 96'>Wie</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 220 249 278 291; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 296 249 381 291; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 400 251 669 291; x_wconf 95'>Stromnetz</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 688 261 842 302; x_wconf 96'>genau</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 862 248 1151 302; x_wconf 96'>aufgebaut?</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 42 322 2005 493">
+     <span class='ocr_line' id='line_1_2' title="bbox 43 322 2005 361; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_8' title='bbox 43 325 104 353; x_wconf 96'>Das</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 118 324 303 353; x_wconf 96'>Stromnetz</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 318 324 356 353; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 371 323 579 353; x_wconf 96'>hierarchisch</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 594 322 776 361; x_wconf 96'>aufgebaut</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 790 323 854 353; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 870 323 1002 353; x_wconf 96'>besteht</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1016 331 1073 353; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1086 323 1339 353; x_wconf 93'>verschiedenen</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1355 323 1692 361; x_wconf 91'>Spannungsebenen,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1707 323 1757 353; x_wconf 97'>die</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1772 322 1866 353; x_wconf 96'>dafür</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1878 331 2005 361; x_wconf 96'>sorgen,</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 42 389 2005 427; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_21' title='bbox 42 389 117 419; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 138 389 329 419; x_wconf 96'>elektrische</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 352 390 482 427; x_wconf 96'>Energie</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 502 397 565 419; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 587 389 650 419; x_wconf 93'>den</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 675 389 1011 427; x_wconf 92'>Erzeugungsquellen</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1033 398 1070 419; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1093 389 1156 419; x_wconf 97'>den</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1178 389 1416 419; x_wconf 96'>Verbrauchern</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1438 390 1667 426; x_wconf 96'>transportiert</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1686 389 1771 419; x_wconf 96'>wird.</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1795 391 1830 419; x_wconf 96'>Es</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1851 389 1920 427; x_wconf 96'>gibt</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1941 389 2005 419; x_wconf 96'>drei</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 43 455 739 493; baseline -0.001 -8; x_size 35; x_descenders 7; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_35' title='bbox 43 455 475 493; x_wconf 92'>Hauptspannungsebenen</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 490 456 530 484; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 546 456 739 485; x_wconf 96'>Stromnetz:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 41 543 2008 779">
+     <span class='ocr_line' id='line_1_5' title="bbox 44 543 2008 581; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_38' title='bbox 44 545 71 573; x_wconf 93'>1.</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 91 543 491 581; x_wconf 91'>Hochspannungsebene:</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 511 544 565 573; x_wconf 93'>Die</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 584 543 976 581; x_wconf 92'>Hochspannungsebene</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 992 543 1067 573; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1085 543 1137 573; x_wconf 95'>für</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1153 543 1216 573; x_wconf 93'>den</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1237 545 1480 581; x_wconf 92'>Ferntransport</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1498 543 1615 581; x_wconf 92'>großer</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1634 544 1909 581; x_wconf 91'>Energiemengen</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1929 543 2008 573; x_wconf 96'>über</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 41 609 2005 647; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_49' title='bbox 41 610 135 639; x_wconf 96'>weite</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 161 609 312 639; x_wconf 96'>Strecken</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 337 609 534 639; x_wconf 95'>verwendet.</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 561 609 684 639; x_wconf 96'>Hierbei</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 711 609 864 639; x_wconf 93'>kommen</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 891 609 1343 647; x_wconf 92'>Hochspannungsleitungen</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1370 610 1427 639; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1451 609 1525 639; x_wconf 96'>sehr</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1550 609 1658 639; x_wconf 96'>hohen</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1685 610 1907 647; x_wconf 96'>Spannungen</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1932 618 2005 639; x_wconf 96'>zum</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 43 675 2005 713; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_60' title='bbox 43 676 174 711; x_wconf 94'>Einsatz,</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 194 675 456 713; x_wconf 96'>typischerweise</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 477 676 517 704; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 539 675 665 705; x_wconf 96'>Bereich</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 685 684 748 705; x_wconf 95'>von</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 771 676 835 705; x_wconf 93'>110</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 856 675 989 705; x_wconf 90'>Kilovolt</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1009 675 1076 710; x_wconf 95'>(kV)</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1098 675 1144 705; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1165 675 1332 705; x_wconf 96'>mehreren</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1355 675 1500 705; x_wconf 96'>Hundert</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1521 675 1569 705; x_wconf 96'>kV.</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1591 675 1691 705; x_wconf 96'>Durch</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1712 675 1762 705; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1781 675 2005 713; x_wconf 96'>Verwendung</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 43 741 1225 779; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_75' title='bbox 43 741 145 771; x_wconf 95'>hoher</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 158 742 379 779; x_wconf 96'>Spannungen</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 393 741 522 771; x_wconf 96'>werden</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 537 741 588 771; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 601 741 745 771; x_wconf 96'>Verluste</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 760 741 844 771; x_wconf 96'>beim</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 858 743 1031 779; x_wconf 96'>Transport</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1045 742 1225 771; x_wconf 96'>minimiert.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 41 807 2008 1043">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 807 2006 845; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_83' title='bbox 43 808 71 837; x_wconf 89'>2.</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 108 807 522 845; x_wconf 90'>Mittelspannungsebene:</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 558 807 620 837; x_wconf 96'>Auf</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 654 807 711 837; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 746 807 1151 845; x_wconf 91'>Mittelspannungsebene</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1186 807 1260 837; x_wconf 95'>wird</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1297 807 1348 837; x_wconf 95'>die</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1384 807 1574 837; x_wconf 95'>elektrische</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1611 808 1741 845; x_wconf 96'>Energie</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1778 808 1806 836; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1843 807 2006 845; x_wconf 94'>regionale</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 41 873 2005 911; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_94' title='bbox 41 873 341 911; x_wconf 92'>Verteilungsnetze</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 355 873 498 911; x_wconf 96'>geleitet.</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 513 874 566 903; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 580 874 757 911; x_wconf 96'>Spannung</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 773 873 849 911; x_wconf 96'>liegt</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 863 874 891 902; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 905 873 962 903; x_wconf 97'>der</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 975 873 1071 911; x_wconf 96'>Regel</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1083 873 1241 903; x_wconf 96'>zwischen</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1258 874 1299 903; x_wconf 96'>10</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1313 873 1356 902; x_wconf 96'>kV</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1369 873 1432 903; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1447 874 1490 903; x_wconf 96'>36</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 1504 873 1552 903; x_wconf 95'>kV.</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1567 874 1621 903; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1636 874 1765 911; x_wconf 96'>Energie</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1777 873 1852 903; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1865 882 1928 903; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1942 873 2005 903; x_wconf 97'>den</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 43 939 2008 977; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_113' title='bbox 43 939 495 977; x_wconf 91'>Hochspannungsleitungen</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 509 940 537 968; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 551 939 845 977; x_wconf 92'>Umspannwerken</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 858 939 915 969; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 926 939 1014 969; x_wconf 91'>diese</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 1027 939 1332 977; x_wconf 90'>Spannungsebene</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1345 939 1739 969; x_wconf 91'>heruntertransformiert</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1752 939 1815 969; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1829 939 1915 969; x_wconf 96'>dann</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1929 939 2008 969; x_wconf 96'>über</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 43 1005 872 1043; baseline 0 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_123' title='bbox 43 1005 508 1043; x_wconf 92'>Mittelspannungsleitungen</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 522 1006 872 1043; x_wconf 92' lang='eng'>weitertransportiert.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 42 1071 2005 1109">
+     <span class='ocr_line' id='line_1_13' title="bbox 42 1071 2005 1109; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_125' title='bbox 42 1073 71 1101; x_wconf 91'>3.</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 103 1071 528 1109; x_wconf 91'>Niederspannungsebene:</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 560 1072 614 1101; x_wconf 92'>Die</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 645 1071 1062 1109; x_wconf 92'>Niederspannungsebene</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1092 1072 1131 1101; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1160 1071 1211 1101; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1242 1071 1340 1101; x_wconf 96'>letzte</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 1371 1071 1477 1101; x_wconf 96'>Ebene</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1506 1071 1565 1101; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 1594 1072 1817 1101; x_wconf 92'>Stromnetzes</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1845 1080 1902 1101; x_wconf 96'>vor</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1930 1071 2005 1101; x_wconf 96'>dem</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

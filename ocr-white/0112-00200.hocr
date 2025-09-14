@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0112-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 16 2008 1112">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 43 16 2005 121">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 16 2005 55; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 306 55; x_wconf 96'>Energiequellen</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 341 18 400 47; x_wconf 96'>wie</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 437 17 667 55; x_wconf 96'>Solarenergie,</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 703 16 881 46; x_wconf 96'>Windkraft</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 916 17 996 47; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1032 18 1195 47; x_wconf 96'>Biomasse</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1231 17 1374 47; x_wconf 96'>erreicht.</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1412 18 1465 47; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1500 17 1639 47; x_wconf 96'>Vorteile</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1675 18 1762 47; x_wconf 96'>einer</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1797 17 2005 47; x_wconf 96'>dezentralen</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 43 82 566 121; baseline 0.002 -9; x_size 39; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_12' title='bbox 43 84 374 121; x_wconf 92'>Energieversorgung</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 389 82 566 113; x_wconf 96'>umfassen:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 43 170 2006 275">
+     <span class='ocr_line' id='line_1_3' title="bbox 44 170 2006 209; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_14' title='bbox 44 173 71 201; x_wconf 95'>1.</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 99 171 380 209; x_wconf 96'>Unabhängigkeit</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 405 180 468 201; x_wconf 95'>von</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 496 170 620 209; x_wconf 93'>großen</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 649 172 980 209; x_wconf 91'>Energieversorgern:</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1006 171 1224 201; x_wconf 96'>Verbraucher</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1250 171 1356 201; x_wconf 96'>haben</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1384 172 1456 201; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1483 170 1620 209; x_wconf 96'>größere</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1648 171 1809 201; x_wconf 96'>Kontrolle</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1837 171 1916 201; x_wconf 96'>über</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1942 171 2006 201; x_wconf 96'>ihre</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 43 236 1560 275; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_26' title='bbox 43 237 371 275; x_wconf 92'>Energieproduktion</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 387 237 451 267; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 467 237 595 267; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 611 237 857 275; x_wconf 96'>unabhängiger</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 868 246 931 267; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 946 236 1070 275; x_wconf 93'>großen</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1086 238 1406 275; x_wconf 92'>Energieversorgern</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1420 237 1560 267; x_wconf 95'>werden.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 41 303 2006 407">
+     <span class='ocr_line' id='line_1_5' title="bbox 43 303 2006 341; baseline 0 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_34' title='bbox 43 304 71 333; x_wconf 93'>2.</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 105 304 277 341; x_wconf 90'>Geringere</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 309 303 633 341; x_wconf 91'>Transportverluste:</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 668 305 710 333; x_wconf 95'>Da</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 744 303 795 333; x_wconf 95'>die</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 830 304 960 341; x_wconf 96'>Energie</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 994 303 1094 333; x_wconf 96'>näher</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1125 312 1165 333; x_wconf 96'>an</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1199 303 1262 333; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1295 303 1534 333; x_wconf 96'>Verbrauchern</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1568 307 1702 341; x_wconf 96'>erzeugt</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1733 303 1818 338; x_wconf 96'>wird,</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1852 303 1921 333; x_wconf 95'>sind</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1955 303 2006 333; x_wconf 95'>die</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 41 368 1188 407; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_48' title='bbox 41 369 355 407; x_wconf 92'>Transportverluste</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 369 370 523 407; x_wconf 96'>geringer,</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 537 378 603 399; x_wconf 96'>was</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 616 378 654 399; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 669 370 756 399; x_wconf 96'>einer</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 770 369 913 399; x_wconf 96'>höheren</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 930 368 1077 399; x_wconf 96'>Effizienz</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1089 368 1188 399; x_wconf 96'>führt.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 435 2008 605">
+     <span class='ocr_line' id='line_1_7' title="bbox 42 435 2008 473; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_56' title='bbox 42 437 71 465; x_wconf 95'>3.</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 92 435 272 473; x_wconf 96'>Förderung</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 292 435 523 465; x_wconf 96'>erneuerbarer</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 543 436 705 473; x_wconf 96'>Energien:</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 726 435 915 465; x_wconf 93'>Dezentrale</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 936 436 1267 473; x_wconf 92'>Energieversorgung</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1288 435 1471 465; x_wconf 96'>erleichtert</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1490 435 1541 465; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1562 436 1757 473; x_wconf 96'>Integration</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1777 435 2008 465; x_wconf 96'>erneuerbarer</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 43 500 2005 539; baseline 0.001 -9; x_size 36; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_66' title='bbox 43 502 195 539; x_wconf 95'>Energien</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 223 501 287 531; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 316 501 474 531; x_wconf 96'>reduziert</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 500 501 563 531; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 592 500 708 531; x_wconf 96'>Bedarf</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 733 510 773 531; x_wconf 96'>an</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 799 500 933 531; x_wconf 93'>fossilen</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 962 500 1189 531; x_wconf 92'>Brennstoffen</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1217 500 1279 536; x_wconf 96'>(die</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1306 501 1468 531; x_wconf 96'>brauchen</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1497 501 1633 531; x_wconf 96'>nämlich</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1658 502 1738 539; x_wconf 96'>jetzt</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1764 501 1815 531; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1841 501 2005 531; x_wconf 96'>zentralen</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 566 1681 605; baseline 0.001 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_80' title='bbox 43 568 348 605; x_wconf 96'>Energieversorger,</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 364 567 524 597; x_wconf 96'>nachdem</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 539 567 589 597; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 604 567 724 597; x_wconf 93'>letzten</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 741 566 1012 597; x_wconf 92'>Kernkraftwerke</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1026 567 1202 605; x_wconf 96'>abgestellt</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1214 567 1356 602; x_wconf 95'>wurden,</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1371 567 1560 597; x_wconf 96'>Sarkasmus</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1575 566 1681 602; x_wconf 95'>Ende).</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 41 655 1337 693">
+     <span class='ocr_line' id='line_1_10' title="bbox 41 655 1337 693; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_89' title='bbox 41 655 163 685; x_wconf 96'>Jedoch</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 178 655 247 693; x_wconf 96'>gibt</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 260 664 295 685; x_wconf 95'>es</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 308 655 389 685; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 404 656 509 693; x_wconf 96'>einige</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 524 655 688 685; x_wconf 96'>Nachteile</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 702 655 759 685; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 771 655 980 685; x_wconf 93'>dezentralen</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 996 656 1337 693; x_wconf 91'>Energieversorgung:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 41 743 2006 847">
+     <span class='ocr_line' id='line_1_11' title="bbox 44 743 2006 782; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_98' title='bbox 44 745 71 773; x_wconf 91'>1.</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 96 743 339 774; x_wconf 91'>Schwankende</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 362 743 615 782; x_wconf 96'>Verfügbarkeit:</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 642 743 856 773; x_wconf 96'>Erneuerbare</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 882 743 1145 782; x_wconf 96'>Energiequellen</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1169 745 1228 773; x_wconf 96'>wie</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1254 745 1363 774; x_wconf 96'>Sonne</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1388 743 1452 773; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1477 743 1566 773; x_wconf 96'>Wind</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 1592 743 1661 773; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1686 743 1827 773; x_wconf 96'>variabel</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1852 743 1915 773; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1942 743 2006 773; x_wconf 96'>ihre</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 809 698 847; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_111' title='bbox 41 809 285 847; x_wconf 96'>Verfügbarkeit</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 300 809 382 839; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 397 809 483 839; x_wconf 96'>stark</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 496 809 698 839; x_wconf 96'>schwanken.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 43 875 2007 980">
+     <span class='ocr_line' id='line_1_13' title="bbox 43 875 2007 914; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_115' title='bbox 43 877 71 905; x_wconf 96'>2.</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 87 875 339 906; x_wconf 96'>Skalierbarkeit:</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 357 877 410 905; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 425 875 612 905; x_wconf 93'>dezentrale</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 629 877 959 914; x_wconf 91'>Energieversorgung</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 974 877 1066 905; x_wconf 96'>weist</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1082 876 1110 905; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1125 875 1229 905; x_wconf 96'>vielen</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 1247 875 1348 905; x_wconf 96'>Fällen</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1366 875 1542 914; x_wconf 96'>begrenzte</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1558 875 1801 906; x_wconf 96'>Skalierbarkeit</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1816 875 1872 905; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1887 875 1951 905; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1968 877 2007 905; x_wconf 95'>ist</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 941 1159 980; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_129' title='bbox 43 941 129 971; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 142 941 362 977; x_wconf 96'>ausreichend,</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 378 950 431 971; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 446 941 509 971; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 524 945 696 980; x_wconf 96'>gesamten</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 712 941 963 980; x_wconf 96'>Energiebedarf</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 974 951 1012 971; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1027 941 1159 972; x_wconf 95'>decken.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 42 1007 2006 1112">
+     <span class='ocr_line' id='line_1_15' title="bbox 42 1007 2006 1046; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_137' title='bbox 42 1009 71 1037; x_wconf 95'>3.</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 88 1007 235 1038; x_wconf 93'>Zentrale</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 254 1009 594 1046; x_wconf 91'>Energieversorgung:</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 614 1009 667 1037; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 684 1007 826 1037; x_wconf 93'>zentrale</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 845 1008 1175 1046; x_wconf 91'>Energieversorgung</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1195 1007 1315 1038; x_wconf 96'>basiert</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1331 1007 1388 1037; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1402 1009 1550 1046; x_wconf 96'>wenigen</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1569 1007 1693 1046; x_wconf 95'>großen</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 1712 1007 1937 1043; x_wconf 96'>Kraftwerken,</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1956 1007 2006 1037; x_wconf 96'>die</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1073 1807 1112; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_149' title='bbox 42 1075 113 1104; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 127 1073 229 1112; x_wconf 96'>große</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 244 1075 361 1112; x_wconf 96'>Menge</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 374 1082 414 1103; x_wconf 96'>an</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 431 1075 560 1112; x_wconf 96'>Energie</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 574 1082 735 1112; x_wconf 96'>erzeugen</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 751 1073 814 1103; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 830 1073 918 1103; x_wconf 96'>diese</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 933 1073 1012 1103; x_wconf 96'>über</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1025 1073 1083 1103; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1097 1075 1281 1104; x_wconf 96'>Stromnetz</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1295 1082 1334 1103; x_wconf 95'>an</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 1349 1073 1400 1103; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 1413 1073 1631 1103; x_wconf 96'>Verbraucher</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 1642 1073 1807 1104; x_wconf 96'>verteilen.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

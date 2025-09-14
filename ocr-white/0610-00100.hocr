@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0610-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 17 2007 1067">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 17 2005 121">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 2005 55; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 30'>«</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 67 17 470 55; x_wconf 92' lang='deu'>Zentralbatteriesystem:</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 487 18 536 46; x_wconf 96' lang='deu'>Ein</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 553 18 688 55; x_wconf 96' lang='deu'>System,</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 705 17 763 47; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 778 18 849 47; x_wconf 96' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 864 17 1006 47; x_wconf 93' lang='deu'>zentrale</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1023 17 1285 47; x_wconf 92' lang='deu'>Batterieeinheit</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1298 17 1495 52; x_wconf 96' lang='deu'>verwendet,</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1512 25 1565 47; x_wconf 95' lang='deu'>um</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1582 17 1728 47; x_wconf 93' lang='deu'>mehrere</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1744 17 1960 47; x_wconf 92' lang='deu'>Notleuchten</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1977 18 2005 46; x_wconf 96' lang='deu'>in</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 83 567 121; baseline -0.002 -8; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_14' title='bbox 42 84 148 113; x_wconf 96' lang='deu'>einem</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 163 83 319 113; x_wconf 96' lang='deu'>Gebäude</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 332 92 370 113; x_wconf 96' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 383 91 567 121; x_wconf 95' lang='deu'>versorgen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 149 1690 187">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 149 1690 187; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_18' title='bbox 42 162 53 173; x_wconf 68'>«</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 68 149 446 187; x_wconf 91'>Einzelbatteriesystem:</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 462 150 511 178; x_wconf 97' lang='deu'>Ein</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 527 150 662 187; x_wconf 95' lang='deu'>System,</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 677 149 735 179; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 745 149 837 187; x_wconf 93'>jeder</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 851 149 1044 179; x_wconf 91' lang='deu'>Notleuchte</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1058 150 1130 179; x_wconf 96' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1144 150 1259 187; x_wconf 93' lang='deu'>eigene</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1275 149 1537 179; x_wconf 92' lang='deu'>Batterieeinheit</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1549 150 1690 179; x_wconf 92' lang='deu'>zuweist.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 214 2006 319">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 2006 253; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_29' title='bbox 42 228 53 239; x_wconf 16'>«</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 73 215 409 253; x_wconf 91' lang='deu'>Dauerbeleuchtung:</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 431 215 656 250; x_wconf 91' lang='deu'>Notleuchten,</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 677 215 728 245; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 748 216 861 245; x_wconf 96' lang='deu'>immer</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 879 215 1117 253; x_wconf 96' lang='deu'>eingeschaltet</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1136 215 1274 250; x_wconf 96' lang='deu'>bleiben,</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1295 223 1348 245; x_wconf 96' lang='deu'>um</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1369 215 1418 245; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1439 216 1545 245; x_wconf 96' lang='deu'>einem</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1565 214 1791 245; x_wconf 96' lang='deu'>Stromausfall</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1810 214 1916 245; x_wconf 96' lang='deu'>sofort</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1935 216 2006 245; x_wconf 96' lang='deu'>eine</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 281 587 319; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_42' title='bbox 43 281 263 319; x_wconf 96' lang='deu'>Beleuchtung</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 277 290 315 311; x_wconf 96' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 330 281 587 319; x_wconf 95' lang='deu'>gewährleisten.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 347 2005 451">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 347 2005 385; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_45' title='bbox 42 360 53 371; x_wconf 80'>*</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 72 347 505 385; x_wconf 92' lang='eng'>Rettungszeichenleuchte:</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 525 348 596 377; x_wconf 93'>Eine</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 615 347 818 382; x_wconf 91' lang='eng'>Notleuchte,</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 837 347 887 377; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 905 347 1056 384; x_wconf 93'>spezielle</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1075 347 1366 385; x_wconf 91'>Rettungszeichen</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1385 348 1522 385; x_wconf 96'>anzeigt,</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1541 355 1594 377; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1614 348 1774 377; x_wconf 96'>Personen</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1793 347 1856 377; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1874 348 1949 385; x_wconf 96'>Weg</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1968 356 2005 377; x_wconf 96' lang='eng'>zu</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 43 413 983 451; baseline -0.001 -8; x_size 38; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_58' title='bbox 43 414 298 451; x_wconf 91'>Notausgängen</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 313 413 393 443; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 406 413 548 443; x_wconf 92'>anderen</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 564 413 788 451; x_wconf 92'>Fluchtwegen</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 803 422 840 443; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 854 414 983 443; x_wconf 96'>weisen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 478 2006 583">
+     <span class='ocr_line' id='line_1_8' title="bbox 42 478 2006 517; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_64' title='bbox 42 492 53 503; x_wconf 45'>+</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 77 478 426 509; x_wconf 87'>Priifzeichenleuchte:</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 451 480 523 509; x_wconf 93'>Eine</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 547 479 750 514; x_wconf 92' lang='deu'>Notleuchte,</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 774 479 825 509; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 848 480 985 517; x_wconf 96' lang='deu'>anzeigt,</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1010 479 1052 509; x_wconf 96'>ob</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1076 479 1134 509; x_wconf 96' lang='deu'>das</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1157 480 1283 517; x_wconf 96' lang='deu'>System</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1307 478 1599 517; x_wconf 96' lang='deu'>ordnungsgemäß</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1620 478 1834 509; x_wconf 96' lang='deu'>funktioniert</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1857 479 1921 509; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1945 479 2006 509; x_wconf 96'>alle</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 545 859 583; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_77' title='bbox 43 546 182 582; x_wconf 96' lang='deu'>Lampen</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 198 545 261 575; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 278 546 438 575; x_wconf 96' lang='deu'>Batterien</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 453 546 481 574; x_wconf 96' lang='deu'>in</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 496 548 609 583; x_wconf 96' lang='deu'>gutem</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 623 545 764 575; x_wconf 96' lang='deu'>Zustand</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 779 545 859 575; x_wconf 96' lang='deu'>sind.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 610 2006 715">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 610 2006 649; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_84' title='bbox 42 624 53 635; x_wconf 63'>+</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 83 611 267 641; x_wconf 91'>Selbsttest:</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 299 612 348 640; x_wconf 96' lang='deu'>Ein</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 379 611 634 641; x_wconf 96' lang='deu'>automatischer</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 661 612 741 646; x_wconf 96' lang='deu'>Test,</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 772 611 829 641; x_wconf 96' lang='deu'>der</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 858 610 1056 649; x_wconf 96' lang='deu'>regelmäßig</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1087 610 1322 649; x_wconf 96' lang='deu'>durchgeführt</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1349 611 1434 646; x_wconf 96'>wird,</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1466 619 1518 641; x_wconf 95' lang='deu'>um</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1548 611 1820 646; x_wconf 45' lang='deu'>sicherzustellen,</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1851 611 1926 641; x_wconf 96' lang='deu'>dass</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1955 611 2006 641; x_wconf 96'>die</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 43 676 565 715; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_97' title='bbox 43 677 328 715; x_wconf 92' lang='deu'>Notbeleuchtung</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 342 676 565 707; x_wconf 96' lang='deu'>funktioniert.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 742 2007 847">
+     <span class='ocr_line' id='line_1_12' title="bbox 42 742 2007 781; baseline 0.001 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_99' title='bbox 42 756 53 767; x_wconf 47'>+</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 105 744 268 781; x_wconf 95' lang='deu'>Wartung:</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 323 742 552 781; x_wconf 95' lang='deu'>Regelmäßige</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 606 743 833 780; x_wconf 94' lang='deu'>Inspektionen</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 888 743 951 773; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1005 743 1334 781; x_wconf 90' lang='deu'>Wartungsarbeiten,</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1389 751 1441 773; x_wconf 91'>um</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1495 743 1767 778; x_wconf 67'>sicherzustellen,</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 1821 743 1896 773; x_wconf 94' lang='deu'>dass</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1949 743 2007 773; x_wconf 94'>das</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 43 809 961 847; baseline -0.001 -8; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_109' title='bbox 43 809 471 847; x_wconf 92' lang='deu'>Notbeleuchtungssystem</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 483 809 639 847; x_wconf 96' lang='deu'>jederzeit</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 653 809 900 839; x_wconf 96' lang='deu'>betriebsbereit</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 914 810 961 839; x_wconf 96' lang='deu'>ist.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 42 897 371 933">
+     <span class='ocr_line' id='line_1_14' title="bbox 42 897 371 933; baseline -0.003 -6; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_113' title='bbox 42 897 178 933; x_wconf 96'>Quellen</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 194 897 258 927; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 274 897 371 927; x_wconf 96'>Links:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 42 962 548 1001">
+     <span class='ocr_line' id='line_1_15' title="bbox 42 962 548 1001; baseline 0.002 -9; x_size 37; x_descenders 6; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_116' title='bbox 42 977 53 987; x_wconf 68'>«</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 67 962 548 1001; x_wconf 90'>https://www.vde-verlag.de</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 42 1028 490 1067">
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1028 490 1067; baseline 0 -8; x_size 37; x_descenders 6; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_118' title='bbox 42 1043 53 1053; x_wconf 64'>«</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 67 1028 490 1067; x_wconf 91'>https://www.vdma.org/</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

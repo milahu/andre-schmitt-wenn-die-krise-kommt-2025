@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0535-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 16 1389 1068">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 16 774 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 16 774 55; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 63'>«</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 67 16 774 55; x_wconf 89'>https://www.babs.admin.ch/de/zs.html</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 82 631 121">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 631 121; baseline 0.002 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_3' title='bbox 42 96 53 107; x_wconf 64'>«</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 67 82 631 121; x_wconf 90'>https://www.krisenvorsorge.at/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 148 530 187">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 148 530 187; baseline 0.002 -9; x_size 35.537014; x_descenders 5.5370126; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_5' title='bbox 42 162 53 173; x_wconf 66'>«</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 67 148 530 187; x_wconf 90'>https://shop.conserva.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 214 558 253">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 558 253; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 42 228 53 239; x_wconf 59'>«</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 67 214 558 253; x_wconf 90'>https://www.shtfplan.com/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 280 543 319">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 280 543 319; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_9' title='bbox 42 294 53 305; x_wconf 64'>«</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 67 280 543 319; x_wconf 55'>https://www.ready.qgov/kit</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 369 323 399">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 369 323 399; baseline 0 0; x_size 35.537014; x_descenders 5.5370126; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_11' title='bbox 42 371 136 399; x_wconf 93'>Essen</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 151 369 323 399; x_wconf 90'>Checkliste</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 434 579 473">
+     <span class='ocr_line' id='line_1_7' title="bbox 42 434 579 473; baseline 0 -8; x_size 36; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_13' title='bbox 42 449 53 459; x_wconf 65'>«</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 67 434 579 473; x_wconf 78'>https://www.ready.gov/food</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 500 1248 685">
+     <span class='ocr_line' id='line_1_8' title="bbox 43 500 1198 539; baseline 0.001 -9; x_size 36; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_15' title='bbox 43 501 159 531; x_wconf 93'>Fleisch</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 172 501 344 531; x_wconf 93' lang='deu'>Trocknen:</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 359 500 1198 539; x_wconf 38'>https://www.fao.org/3/x6932e/x6932e02.htm</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 42 566 1248 605; baseline 0 -8; x_size 36; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_18' title='bbox 42 566 356 605; x_wconf 91'>Gefriertrocknung:</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 371 566 1248 605; x_wconf 60'>https://www.youtube.com/watch?v=buPlioiOLsU</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 42 657 119 685; baseline 0 0; x_size 33.080391; x_descenders 5.0803914; x_ascenders 8.7318068">
+      <span class='ocrx_word' id='word_1_20' title='bbox 42 657 119 685; x_wconf 96'>EMP</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 42 721 948 759">
+     <span class='ocr_line' id='line_1_11' title="bbox 42 721 948 759; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_21' title='bbox 42 735 53 746; x_wconf 66'>«</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 67 721 948 759; x_wconf 58'>https://www.youtube.com/watch?v=INx_YfK-YKg</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 42 811 322 847">
+     <span class='ocr_line' id='line_1_12' title="bbox 42 811 322 847; baseline 0 -8; x_size 35; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_23' title='bbox 42 811 189 840; x_wconf 90'>Inventur</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 199 811 322 847; x_wconf 96'>System</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 42 875 545 913">
+     <span class='ocr_line' id='line_1_13' title="bbox 42 875 545 913; baseline 0 -8; x_size 35.537014; x_descenders 5.5370126; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_25' title='bbox 42 889 52 900; x_wconf 71'>«</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 67 875 545 913; x_wconf 90'>https://prepper-nerd.com/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 40 941 1389 1068">
+     <span class='ocr_line' id='line_1_14' title="bbox 42 941 1389 980; baseline 0 -9; x_size 35.537014; x_descenders 5.5370126; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_27' title='bbox 42 955 52 966; x_wconf 73'>«</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 67 941 1389 980; x_wconf 87'>https://sicherheitsplus.com/notvorrat-online-rechner-zur-vorratshaltung/</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 40 1029 471 1068; baseline -0.002 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_29' title='bbox 40 1030 210 1068; x_wconf 92'>Absaugen</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 224 1038 284 1060; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 298 1029 471 1060; x_wconf 92'>Kraftstoff</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

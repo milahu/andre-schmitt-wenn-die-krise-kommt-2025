@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0399-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2007 1037">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 1333 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 1333 55; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 17 321 55; x_wconf 91'>„Schonhaltung“</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 335 17 433 47; x_wconf 96'>durch</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 448 18 519 47; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 534 17 697 54; x_wconf 93'>bequeme</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 713 17 867 47; x_wconf 91'>Knierolle</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 882 18 1079 47; x_wconf 96'>unterstützt</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1091 17 1221 47; x_wconf 96'>werden</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1237 25 1333 47; x_wconf 96'>muss.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 83 846 121">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 83 846 121; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 42 96 53 107; x_wconf 33'>«</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 68 84 117 113; x_wconf 96' lang='deu'>Bei</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 131 84 288 113; x_wconf 96' lang='deu'>Atemnot</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 301 83 364 113; x_wconf 96' lang='deu'>den</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 379 83 583 120; x_wconf 96' lang='deu'>Oberkörper</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 595 83 713 113; x_wconf 96' lang='deu'>erhöht</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 727 83 846 121; x_wconf 95' lang='deu'>lagern.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 148 2005 333">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 148 2005 187; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_16' title='bbox 42 162 53 173; x_wconf 37'>«</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 78 150 137 179; x_wconf 96' lang='deu'>Der</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 161 148 347 179; x_wconf 96' lang='deu'>Betroffene</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 371 148 444 179; x_wconf 96' lang='deu'>darf</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 466 148 523 179; x_wconf 96' lang='deu'>auf</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 546 149 659 179; x_wconf 96' lang='deu'>keinen</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 685 149 744 179; x_wconf 96' lang='deu'>Fall</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 767 152 869 179; x_wconf 96' lang='deu'>etwas</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 893 157 987 179; x_wconf 96' lang='deu'>essen</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1012 149 1092 179; x_wconf 96' lang='deu'>oder</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1113 149 1237 179; x_wconf 96' lang='deu'>trinken</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1263 148 1389 187; x_wconf 96'>(wegen</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1414 149 1470 179; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1493 148 1544 179; x_wconf 96' lang='deu'>oft</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1568 149 1799 187; x_wconf 96' lang='deu'>notwendigen</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1823 148 2005 187; x_wconf 96' lang='deu'>sofortigen</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 1948 253; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_32' title='bbox 42 214 242 252; x_wconf 95' lang='deu'>Operation).</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 255 215 342 245; x_wconf 96' lang='deu'>Auch</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 358 215 598 245; x_wconf 96' lang='deu'>Medikamente</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 610 216 670 245; x_wconf 96' lang='deu'>wie</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 684 215 943 245; x_wconf 96' lang='deu'>Schmerzmittel</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 956 215 1026 245; x_wconf 96' lang='deu'>sind</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1039 215 1207 250; x_wconf 96' lang='deu'>verboten,</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1222 215 1262 245; x_wconf 95' lang='deu'>da</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1276 216 1321 245; x_wconf 95' lang='deu'>sie</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1335 215 1386 245; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1400 215 1550 245; x_wconf 96' lang='deu'>ärztliche</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1565 216 1726 253; x_wconf 95' lang='deu'>Diagnose</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1740 215 1948 245; x_wconf 95' lang='deu'>erschweren.</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 42 303 308 333; baseline 0.004 -1; x_size 38.696236; x_descenders 8.6962337; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_45' title='bbox 42 303 308 333; x_wconf 92' lang='deu'>Knochenbrüche</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 41 368 2007 539">
+     <span class='ocr_line' id='line_1_6' title="bbox 43 368 2005 407; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_46' title='bbox 43 369 318 399; x_wconf 92'>Knochenbrüche</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 334 369 397 399; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 414 369 769 407; x_wconf 91'>Gelenkverletzungen</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 784 369 853 399; x_wconf 93'>sind</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 868 369 1248 407; x_wconf 92'>Verletzungszustände,</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1264 369 1315 399; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1329 368 1395 399; x_wconf 96'>fast</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1410 370 1523 399; x_wconf 96'>immer</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1537 370 1594 399; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1609 369 1802 399; x_wconf 96'>Schmerzen</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1816 369 2005 399; x_wconf 96'>verbunden</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 41 434 2007 473; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_57' title='bbox 41 435 121 465; x_wconf 96'>sind.</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 136 435 240 465; x_wconf 96'>Daher</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 250 435 430 465; x_wconf 96'>vermeidet</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 443 435 493 465; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 505 435 661 465; x_wconf 96'>verletzte</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 675 437 792 465; x_wconf 96'>Person</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 807 437 1033 473; x_wconf 96'>Bewegungen</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1048 435 1104 465; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1117 434 1325 465; x_wconf 96'>betroffenen</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1340 434 1562 465; x_wconf 96'>Gliedmaßen.</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1577 437 1621 465; x_wconf 96'>Du</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1635 435 1682 465; x_wconf 93'>als</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1696 434 1867 465; x_wconf 92'>Ersthelfer</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1879 435 2007 465; x_wconf 96'>solltest</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 42 501 1022 539; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_71' title='bbox 42 501 279 539; x_wconf 96'>grundsätzlich</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 295 501 386 531; x_wconf 93'>keine</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 401 501 759 539; x_wconf 92'>Bewegungsversuche</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 774 501 1022 531; x_wconf 96'>unternehmen!</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 43 589 787 624">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 589 787 624; baseline 0 -5; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_75' title='bbox 43 589 206 619; x_wconf 96'>Erkennen</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 219 598 282 619; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 298 589 787 624; x_wconf 92'>Knochenbrüchen/Frakturen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 655 608 693">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 655 608 693; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_78' title='bbox 42 669 53 680; x_wconf 51'>«</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 67 655 311 693; x_wconf 91'>Schonhaltung</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 327 655 385 685; x_wconf 96' lang='deu'>des</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 400 655 608 685; x_wconf 96' lang='deu'>Betroffenen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 42 721 832 759">
+     <span class='ocr_line' id='line_1_11' title="bbox 42 721 832 759; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_82' title='bbox 42 735 53 746; x_wconf 55'>*</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 68 721 295 751; x_wconf 91'>Unnatürliche</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 310 723 390 759; x_wconf 96'>Lage</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 405 721 607 751; x_wconf 96'>betroffener</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 620 721 832 751; x_wconf 96'>Gliedmaßen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 787 1042 825">
+     <span class='ocr_line' id='line_1_12' title="bbox 42 787 1042 825; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_87' title='bbox 42 801 53 812; x_wconf 42'>«</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 68 787 528 825; x_wconf 91' lang='deu'>Bewegungseinschränkung</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 543 787 623 817; x_wconf 93' lang='deu'>oder</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 637 787 1042 825; x_wconf 91' lang='deu'>Bewegungsunfähigkeit</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 42 853 639 883">
+     <span class='ocr_line' id='line_1_13' title="bbox 42 853 639 883; baseline 0 0; x_size 38.300949; x_descenders 8.3009501; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_91' title='bbox 42 867 53 878; x_wconf 48'>«</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 67 853 218 883; x_wconf 96'>Schmerz</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 232 854 272 883; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 288 853 414 883; x_wconf 96' lang='deu'>Bereich</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 429 853 488 883; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 502 853 639 883; x_wconf 92' lang='deu'>Bruches</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='deu' title="bbox 42 919 838 957">
+     <span class='ocr_line' id='line_1_14' title="bbox 42 919 838 957; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_97' title='bbox 65 919 198 955; x_wconf 96'>Wunde,</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 213 919 485 957; x_wconf 96'>gegebenenfalls</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 498 919 674 949; x_wconf 96'>sichtbarer</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 688 919 838 949; x_wconf 96'>Knochen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='deu' title="bbox 43 1007 601 1037">
+     <span class='ocr_line' id='line_1_15' title="bbox 43 1007 601 1037; baseline 0 0; x_size 38.300949; x_descenders 8.3009501; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_101' title='bbox 43 1009 128 1037; x_wconf 96'>Erste</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 144 1007 224 1037; x_wconf 96'>Hilfe</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 239 1007 288 1037; x_wconf 93'>bei</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 304 1007 601 1037; x_wconf 92'>Knochenbrüchen</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0521-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 562 1686 650">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 365 562 1686 650">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 562 1686 650; baseline 0.002 -20; x_size 88; x_descenders 19; x_ascenders 20">
+      <span class='ocrx_word' id='word_1_1' title='bbox 365 562 664 649; x_wconf 96'>Kapitel</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 693 565 795 632; x_wconf 93' lang='eng'>04</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 821 601 867 612; x_wconf 34' lang='eng'>-</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 898 562 1093 632; x_wconf 96'>Fazit</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1125 563 1279 632; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1310 563 1686 650; x_wconf 96'>Anhänge</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

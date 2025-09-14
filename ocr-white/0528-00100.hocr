@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0528-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 14 1331 1081">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 57 14 484 45">
+     <span class='ocr_line' id='line_1_1' title="bbox 57 14 484 45; baseline 0 -7; x_size 29.688961; x_descenders 5.6889606; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 57 26 66 34; x_wconf 89'>«</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 77 14 193 45; x_wconf 91' lang='deu'>Splitter-</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 205 14 256 39; x_wconf 93' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 268 14 484 45; x_wconf 91' lang='deu'>Zeckenpinzette</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 57 78 591 103">
+     <span class='ocr_line' id='line_1_2' title="bbox 57 78 591 103; baseline 0 -1; x_size 29.688961; x_descenders 5.6889606; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_5' title='bbox 57 90 66 98; x_wconf 80'>+</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 78 80 156 103; x_wconf 92'>Haut-</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 167 78 218 102; x_wconf 93' lang='eng'>und</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 230 78 591 103; x_wconf 91' lang='eng'>Wunddesinfektionsmittel</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 57 142 279 173">
+     <span class='ocr_line' id='line_1_3' title="bbox 57 142 279 173; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_9' title='bbox 57 154 66 162; x_wconf 84'>«</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 78 142 279 173; x_wconf 92'>Blasenpflaster</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 57 206 567 235">
+     <span class='ocr_line' id='line_1_4' title="bbox 57 206 567 235; baseline 0 -5; x_size 29; x_descenders 5; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_11' title='bbox 57 218 66 226; x_wconf 80'>+</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 78 206 345 231; x_wconf 89' lang='eng'>Einmalhandschuhe</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 356 206 369 235; x_wconf 89' lang='eng'>/</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 381 206 567 231; x_wconf 91' lang='eng'>FFP3-Masken</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 41 270 1331 499">
+     <span class='ocr_line' id='line_1_5' title="bbox 57 270 735 299; baseline 0 -5; x_size 29; x_descenders 5; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_15' title='bbox 57 282 66 290; x_wconf 86'>+</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 76 270 328 295; x_wconf 92' lang='eng'>Verbandsmaterial</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 339 270 397 299; x_wconf 91' lang='eng'>(DIN</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 411 270 735 299; x_wconf 83' lang='eng'>13164-Verbandkasten)</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 43 369 846 405; baseline 0 0; x_size 44.700764; x_descenders 8.7007627; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_19' title='bbox 43 371 120 405; x_wconf 93' lang='eng'>3.2.</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 139 369 491 405; x_wconf 91' lang='eng'>Haushaltswaren</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 508 371 540 405; x_wconf 92' lang='eng'>&amp;</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 558 369 846 405; x_wconf 90' lang='eng'>Lebensmittel</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 41 461 1331 499; baseline 0 -8; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_23' title='bbox 41 461 92 492; x_wconf 93' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 107 463 118 491; x_wconf 96' lang='eng'>1</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 139 463 265 497; x_wconf 93' lang='eng'>Person,</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 280 462 491 492; x_wconf 91' lang='eng'>ausreichend</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 505 461 556 492; x_wconf 95' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 568 470 613 491; x_wconf 96' lang='eng'>ca.</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 628 463 646 492; x_wconf 92' lang='eng'>3</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 663 463 803 497; x_wconf 89' lang='eng'>Monate,</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 818 462 997 499; x_wconf 91' lang='eng'>anpassbar</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1010 470 1049 491; x_wconf 96' lang='eng'>an</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1064 462 1159 492; x_wconf 95' lang='eng'>deine</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1173 463 1331 492; x_wconf 96' lang='eng'>Situation</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 55 558 785 589">
+     <span class='ocr_line' id='line_1_8' title="bbox 55 558 785 589; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_35' title='bbox 55 569 63 578; x_wconf 75'>+</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 74 560 108 582; x_wconf 96' lang='eng'>45</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 121 558 151 589; x_wconf 93' lang='eng'>kg</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 162 559 270 587; x_wconf 96'>Weizen,</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 283 559 379 587; x_wconf 96'>Gerste,</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 392 560 505 589; x_wconf 96'>Roggen,</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 518 558 611 587; x_wconf 96'>Dinkel,</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 624 558 701 582; x_wconf 96'>Hafer</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 711 559 785 589; x_wconf 96' lang='eng'>ganz!</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 55 640 542 671">
+     <span class='ocr_line' id='line_1_9' title="bbox 55 640 542 671; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_44' title='bbox 55 651 63 660; x_wconf 81'>+</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 75 641 128 664; x_wconf 93' lang='eng'>300</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 139 647 153 671; x_wconf 92' lang='eng'>g</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 164 640 345 669; x_wconf 91' lang='eng'>Trockenhefe,</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 358 640 440 664; x_wconf 96'>kleine</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 453 640 542 664; x_wconf 96' lang='eng'>Beutel</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 55 722 321 753">
+     <span class='ocr_line' id='line_1_10' title="bbox 55 722 321 753; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_50' title='bbox 55 733 63 742; x_wconf 56'>+</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 75 723 128 746; x_wconf 93' lang='eng'>300</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 139 729 153 753; x_wconf 92' lang='eng'>g</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 166 722 321 752; x_wconf 96'>Backpulver</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 55 804 623 835">
+     <span class='ocr_line' id='line_1_11' title="bbox 55 804 623 835; baseline 0 -7; x_size 28; x_descenders 4; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_54' title='bbox 55 815 63 824; x_wconf 57'>«</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 76 805 125 828; x_wconf 93'>12x</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 136 804 250 834; x_wconf 91'>Eipulver</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 260 804 304 832; x_wconf 91'>(12</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 314 805 382 828; x_wconf 91'>x125</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 394 811 409 835; x_wconf 91'>g</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 421 812 436 821; x_wconf 92'>=</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 449 805 482 828; x_wconf 92'>12</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 492 811 506 828; x_wconf 96'>x</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 518 805 551 828; x_wconf 93'>10</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 563 804 623 832; x_wconf 96' lang='deu'>Eier)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='deu' title="bbox 55 886 452 917">
+     <span class='ocr_line' id='line_1_12' title="bbox 55 886 452 917; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_65' title='bbox 55 897 63 906; x_wconf 70'>+</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 75 887 109 910; x_wconf 96' lang='eng'>20</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 121 886 151 917; x_wconf 94' lang='eng'>kg</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 164 887 218 910; x_wconf 94' lang='eng'>Reis</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 229 887 251 910; x_wconf 94' lang='eng'>in</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 265 887 298 910; x_wconf 93' lang='eng'>10</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 310 886 452 917; x_wconf 42' lang='eng'>kg-Sacken</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 55 968 529 999">
+     <span class='ocr_line' id='line_1_13' title="bbox 55 968 529 999; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_72' title='bbox 55 979 63 988; x_wconf 69'>«</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 76 970 108 992; x_wconf 96'>15</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 121 968 151 999; x_wconf 95'>kg</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 163 968 299 999; x_wconf 93'>Spaghetti</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 312 968 529 999; x_wconf 91'>1kg-Packungen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='deu' title="bbox 55 1050 349 1081">
+     <span class='ocr_line' id='line_1_14' title="bbox 55 1050 349 1081; baseline 0 -7; x_size 30; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_77' title='bbox 55 1061 63 1070; x_wconf 75'>+</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 74 1052 91 1074; x_wconf 96' lang='eng'>4</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 102 1050 132 1081; x_wconf 93' lang='eng'>kg</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 144 1050 349 1080; x_wconf 90' lang='eng'>Suppennudeln</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

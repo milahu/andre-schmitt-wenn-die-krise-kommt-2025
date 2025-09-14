@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0197-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 92 2008 844">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 97 92 164 196">
+     <span class='ocr_line' id='line_1_1' title="bbox 97 92 159 129; baseline 0 0; x_size 46.658691; x_descenders 9.6586895; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_1' title='bbox 97 92 159 129; x_wconf 1'>=</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 140 164 164 196; baseline 0 -27; x_size 39.470211; x_descenders 8.647727; x_ascenders 9.3345327">
+      <span class='ocrx_word' id='word_1_2' title='bbox 140 164 164 196; x_wconf 42' lang='eng'>A</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 40 343 2008 844">
+     <span class='ocr_line' id='line_1_3' title="bbox 43 343 2005 381; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_3' title='bbox 43 345 125 373; x_wconf 95'>Marc</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 152 343 301 373; x_wconf 95'>Friedrich</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 328 344 367 373; x_wconf 92'>ist</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 391 343 599 373; x_wconf 92'>sechsfacher</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 624 343 896 379; x_wconf 91'>Bestsellerautor,</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 924 344 1181 381; x_wconf 91'>Finanzexperte,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1207 343 1373 381; x_wconf 92'>gefragter</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1398 343 1527 379; x_wconf 92'>Redner,</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1552 343 1741 379; x_wconf 91'>Vordenker,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1768 344 1916 381; x_wconf 91'>Freigeist</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1941 343 2005 373; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 409 1946 447; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_14' title='bbox 42 409 187 439; x_wconf 96' lang='deu'>Gründer</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 199 409 256 439; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 270 409 576 447; x_wconf 89'>Honorarberatung</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 592 409 742 439; x_wconf 93'>Friedrich</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 756 409 1128 447; x_wconf 73'>Vermégenssicherung</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1143 409 1252 439; x_wconf 96'>GmbH</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1266 409 1318 439; x_wconf 93'>fiir</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1332 410 1597 447; x_wconf 96' lang='deu'>Privatpersonen</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1613 409 1677 439; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1693 409 1946 439; x_wconf 96'>Unternehmen.</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 42 497 2008 536; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_24' title='bbox 42 499 114 528; x_wconf 92'>Sein</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 133 498 247 528; x_wconf 96' lang='deu'>letzter</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 264 498 434 528; x_wconf 96'>Bestseller</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 451 499 490 528; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 506 498 564 528; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 581 497 826 536; x_wconf 93' lang='deu'>erfolgreichste</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 842 497 1131 528; x_wconf 90'>Wirtschaftsbuch</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1150 499 1248 528; x_wconf 90'>2021:</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1267 499 1320 528; x_wconf 93'>Die</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1337 497 1454 536; x_wconf 96' lang='deu'>größte</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1472 498 1598 528; x_wconf 96'>Chance</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1615 498 1692 528; x_wconf 96'>aller</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1707 499 1816 528; x_wconf 91'>Zeiten</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1832 515 1852 518; x_wconf 91'>—</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1866 500 1938 528; x_wconf 96'>Was</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1953 499 2008 527; x_wconf 96'>wir</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 40 563 1926 602; baseline -0.001 -8; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_40' title='bbox 40 565 121 602; x_wconf 95'>jetzt</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 134 572 192 594; x_wconf 95'>aus</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 205 564 262 594; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 276 565 358 594; x_wconf 96' lang='deu'>Krise</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 373 564 482 594; x_wconf 96' lang='deu'>lernen</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 498 565 628 594; x_wconf 96' lang='deu'>müssen</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 644 564 708 594; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 722 565 781 594; x_wconf 96'>wie</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 795 565 845 594; x_wconf 96'>Sie</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 857 572 932 594; x_wconf 93'>vom</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 947 563 1086 602; x_wconf 92' lang='deu'>größten</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1100 563 1443 602; x_wconf 80'>Vermogenstransfer</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1455 564 1512 594; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1526 564 1727 594; x_wconf 96' lang='deu'>Menschheit</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1741 563 1926 601; x_wconf 96' lang='deu'>profitieren</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 43 651 2004 690; baseline 0.001 -9; x_size 36; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_55' title='bbox 43 652 132 682; x_wconf 95'>Mehr</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 166 651 418 682; x_wconf 89'>Informationen</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 454 656 548 682; x_wconf 91'>unter</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 582 651 1071 690; x_wconf 89'>https://friedrich-partner.de</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1104 653 1202 682; x_wconf 96'>sowie</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1237 652 1286 682; x_wconf 95'>bei</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1320 652 1482 682; x_wconf 92'>YouTube:</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1517 651 2004 690; x_wconf 87'>https://www.youtube.com/</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 43 718 312 753; baseline 0 -6; x_size 34; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_63' title='bbox 43 718 312 753; x_wconf 78'>MarcFriedrich7,</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 41 806 758 844; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_64' title='bbox 41 807 168 836; x_wconf 95'>Twitter</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 181 806 245 836; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 262 808 447 844; x_wconf 93'>Instagram:</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 462 806 758 844; x_wconf 87'>@marcfriedrich7</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

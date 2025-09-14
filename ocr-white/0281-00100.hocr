@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0281-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 16 2007 579">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 41 16 2007 113">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 16 2007 55; baseline 0.001 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 240 47; x_wconf 96'>Haltbarkeit</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 253 25 316 47; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 332 17 407 47; x_wconf 96'>acht</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 423 17 469 47; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 483 16 580 47; x_wconf 96'>zwölf</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 593 17 709 47; x_wconf 96'>Jahren</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 727 17 843 47; x_wconf 93'>haben.</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 859 17 959 47; x_wconf 92'>Senkt</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 975 25 1049 47; x_wconf 95'>man</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1065 17 1116 47; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1133 18 1435 55; x_wconf 92'>Lagertemperatur</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1447 25 1510 47; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1527 18 1569 47; x_wconf 96'>20</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1585 18 1620 47; x_wconf 96'>°C</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1635 16 1692 47; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1708 18 1748 47; x_wconf 95'>10</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1764 18 1808 52; x_wconf 96'>°C,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1823 17 2007 55; x_wconf 96'>verlängert</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 41 83 610 113; baseline 0 -1; x_size 37.35659; x_descenders 8.3565884; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_19' title='bbox 41 83 106 113; x_wconf 96'>sich</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 121 83 172 113; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 187 83 384 113; x_wconf 96'>Haltbarkeit</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 398 83 480 113; x_wconf 96'>noch</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 493 84 610 113; x_wconf 96'>weiter.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 41 170 2007 579">
+     <span class='ocr_line' id='line_1_3' title="bbox 43 170 2005 206; baseline 0 -5; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_24' title='bbox 43 172 97 201; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 130 173 236 201; x_wconf 95'>Werte</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 271 171 417 201; x_wconf 96'>basieren</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 452 170 509 201; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 541 171 598 201; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 630 171 809 206; x_wconf 96'>Annahme,</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 844 171 920 201; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 954 171 1103 201; x_wconf 96'>Getreide</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1138 175 1232 201; x_wconf 96'>unter</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1264 171 1454 201; x_wconf 96'>Ausschluss</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1486 180 1549 201; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1585 170 1772 206; x_wconf 96'>Sauerstoff,</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1809 172 1866 201; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1899 172 2005 201; x_wconf 96'>einem</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 43 236 2007 275; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_38' title='bbox 43 237 390 275; x_wconf 90'>Feuchtigkeitsgehalt</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 410 241 504 267; x_wconf 96' lang='eng'>unter</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 524 238 565 267; x_wconf 93' lang='eng'>10</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 584 239 626 272; x_wconf 93' lang='eng'>%,</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 648 238 676 266; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 696 238 802 267; x_wconf 93'>einem</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 823 236 898 267; x_wconf 92'>luft-</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 919 237 982 267; x_wconf 93' lang='eng'>und</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1002 237 1253 267; x_wconf 92'>wasserdichten</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1275 237 1423 267; x_wconf 95'>Behälter</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1442 238 1470 266; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1490 237 1625 267; x_wconf 96'>dunkler</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1645 237 1838 275; x_wconf 96'>Umgebung</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1859 237 2007 275; x_wconf 96'>gelagert</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 41 303 2006 341; baseline 0.001 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_52' title='bbox 41 303 126 333; x_wconf 96'>wird.</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 156 305 255 333; x_wconf 96'>Unter</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 282 303 393 333; x_wconf 96'>diesen</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 424 303 656 341; x_wconf 96'>Bedingungen</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 687 303 770 333; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 799 304 871 333; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 901 303 1098 333; x_wconf 96'>Haltbarkeit</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1124 312 1187 333; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1218 303 1420 333; x_wconf 96'>mindestens</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1448 303 1530 333; x_wconf 96'>zehn</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1558 303 1675 333; x_wconf 96'>Jahren</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1704 303 1839 333; x_wconf 96'>erreicht</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1866 303 2006 333; x_wconf 95'>werden.</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 43 368 2005 407; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_65' title='bbox 43 368 262 407; x_wconf 96'>Erfahrungen</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 282 369 404 399; x_wconf 96'>deuten</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 425 368 540 399; x_wconf 96'>darauf</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 559 369 619 404; x_wconf 95'>hin,</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 640 369 715 399; x_wconf 95'>dass</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 735 369 784 399; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 805 369 995 399; x_wconf 93'>konstanter</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1014 371 1316 407; x_wconf 92'>Lagertemperatur</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1333 378 1396 399; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1416 373 1499 399; x_wconf 96'>etwa</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1520 370 1557 398; x_wconf 96'>21</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1582 370 1617 399; x_wconf 96'>°C</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1636 370 1708 399; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1729 369 1925 399; x_wconf 96'>Haltbarkeit</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1943 378 2005 399; x_wconf 96'>von</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 43 434 1870 473; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_80' title='bbox 43 435 245 465; x_wconf 96'>mindestens</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 258 435 340 465; x_wconf 96'>zehn</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 354 435 470 465; x_wconf 96'>Jahren</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 486 435 625 473; x_wconf 96'>möglich</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 640 436 687 465; x_wconf 95'>ist.</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 703 434 828 465; x_wconf 96'>Gemäß</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 841 435 898 465; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 912 434 1335 473; x_wconf 91'>Harrington-Faustformel</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1349 435 1491 473; x_wconf 96'>ergeben</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1505 435 1570 465; x_wconf 96'>sich</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1583 434 1741 473; x_wconf 96'>folgende</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1754 437 1870 465; x_wconf 96'>Werte:</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 56 509 753 579; baseline 0 0; x_size 122.60185; x_descenders 22; x_ascenders 30.601856">
+      <span class='ocrx_word' id='word_1_92' title='bbox 52 475 312 605; x_wconf 0' lang='eng'>Temperatar</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 366 475 562 605; x_wconf 33' lang='eng'>[save</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 658 509 753 579; x_wconf 33' lang='eng'>|</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

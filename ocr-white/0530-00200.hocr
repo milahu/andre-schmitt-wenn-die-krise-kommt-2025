@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0530-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 15 2005 593">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 15 853 51">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 15 853 51; baseline 0 -1; x_size 44.26403; x_descenders 9.2640285; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 29 62 50; x_wconf 83'>o</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 99 15 392 51; x_wconf 77' lang='deu'>Lorbeerblätter</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 699 26 721 51; x_wconf 85'>0</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 757 16 853 51; x_wconf 93' lang='deu'>Zimt</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 70 1206 115">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 70 1206 115; baseline -0.001 -9; x_size 46; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_5' title='bbox 42 81 64 106; x_wconf 85'>o</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 101 70 180 106; x_wconf 93' lang='deu'>Salz</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 200 72 223 106; x_wconf 93'>&amp;</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 246 70 383 106; x_wconf 96' lang='deu'>Pfeffer</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 699 81 721 106; x_wconf 90'>o</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 757 72 930 115; x_wconf 93'>Cayenne</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 945 73 1057 106; x_wconf 96' lang='deu'>Roter</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1069 70 1206 106; x_wconf 96' lang='deu'>Pfeffer</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 125 974 161">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 125 974 161; baseline 0 0; x_size 45.650032; x_descenders 9.6500301; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_13' title='bbox 42 136 64 161; x_wconf 87'>o</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 100 125 194 161; x_wconf 96'>Chili</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 699 136 721 161; x_wconf 88' lang='eng'>o</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 756 125 974 161; x_wconf 96' lang='eng'>Knoblauch</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 181 976 225">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 181 976 225; baseline 0.001 -9; x_size 45; x_descenders 9; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_17' title='bbox 42 192 64 217; x_wconf 52'>Oo</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 99 181 382 217; x_wconf 88' lang='eng'>Kreuzkiimmel</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 699 192 721 217; x_wconf 86' lang='eng'>o</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 758 181 976 225; x_wconf 89' lang='eng'>Senfpulver</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 236 914 281">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 236 914 281; baseline -0.001 -9; x_size 44; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_21' title='bbox 42 247 64 272; x_wconf 85'>o</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 100 238 271 281; x_wconf 95'>Oregano</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 699 247 721 272; x_wconf 84'>0</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 757 236 914 272; x_wconf 94' lang='deu'>Zwiebel</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 42 292 293 328">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 292 293 328; baseline -0.004 0; x_size 44.650032; x_descenders 9.6500301; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_25' title='bbox 42 303 64 328; x_wconf 47'>Oo</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 100 292 293 328; x_wconf 95'>Rosmarin</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 41 382 2005 483">
+     <span class='ocr_line' id='line_1_7' title="bbox 41 382 2005 420; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_27' title='bbox 41 382 339 420; x_wconf 92'>Vakuumverpackt</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 363 382 427 412; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 452 391 503 412; x_wconf 96'>am</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 529 382 644 412; x_wconf 96'>besten</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 669 391 721 412; x_wconf 96'>am</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 746 382 850 418; x_wconf 96'>Stück,</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 876 382 963 412; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 985 382 1032 412; x_wconf 96'>als</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1056 382 1158 412; x_wconf 96'>Puder</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1181 382 1303 420; x_wconf 93'>(später</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1325 382 1543 417; x_wconf 91'>zerkleinern).</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1566 382 1819 420; x_wconf 96'>Verpackungen</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1845 382 2005 412; x_wconf 96'>beachten</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 42 448 308 483; baseline 0 -5; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_40' title='bbox 42 448 308 483; x_wconf 91'>(Ablaufdatum).</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 43 557 469 593">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 557 469 593; baseline -0.002 0; x_size 44.650032; x_descenders 9.6500301; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_41' title='bbox 43 559 120 593; x_wconf 93'>3.3.</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 139 557 469 593; x_wconf 92'>Fluchtrucksack</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

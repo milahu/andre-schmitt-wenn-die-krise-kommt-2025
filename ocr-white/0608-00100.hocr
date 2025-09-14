@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0608-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 17 2008 1089">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 960 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 960 55; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 17 304 55; x_wconf 96'>Geräuschpegel</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 316 17 469 47; x_wconf 96'>während</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 484 17 542 47; x_wconf 96'>des</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 557 17 699 47; x_wconf 96'>Betriebs</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 712 26 749 47; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 765 17 960 47; x_wconf 96'>reduzieren.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 43 105 1416 143">
+     <span class='ocr_line' id='line_1_2' title="bbox 43 105 1416 143; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 43 106 114 135; x_wconf 96'>Hier</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 126 105 195 135; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 211 106 315 143; x_wconf 96'>einige</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 330 105 489 135; x_wconf 96'>nützliche</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 504 105 640 141; x_wconf 96'>Quellen</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 656 105 719 135; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 736 105 823 135; x_wconf 96'>Links</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 836 114 909 135; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 923 105 1043 135; x_wconf 93'>Thema</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1059 107 1416 143; x_wconf 89'>Notstromaggregate:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 170 2005 275">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 170 2005 209; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_17' title='bbox 42 185 53 195; x_wconf 70'>«</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 66 172 120 201; x_wconf 96' lang='deu'>Die</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 131 171 272 201; x_wconf 96' lang='deu'>Website</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 284 171 343 201; x_wconf 93' lang='deu'>des</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 356 171 572 201; x_wconf 92' lang='deu'>Bundesamts</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 582 170 634 201; x_wconf 93'>fiir</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 646 171 998 209; x_wconf 92' lang='deu'>Bevölkerungsschutz</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1011 171 1074 201; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1089 170 1406 209; x_wconf 92' lang='deu'>Katastrophenhilfe</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1420 171 1522 201; x_wconf 96' lang='deu'>bietet</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1535 170 1787 201; x_wconf 96' lang='deu'>Informationen</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1800 180 1873 201; x_wconf 96' lang='deu'>zum</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1885 171 2005 201; x_wconf 96' lang='deu'>Thema</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 43 236 1912 275; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_30' title='bbox 43 239 391 275; x_wconf 92' lang='deu'>Notstromaggregate</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 406 238 446 266; x_wconf 96' lang='deu'>im</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 462 239 599 267; x_wconf 96' lang='deu'>Kontext</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 611 246 673 267; x_wconf 93' lang='deu'>von</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 690 237 1042 275; x_wconf 92' lang='deu'>Katastrophenschutz</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1056 237 1120 267; x_wconf 93' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1137 238 1406 275; x_wconf 92' lang='deu'>Krisenvorsorge:</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1422 236 1662 275; x_wconf 92' lang='deu'>https://www.</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1675 236 1912 275; x_wconf 92' lang='deu'>bbk.bund.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 297 2005 407">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 297 2005 341; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_39' title='bbox 42 317 53 327; x_wconf 72'>+</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 83 304 136 333; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 164 303 305 333; x_wconf 96' lang='deu'>Website</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 333 303 392 333; x_wconf 96' lang='deu'>des</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 419 297 494 333; x_wconf 95' lang='deu'>TÜV</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 522 297 594 333; x_wconf 95' lang='deu'>SÜD</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 625 303 727 333; x_wconf 96' lang='deu'>bietet</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 755 304 827 333; x_wconf 96' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 856 302 1099 341; x_wconf 96' lang='deu'>umfangreiche</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1130 302 1324 341; x_wconf 96' lang='deu'>Einführung</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1354 304 1382 332; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1412 303 1470 333; x_wconf 96' lang='deu'>das</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1497 303 1617 333; x_wconf 93' lang='deu'>Thema</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1648 305 2005 341; x_wconf 91' lang='deu'>Notstromaggregate,</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 42 368 729 407; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_53' title='bbox 42 368 279 399; x_wconf 95' lang='deu'>einschließlich</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 293 369 497 399; x_wconf 96' lang='deu'>technischer</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 509 369 651 407; x_wconf 96' lang='deu'>Aspekte</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 665 369 729 399; x_wconf 96' lang='deu'>und</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 41 434 940 473">
+     <span class='ocr_line' id='line_1_7' title="bbox 41 434 940 473; baseline 0.001 -9; x_size 36; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_57' title='bbox 41 435 437 473; x_wconf 90'>Anwendungsbeispiele:</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 453 434 940 473; x_wconf 91'>https://www.tuev-sued.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 495 2005 605">
+     <span class='ocr_line' id='line_1_8' title="bbox 42 495 2005 539; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_59' title='bbox 42 515 53 525; x_wconf 72'>«</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 67 503 127 531; x_wconf 96'>Der</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 140 501 299 539; x_wconf 96'>Ratgeber</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 311 501 369 531; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 381 501 724 539; x_wconf 88'>Verbraucherportals</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 737 500 1018 536; x_wconf 89' lang='deu'>„Strom-Info.de“</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1033 501 1134 531; x_wconf 96' lang='deu'>bietet</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1147 502 1218 531; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1233 495 1400 531; x_wconf 96' lang='deu'>Übersicht</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1413 501 1492 531; x_wconf 96' lang='deu'>über</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1503 501 1554 531; x_wconf 97'>die</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1566 501 1820 531; x_wconf 93'>verschiedenen</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1832 503 1930 531; x_wconf 96' lang='deu'>Arten</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1943 510 2005 531; x_wconf 96'>von</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 566 1694 605; baseline 0 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_73' title='bbox 43 569 414 605; x_wconf 91'>Notstromaggregaten</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 428 568 526 597; x_wconf 96'>sowie</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 539 568 634 605; x_wconf 96'>Tipps</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 647 576 701 597; x_wconf 96'>zur</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 713 567 862 597; x_wconf 95'>Auswahl</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 876 567 940 597; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 954 576 1027 597; x_wconf 93'>zum</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1044 567 1177 597; x_wconf 90'>Betrieb:</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1193 566 1694 605; x_wconf 88'>https://www.strom-info.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 655 258 685">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 655 258 685; baseline 0 0; x_size 38.337685; x_descenders 8.3376865; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_82' title='bbox 42 655 258 685; x_wconf 91'>Notbrunnen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 40 721 2008 1089">
+     <span class='ocr_line' id='line_1_11' title="bbox 43 721 2006 759; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_83' title='bbox 43 722 93 751; x_wconf 87'>Ein</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 134 721 346 751; x_wconf 87'>Notbrunnen</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 387 722 425 751; x_wconf 92'>ist</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 463 722 535 751; x_wconf 88'>eine</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 575 721 775 759; x_wconf 96' lang='deu'>Einrichtung</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 814 730 869 751; x_wconf 88'>zur</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 905 723 1108 759; x_wconf 96' lang='deu'>Versorgung</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1148 722 1205 751; x_wconf 92'>mit</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1242 721 1452 751; x_wconf 96' lang='deu'>Trinkwasser</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1490 722 1518 751; x_wconf 85'>in</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1560 721 1732 757; x_wconf 89' lang='deu'>Notfällen,</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1773 721 2006 751; x_wconf 96' lang='deu'>insbesondere</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 43 787 2005 825; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_95' title='bbox 43 787 92 817; x_wconf 89'>bei</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 131 787 474 825; x_wconf 88'>Naturkatastrophen,</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 513 788 600 825; x_wconf 95'>Krieg</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 638 787 717 817; x_wconf 94'>oder</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 752 787 895 817; x_wconf 92'>anderen</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 933 788 1249 823; x_wconf 92'>Krisensituationen,</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1288 788 1315 817; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1353 787 1460 817; x_wconf 93'>denen</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1497 787 1548 817; x_wconf 92'>die</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1586 787 1729 825; x_wconf 93' lang='deu'>reguläre</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1765 789 1904 817; x_wconf 89'>Wasser-</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1941 787 2005 817; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 41 853 2005 891; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_107' title='bbox 41 853 490 891; x_wconf 90'>Versorgungsinfrastruktur</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 522 853 608 883; x_wconf 91'>nicht</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 638 853 813 891; x_wconf 96' lang='deu'>verfügbar</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 844 853 923 883; x_wconf 92'>oder</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 955 853 1147 891; x_wconf 96' lang='deu'>beschädigt</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1179 854 1226 883; x_wconf 93'>ist.</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1260 853 1472 883; x_wconf 89'>Notbrunnen</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1504 853 1633 883; x_wconf 96'>werden</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1667 854 1695 883; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1728 853 1785 883; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 1817 853 1912 891; x_wconf 96' lang='deu'>Regel</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 1943 862 2005 883; x_wconf 96'>von</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 919 2008 957; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_119' title='bbox 43 919 387 957; x_wconf 91'>Hilfsorganisationen</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 419 919 499 949; x_wconf 91'>oder</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 530 919 896 957; x_wconf 62'>Regierungsbehérden</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 929 919 1096 949; x_wconf 96' lang='deu'>installiert</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 1127 919 1191 949; x_wconf 91'>und</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1224 919 1402 949; x_wconf 93' lang='deu'>betrieben.</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1435 919 1647 949; x_wconf 90'>Notbrunnen</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1680 919 1808 949; x_wconf 96' lang='deu'>können</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1840 919 2008 949; x_wconf 96' lang='deu'>entweder</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 40 985 2008 1023; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_128' title='bbox 40 986 208 1023; x_wconf 96' lang='deu'>temporär</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 222 985 302 1015; x_wconf 93'>oder</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 317 985 491 1015; x_wconf 96' lang='deu'>dauerhaft</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 506 986 573 1015; x_wconf 95'>sein</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 591 985 655 1015; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 671 985 800 1015; x_wconf 96'>werden</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 818 985 868 1015; x_wconf 96'>oft</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 882 994 945 1015; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 963 985 1156 1023; x_wconf 96' lang='deu'>Bohrungen</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1173 986 1201 1015; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1218 985 1281 1015; x_wconf 95'>den</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1300 985 1409 1015; x_wconf 93'>Boden</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1426 985 1545 1023; x_wconf 95' lang='deu'>gelegt,</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1563 994 1616 1015; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1632 985 1689 1015; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1703 985 1762 1015; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1778 985 2008 1015; x_wconf 96' lang='deu'>Grundwasser</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 41 1051 2008 1089; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_145' title='bbox 41 1051 258 1089; x_wconf 90'>zuzugreifen.</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 273 1053 333 1081; x_wconf 96'>Das</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 344 1053 470 1081; x_wconf 96'>Wasser</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 481 1060 539 1081; x_wconf 93'>aus</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 552 1051 764 1081; x_wconf 91'>Notbrunnen</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 779 1060 867 1081; x_wconf 94'>muss</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 880 1052 908 1081; x_wconf 94'>in</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 921 1051 978 1081; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 991 1051 1086 1089; x_wconf 92'>Regel</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1098 1051 1295 1081; x_wconf 92'>aufbereitet</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1305 1051 1444 1087; x_wconf 96'>werden,</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1459 1060 1512 1081; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1525 1060 1560 1081; x_wconf 92'>es</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1571 1051 1713 1081; x_wconf 92'>trinkbar</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1724 1060 1761 1081; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1776 1051 1922 1081; x_wconf 96'>machen.</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 1937 1052 2008 1081; x_wconf 96'>Hier</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

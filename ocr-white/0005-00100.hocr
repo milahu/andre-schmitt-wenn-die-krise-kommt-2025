@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0005-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 486 50 1503 968">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 486 50 1503 968">
+     <span class='ocr_line' id='line_1_1' title="bbox 1454 50 1466 88; baseline 0 0; x_size 46.384262; x_descenders 8.3842621; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1454 50 1466 88; x_wconf 92'>\</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 486 360 1497 397; baseline 0 -7; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_2' title='bbox 486 362 577 390; x_wconf 87'>Marc</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 585 360 743 390; x_wconf 96'>Friedrich</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 860 360 979 390; x_wconf 93'>Robert</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 985 360 1190 397; x_wconf 90'>Jungnischke</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1237 360 1404 390; x_wconf 93'>Sebastian</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1415 360 1497 390; x_wconf 96'>Hein</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 486 415 1460 459; baseline 0 -12; x_size 35; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_8' title='bbox 486 415 715 459; x_wconf 91'>Finanzexperte</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 861 419 998 454; x_wconf 92'>Energie-</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1009 417 1071 447; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1079 419 1460 454; x_wconf 91'>Krisenvorsorgeexperten</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 589 645 1443 685; baseline 0.001 -2; x_size 37; x_descenders 6; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_12' title='bbox 589 645 691 683; x_wconf 34'>oA</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 737 652 784 677; x_wconf 10'>Ee</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1365 646 1443 685; x_wconf 80'>=</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 508 680 754 729; baseline 0 -21; x_size 25; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_15' title='bbox 508 695 513 729; x_wconf 84'>|</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 574 700 586 723; x_wconf 51' lang='deu'>(</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 629 680 696 715; x_wconf 45' lang='deu'>&gt;’</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 747 705 785 714; x_wconf 51' lang='deu'>—</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 486 871 1450 903; baseline 0 -2; x_size 37.042778; x_descenders 7.0427799; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_19' title='bbox 486 871 613 901; x_wconf 96' lang='deu'>Patrick</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 621 873 744 901; x_wconf 96' lang='deu'>Krause</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 860 873 972 901; x_wconf 96' lang='deu'>Marco</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 982 873 1068 903; x_wconf 96' lang='deu'>Kurz</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1235 871 1308 901; x_wconf 93' lang='deu'>Lisa</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1317 871 1450 901; x_wconf 92' lang='deu'>Bläcker</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 486 930 1503 968; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_25' title='bbox 486 930 796 968; x_wconf 92'>Kampfsportexperte</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 865 930 1027 968; x_wconf 77' lang='deu'>Videograf</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1238 930 1503 968; x_wconf 92' lang='deu'>Grafikdesignerin</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

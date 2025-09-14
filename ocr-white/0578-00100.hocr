@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0578-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2008 1089">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 2005 121">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 2005 55; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 18 92 47; x_wconf 96'>ein</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 115 17 234 55; x_wconf 95'>Hobby,</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 257 17 306 47; x_wconf 95'>bei</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 328 17 403 47; x_wconf 93'>dem</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 426 17 680 47; x_wconf 92'>Funkamateure</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 701 17 766 47; x_wconf 96'>ihre</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 786 18 924 55; x_wconf 93'>eigenen</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 947 17 1272 55; x_wconf 92'>Funkausrüstungen</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1295 17 1401 47; x_wconf 96'>bauen</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1423 17 1487 47; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1510 17 1677 47; x_wconf 96'>betreiben</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1700 17 1763 47; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1786 18 1843 46; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1863 17 2005 47; x_wconf 96'>anderen</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 43 82 989 121; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_15' title='bbox 43 83 319 113; x_wconf 92'>Funkamateuren</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 334 82 391 113; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 403 83 460 113; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 472 91 597 121; x_wconf 96'>ganzen</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 611 83 692 113; x_wconf 96'>Welt</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 707 83 989 113; x_wconf 95'>kommunizieren.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 148 2008 311">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 148 2005 187; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_21' title='bbox 42 162 53 173; x_wconf 49'>+</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 82 148 371 179; x_wconf 91'>Mobilfunklizenz:</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 401 150 492 179; x_wconf 96' lang='deu'>Diese</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 522 150 629 179; x_wconf 96' lang='deu'>Lizenz</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 655 149 730 178; x_wconf 96' lang='deu'>wird</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 760 149 918 187; x_wconf 96' lang='deu'>benötigt,</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 948 157 1001 179; x_wconf 93' lang='deu'>um</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1031 148 1338 179; x_wconf 92' lang='deu'>Mobilfunkdienste</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1366 149 1571 179; x_wconf 93' lang='deu'>anzubieten.</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1601 148 1908 179; x_wconf 91' lang='deu'>Mobilfunkdienste</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1936 149 2005 179; x_wconf 96' lang='deu'>sind</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 215 2008 253; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_32' title='bbox 42 215 208 245; x_wconf 93' lang='deu'>drahtlose</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 224 215 735 250; x_wconf 90' lang='deu'>Telekommunikationsdienste,</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 754 215 805 245; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 823 223 858 245; x_wconf 96' lang='deu'>es</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 877 216 1054 245; x_wconf 96' lang='deu'>Benutzern</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1073 215 1302 253; x_wconf 93' lang='deu'>ermöglichen,</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1322 215 1456 252; x_wconf 91' lang='deu'>Sprach-</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1475 215 1539 245; x_wconf 93' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1559 215 1909 253; x_wconf 92' lang='deu'>Datenverbindungen</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1929 215 2008 245; x_wconf 96' lang='deu'>über</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 42 280 774 311; baseline 0 -1; x_size 38.692764; x_descenders 8.6927624; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_42' title='bbox 42 282 113 311; x_wconf 93' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 129 280 535 311; x_wconf 92' lang='deu'>Mobilfunkinfrastruktur</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 549 281 774 311; x_wconf 95' lang='deu'>herzustellen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 346 2006 517">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 346 2006 385; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_45' title='bbox 42 360 53 371; x_wconf 60'>+</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 90 346 451 377; x_wconf 86' lang='deu'>Satellitenfunklizenz:</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 490 348 582 377; x_wconf 96' lang='deu'>Diese</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 620 348 728 377; x_wconf 96' lang='deu'>Lizenz</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 763 347 838 376; x_wconf 96' lang='deu'>wird</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 877 347 1035 385; x_wconf 96' lang='deu'>benötigt,</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1074 355 1127 377; x_wconf 93' lang='deu'>um</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1165 347 1763 377; x_wconf 91' lang='deu'>Satellitenkommunikationsdienste</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1800 347 2006 377; x_wconf 96' lang='deu'>anzubieten.</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 42 413 2005 451; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_54' title='bbox 42 413 491 443; x_wconf 91' lang='deu'>Satellitenkommunikation</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 514 414 553 443; x_wconf 95' lang='deu'>ist</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 572 414 644 443; x_wconf 95' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 664 413 830 443; x_wconf 95' lang='deu'>drahtlose</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 852 413 1142 448; x_wconf 95' lang='deu'>Kommunikation,</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1165 413 1214 443; x_wconf 96' lang='deu'>bei</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1235 413 1292 443; x_wconf 96' lang='deu'>der</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1312 413 1440 451; x_wconf 96' lang='deu'>Signale</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1459 413 1618 443; x_wconf 96' lang='deu'>zwischen</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1639 413 1696 443; x_wconf 96' lang='deu'>der</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1717 413 1793 443; x_wconf 96' lang='deu'>Erde</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1814 413 1878 443; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1899 414 2005 443; x_wconf 96' lang='deu'>einem</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 42 479 1513 517; baseline -0.001 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_67' title='bbox 42 479 209 509; x_wconf 96' lang='deu'>Satelliten</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 224 479 458 517; x_wconf 96' lang='deu'>ausgetauscht</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 470 479 609 514; x_wconf 96' lang='deu'>werden,</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 625 487 678 509; x_wconf 93' lang='deu'>um</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 693 479 827 516; x_wconf 91' lang='deu'>Sprach-</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 842 479 906 509; x_wconf 93' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 923 479 1272 517; x_wconf 92' lang='deu'>Datenverbindungen</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1288 479 1513 509; x_wconf 96' lang='deu'>herzustellen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 41 566 2005 891">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 566 2005 605; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_75' title='bbox 43 568 97 597; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 113 576 263 605; x_wconf 96'>genauen</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 280 566 549 605; x_wconf 96'>Anforderungen</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 568 567 632 597; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 648 566 823 597; x_wconf 96'>Verfahren</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 840 576 895 597; x_wconf 96'>zur</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 911 567 1089 605; x_wconf 95'>Erlangung</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1107 568 1195 597; x_wconf 93'>einer</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1211 567 1397 597; x_wconf 92'>Funklizenz</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1414 567 1542 597; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1556 568 1587 605; x_wconf 96'>je</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1605 567 1685 597; x_wconf 96'>nach</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1704 567 1786 597; x_wconf 96'>Land</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1804 567 1868 597; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1887 568 2005 605; x_wconf 96'>Region</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 632 2005 671; baseline 0 -8; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_90' title='bbox 43 633 310 663; x_wconf 96'>unterschiedlich</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 334 634 411 663; x_wconf 95'>sein.</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 437 635 465 662; x_wconf 96'>In</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 490 633 553 663; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 579 634 651 663; x_wconf 96'>USA</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 674 633 923 671; x_wconf 96'>beispielsweise</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 947 633 1016 663; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1041 633 1092 663; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1117 633 1244 663; x_wconf 96'>Federal</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1268 634 1566 663; x_wconf 96'>Communications</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1589 634 1802 663; x_wconf 93'>Commission</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1828 632 1916 668; x_wconf 92'>(FCC)</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1941 633 2005 663; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 42 698 2005 737; baseline -0.001 -8; x_size 36; x_descenders 6; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_103' title='bbox 42 699 93 729; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 114 699 262 729; x_wconf 93'>National</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 280 699 647 729; x_wconf 91'>Telecommunications</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 666 699 729 729; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 751 698 959 729; x_wconf 96'>Information</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 979 699 1242 729; x_wconf 93'>Administration</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1263 698 1371 734; x_wconf 92'>(NTIA)</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1390 698 1441 729; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1459 699 1510 729; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1529 699 1674 737; x_wconf 96'>Vergabe</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1692 708 1755 729; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1777 699 2005 729; x_wconf 92'>Funklizenzen</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 764 1995 803; baseline 0.001 -9; x_size 37; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_115' title='bbox 41 765 222 803; x_wconf 96'>zuständig.</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 238 766 308 795; x_wconf 96'>Hier</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 320 765 390 795; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 405 766 510 803; x_wconf 96'>einige</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 524 765 660 801; x_wconf 96'>Quellen</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 676 765 740 795; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 756 765 852 800; x_wconf 96'>Links,</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 867 765 918 795; x_wconf 97'>die</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 930 766 1060 795; x_wconf 96'>weitere</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1076 764 1328 795; x_wconf 96'>Informationen</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1343 774 1416 795; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1429 765 1549 795; x_wconf 93'>Thema</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1565 765 1751 795; x_wconf 92'>Funklizenz</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1766 765 1995 795; x_wconf 96'>bereitstellen:</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 42 853 1662 891; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_129' title='bbox 42 867 53 878; x_wconf 71' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 68 853 296 883; x_wconf 93' lang='eng'>International</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 308 853 657 883; x_wconf 92' lang='eng'>Telecommunication</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 673 854 774 883; x_wconf 95' lang='eng'>Union</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 790 853 881 888; x_wconf 93' lang='eng'>(ITU):</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 897 853 1662 891; x_wconf 92'>https://www.itu.int/en/pages/default.aspx</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 919 2007 1023">
+     <span class='ocr_line' id='line_1_14' title="bbox 42 919 2007 957; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_135' title='bbox 42 933 53 944; x_wconf 29'>«</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 72 919 427 957; x_wconf 89'>Bundesnetzagentur:</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 447 919 2007 957; x_wconf 88'>https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikaton/Frequenzen/</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 42 985 908 1023; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_138' title='bbox 42 985 908 1023; x_wconf 87'>SpezielleAnwendungen/Amateurfunk/start.html</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 1051 561 1089">
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1051 561 1089; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_139' title='bbox 42 1065 53 1076; x_wconf 64'>«</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 67 1051 561 1089; x_wconf 89'>https://www.funklizenz.de/</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

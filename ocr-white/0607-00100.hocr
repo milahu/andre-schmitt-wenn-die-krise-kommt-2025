@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0607-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2007 1066">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 17 234 47">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 234 47; baseline 0.005 -1; x_size 37.000175; x_descenders 7.0001769; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 27'>«</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 66 18 96 46; x_wconf 80' lang='deu'>Y:</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 109 17 234 47; x_wconf 96' lang='deu'>Yankee</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 83 184 113">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 83 184 113; baseline 0.007 -1; x_size 36.681988; x_descenders 6.6819868; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_4' title='bbox 42 84 95 112; x_wconf 62'>eZ:</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 109 83 184 113; x_wconf 82'>Zulu</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 171 189 207">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 171 189 207; baseline -0.007 -6; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_6' title='bbox 42 171 189 207; x_wconf 96'>Quellen:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 236 2005 341">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 236 2005 275; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 42 251 53 261; x_wconf 62'>«</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 102 238 200 267; x_wconf 96'>NATO</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 250 237 403 275; x_wconf 95'>phonetic</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 451 237 616 275; x_wconf 93'>alphabet.</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 665 236 775 272; x_wconf 96' lang='deu'>(2022,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 823 239 963 275; x_wconf 96' lang='deu'>January</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1010 236 1051 272; x_wconf 96' lang='deu'>7).</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1101 239 1129 266; x_wconf 94' lang='deu'>In</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1177 237 1360 275; x_wconf 91'>Wikipedia.</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1410 236 1653 275; x_wconf 90' lang='deu'>https://en.wi-</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1702 236 2005 275; x_wconf 89'>kipedia.org/wiki/</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 303 499 341; baseline 0.002 -9; x_size 36.681988; x_descenders 6.6819868; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_18' title='bbox 43 303 499 341; x_wconf 90'>NATO_phonetic_alphabet</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 41 368 2007 553">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 368 2007 407; baseline 0 -9; x_size 35; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_19' title='bbox 42 383 53 393; x_wconf 63'>«</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 78 369 306 399; x_wconf 96'>International</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 330 369 402 399; x_wconf 96'>Civil</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 424 370 567 399; x_wconf 96'>Aviation</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 592 370 831 407; x_wconf 96'>Organization.</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 856 368 978 404; x_wconf 96'>(2007).</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1001 371 1112 399; x_wconf 96'>Annex</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1137 370 1177 399; x_wconf 96'>10</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1199 373 1235 399; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1258 369 1315 399; x_wconf 92'>the</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1339 370 1420 399; x_wconf 91'>Con-</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1443 370 1575 399; x_wconf 96'>vention</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1600 378 1641 399; x_wconf 92'>on</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1667 369 1911 399; x_wconf 91'>Internatio-nal</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1935 369 2007 399; x_wconf 96'>Civil</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 41 434 1986 473; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_34' title='bbox 41 436 194 465; x_wconf 96'>Aviation:</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 208 435 432 465; x_wconf 93'>Aeronautical</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 444 435 737 465; x_wconf 88'>Telecommunica-</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 750 436 845 465; x_wconf 96'>tions.</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 861 435 1089 465; x_wconf 96'>International</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1103 435 1175 465; x_wconf 96'>Civil</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1188 436 1331 465; x_wconf 96'>Aviation</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1347 436 1585 473; x_wconf 93'>Organization.</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1601 434 1986 473; x_wconf 91'>https://www.icao.int/</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 43 523 139 553; baseline 0 0; x_size 36.681988; x_descenders 6.6819868; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_43' title='bbox 43 523 139 553; x_wconf 96'>Links:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 42 589 1273 627">
+     <span class='ocr_line' id='line_1_9' title="bbox 42 589 1273 627; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_44' title='bbox 42 603 53 614; x_wconf 45'>+</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 68 591 166 619; x_wconf 96' lang='eng'>NATO</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 182 589 335 619; x_wconf 96' lang='eng'>Phonetic</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 348 589 510 627; x_wconf 96' lang='eng'>Alphabet</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 523 589 628 619; x_wconf 92' lang='eng'>Chart.</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 643 589 739 624; x_wconf 91' lang='eng'>(n.d.).</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 755 590 862 619; x_wconf 93' lang='eng'>NATO.</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 877 589 1273 627; x_wconf 91' lang='eng'>https://www.nato.int/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 655 1733 693">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 655 1733 693; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_52' title='bbox 42 669 53 680; x_wconf 39'>»</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 65 655 130 685; x_wconf 96'>The</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 145 655 298 685; x_wconf 96'>Phonetic</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 311 655 481 693; x_wconf 93'>Alphabet.</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 496 655 592 690; x_wconf 91'>(n.d.).</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 608 655 836 685; x_wconf 96'>International</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 850 655 922 685; x_wconf 96'>Civil</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 935 656 1078 685; x_wconf 96'>Aviation</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1094 656 1332 693; x_wconf 93'>Organization.</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1348 655 1733 693; x_wconf 90'>https://www.icao.int/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 743 251 774">
+     <span class='ocr_line' id='line_1_11' title="bbox 42 743 251 774; baseline 0 -1; x_size 36.681988; x_descenders 6.6819868; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_62' title='bbox 42 743 251 774; x_wconf 90'>Netzausfall</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 43 809 2005 979">
+     <span class='ocr_line' id='line_1_12' title="bbox 43 809 2005 847; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_63' title='bbox 43 809 241 839; x_wconf 90'>Netzausfall</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 264 809 393 839; x_wconf 96' lang='deu'>bezieht</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 415 809 479 839; x_wconf 95'>sich</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 503 809 560 839; x_wconf 95'>auf</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 581 811 652 839; x_wconf 95'>eine</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 676 811 843 845; x_wconf 96'>Situation,</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 868 811 896 839; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 920 809 977 839; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 998 811 1048 839; x_wconf 96'>ein</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1073 809 1239 839; x_wconf 96'>Netzwerk</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1261 809 1341 840; x_wconf 95'>oder</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1362 811 1434 839; x_wconf 93'>eine</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1457 811 1763 847; x_wconf 96' lang='deu'>Stromversorgung</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1787 809 1919 839; x_wconf 95' lang='deu'>ausfällt</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1941 809 2005 839; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 43 875 2005 913; baseline 0 -8; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_78' title='bbox 43 875 129 905; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 144 875 235 905; x_wconf 93'>mehr</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 248 875 470 905; x_wconf 91'>funktioniert.</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 487 877 558 905; x_wconf 96'>Dies</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 573 875 656 905; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 671 885 708 905; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 723 875 977 905; x_wconf 92'>verschiedenen</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 994 875 1184 905; x_wconf 92'>Problemen</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1199 875 1325 911; x_wconf 91'>fiihren,</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1339 877 1398 905; x_wconf 93'>wie</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1414 875 1663 913; x_wconf 92'>beispielsweise</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1677 875 1801 905; x_wconf 92'>Verlust</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1814 884 1877 905; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1894 877 2005 911; x_wconf 96'>Daten,</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 941 1122 979; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_92' title='bbox 43 941 308 979; x_wconf 96' lang='deu'>Unterbrechung</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 322 950 385 971; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 400 941 749 979; x_wconf 67'>Geschaftsprozessen</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 764 941 828 971; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 844 941 1122 972; x_wconf 78'>Stromausfillen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 42 1030 371 1066">
+     <span class='ocr_line' id='line_1_15' title="bbox 42 1030 371 1066; baseline -0.003 -6; x_size 36; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_97' title='bbox 42 1030 178 1066; x_wconf 89'>Quellen</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 194 1030 258 1060; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 274 1030 371 1060; x_wconf 95'>Links:</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

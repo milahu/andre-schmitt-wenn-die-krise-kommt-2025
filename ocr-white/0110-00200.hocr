@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0110-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 16 2005 179">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 16 2005 179">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 16 2005 55; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 18 81 47; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 101 16 318 47; x_wconf 95'>erforderlich.</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 341 18 412 47; x_wconf 96'>Dies</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 433 16 572 47; x_wconf 95'>umfasst</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 592 17 643 47; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 665 16 885 55; x_wconf 96'>regelmäßige</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 905 18 1058 55; x_wconf 96'>Wartung</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1080 17 1144 47; x_wconf 97'>und</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1167 17 1442 55; x_wconf 96'>Modernisierung</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1464 17 1520 47; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1541 16 1771 52; x_wconf 96'>Infrastruktur,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1793 17 1856 47; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1876 17 2005 47; x_wconf 96'>Ausbau</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 2005 121; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_14' title='bbox 42 83 272 113; x_wconf 96'>erneuerbarer</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 289 83 552 121; x_wconf 96'>Energiequellen</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 571 83 634 113; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 652 83 703 113; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 722 83 901 121; x_wconf 96'>Förderung</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 919 84 1008 113; x_wconf 96'>eines</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1025 82 1211 113; x_wconf 93'>effizienten</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1231 84 1617 121; x_wconf 91'>Energiemanagements</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1633 82 1690 113; x_wconf 95'>auf</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1706 83 1925 113; x_wconf 95'>individueller</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1941 83 2005 113; x_wconf 95'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 43 149 433 179; baseline 0 -1; x_size 38.226746; x_descenders 9.2267437; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_25' title='bbox 43 149 304 179; x_wconf 92'>institutioneller</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 318 149 433 179; x_wconf 94'>Ebene.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

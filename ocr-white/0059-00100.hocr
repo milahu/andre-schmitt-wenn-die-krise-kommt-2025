@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0059-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 859 2007 1067">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 41 859 2007 1067">
+     <span class='ocr_line' id='line_1_1' title="bbox 939 859 1108 889; baseline 0.006 -7; x_size 30; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 939 859 1081 889; x_wconf 96'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1092 860 1108 883; x_wconf 96'>5</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 43 963 2007 1001; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_3' title='bbox 43 963 254 993; x_wconf 96'>Mittlerweile</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 269 963 352 993; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 366 963 447 993; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 463 965 536 993; x_wconf 96'>Frau</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 551 963 726 993; x_wconf 96'>Schneider</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 739 964 789 993; x_wconf 96'>ein</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 802 964 906 1001; x_wconf 96'>wenig</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 921 972 1026 993; x_wconf 96'>essen.</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1041 964 1091 993; x_wconf 96'>Sie</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1106 963 1208 993; x_wconf 96'>bietet</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1222 964 1279 993; x_wconf 96'>mir</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1291 972 1341 999; x_wconf 96'>an,</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1356 964 1461 1001; x_wconf 96'>einige</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1476 963 1761 1001; x_wconf 96'>Kleidungsstücke</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1776 963 1858 993; x_wconf 96'>ihres</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1873 965 2007 993; x_wconf 96'>Mannes</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 41 1028 2005 1067; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_19' title='bbox 41 1038 100 1059; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 116 1029 173 1059; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 187 1029 357 1067; x_wconf 96'>Wohnung</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 375 1038 412 1059; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 431 1029 537 1059; x_wconf 96'>holen.</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 556 1031 590 1059; x_wconf 96'>Er</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 606 1029 662 1059; x_wconf 95'>hat</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 676 1029 762 1059; x_wconf 95'>wohl</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 777 1029 858 1059; x_wconf 96'>viele</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 873 1038 994 1059; x_wconf 92'>warme</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1011 1028 1272 1067; x_wconf 92'>Schafspullover</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1288 1029 1352 1059; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1369 1032 1508 1059; x_wconf 92'>-westen</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1526 1030 1567 1059; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1585 1029 1734 1059; x_wconf 96'>Schrank.</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1752 1029 1799 1059; x_wconf 96'>Ich</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1815 1028 1906 1059; x_wconf 96'>fühle</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1924 1029 2005 1059; x_wconf 96'>mich</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

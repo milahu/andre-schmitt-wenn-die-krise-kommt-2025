@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0226-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 5 2007 1110">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 886 5 1163 351">
+     <span class='ocr_line' id='line_1_1' title="bbox 886 5 1163 58; baseline 0.004 -1; x_size 69.033493; x_descenders 16.033495; x_ascenders 14.999293">
+      <span class='ocrx_word' id='word_1_1' title='bbox 882 1 945 78; x_wconf 42'>[m]</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 954 5 1163 58; x_wconf 35'>7m]</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 886 221 1155 280; baseline 0 0; x_size 97.287941; x_descenders 15; x_ascenders 23.287943">
+      <span class='ocrx_word' id='word_1_3' title='bbox 886 221 1155 280; x_wconf 33' lang='eng'>Ela</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 990 327 1060 351; baseline 0 0; x_size 31.172745; x_descenders 7.1727457; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_4' title='bbox 990 327 1060 351; x_wconf 96' lang='eng'>Tools</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 40 412 2007 1110">
+     <span class='ocr_line' id='line_1_4' title="bbox 43 412 2005 450; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_5' title='bbox 43 413 104 442; x_wconf 92'>Das</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 135 412 405 450; x_wconf 91'>Lieblingsthema</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 435 412 532 442; x_wconf 91'>vieler</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 562 412 726 442; x_wconf 91'>Outdoor-</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 757 412 821 442; x_wconf 92'>und</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 853 412 1229 450; x_wconf 92'>Survivalbegeisterten.</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1261 413 1311 441; x_wconf 93'>Ein</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1342 415 1438 450; x_wconf 92'>gutes</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1469 412 1798 442; x_wconf 92'>Outdoor-Multitool</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1827 413 1925 442; x_wconf 96'>sowie</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1956 413 2005 442; x_wconf 95'>ein</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 41 477 2005 516; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_16' title='bbox 41 478 293 508; x_wconf 91'>Arbeitsmesser</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 304 478 374 508; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 389 477 515 508; x_wconf 93'>einfach</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 531 478 793 508; x_wconf 92'>unverzichtbare</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 805 478 1001 516; x_wconf 92'>Werkzeuge</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1013 473 1064 520; x_wconf 93'>fiir</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1078 478 1166 516; x_wconf 92'>jedes</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1178 478 1364 508; x_wconf 96'>Abenteuer</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1377 478 1441 508; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1453 478 1528 516; x_wconf 91'>jede</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1542 479 1633 513; x_wconf 92'>Krise,</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1648 478 1729 516; x_wconf 96'>egal,</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1744 478 1786 508; x_wconf 96'>ob</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1801 479 1841 507; x_wconf 93'>im</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1857 478 2005 508; x_wconf 92'>Urbanen</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 42 543 2007 582; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_31' title='bbox 42 544 122 574; x_wconf 95'>oder</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 140 545 168 573; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 188 544 245 574; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 264 545 368 574; x_wconf 95'>Natur.</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 389 545 424 574; x_wconf 96'>Es</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 442 544 511 582; x_wconf 96'>gibt</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 528 544 609 574; x_wconf 93'>viele</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 627 544 858 574; x_wconf 91'>verschiedene</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 876 545 973 574; x_wconf 92'>Arten</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 992 552 1054 574; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1076 544 1253 573; x_wconf 95'>Multitools</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1273 544 1336 574; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1358 545 1499 574; x_wconf 91'>Messern</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1519 543 1576 574; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1593 544 1668 574; x_wconf 96'>dem</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1690 544 1799 579; x_wconf 96'>Markt,</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1818 544 1896 574; x_wconf 96'>aber</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1914 552 1949 574; x_wconf 95'>es</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1968 545 2007 574; x_wconf 96'>ist</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 40 609 2006 648; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_50' title='bbox 40 610 177 648; x_wconf 96' lang='deu'>wichtig,</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 193 610 268 640; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 282 610 340 640; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 354 610 577 648; x_wconf 96' lang='deu'>ausgewählte</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 590 610 764 648; x_wconf 96' lang='deu'>Werkzeug</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 781 610 970 640; x_wconf 96' lang='deu'>bestimmte</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 985 609 1233 648; x_wconf 96' lang='deu'>Eigenschaften</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1248 609 1406 645; x_wconf 96' lang='deu'>aufweist,</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1423 618 1475 640; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1491 610 1554 640; x_wconf 93'>den</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1568 609 1837 648; x_wconf 96' lang='deu'>Anforderungen</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1853 610 1910 640; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1924 611 2006 640; x_wconf 96' lang='deu'>Krise</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 42 676 2005 714; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_63' title='bbox 42 676 175 714; x_wconf 96' lang='deu'>gerecht</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 200 685 238 706; x_wconf 96' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 264 676 404 706; x_wconf 96' lang='deu'>werden.</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 431 676 592 706; x_wconf 96' lang='deu'>Zunächst</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 618 676 737 706; x_wconf 96' lang='deu'>einmal</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 762 676 858 706; x_wconf 95' lang='deu'>sollte</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 885 677 934 706; x_wconf 95' lang='deu'>ein</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 962 679 1058 714; x_wconf 93' lang='deu'>gutes</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1085 676 1414 706; x_wconf 91' lang='deu'>Outdoor-Multitool</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1441 676 1505 706; x_wconf 95' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1534 677 1654 706; x_wconf 96' lang='deu'>Messer</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1680 684 1737 706; x_wconf 96' lang='deu'>aus</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1765 676 2005 714; x_wconf 96' lang='deu'>hochwertigen</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 742 2005 780; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_76' title='bbox 43 742 239 772; x_wconf 96' lang='deu'>Materialien</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 256 742 446 780; x_wconf 96' lang='deu'>hergestellt</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 460 743 537 777; x_wconf 96' lang='deu'>sein,</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 554 750 606 772; x_wconf 96' lang='deu'>um</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 624 742 862 780; x_wconf 96' lang='deu'>Langlebigkeit</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 878 742 942 772; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 958 742 1222 780; x_wconf 96' lang='deu'>Zuverlässigkeit</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1236 751 1273 772; x_wconf 97' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1289 742 1547 780; x_wconf 93' lang='deu'>gewährleisten.</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1563 743 1708 780; x_wconf 92' lang='deu'>Gängige</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1724 742 1920 772; x_wconf 96' lang='deu'>Materialien</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1936 742 2005 772; x_wconf 96' lang='deu'>sind</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 807 2005 846; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_88' title='bbox 43 807 205 838; x_wconf 92' lang='deu'>rostfreier</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 225 808 323 843; x_wconf 96' lang='deu'>Stahl,</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 344 809 432 838; x_wconf 96' lang='deu'>Titan</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 455 808 519 838; x_wconf 93' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 542 807 842 838; x_wconf 92' lang='deu'>Kohlenstoffstahl.</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 863 808 960 838; x_wconf 96' lang='deu'>Jedes</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 982 808 1125 838; x_wconf 96' lang='deu'>Material</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1146 808 1201 838; x_wconf 96' lang='deu'>hat</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1221 809 1310 838; x_wconf 96' lang='deu'>seine</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1331 809 1469 846; x_wconf 93' lang='deu'>eigenen</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1489 809 1564 838; x_wconf 92' lang='deu'>Vor-</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1586 808 1649 838; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1673 808 1845 843; x_wconf 96' lang='deu'>Nachteile,</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1867 808 1945 838; x_wconf 96' lang='deu'>aber</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1965 809 2005 837; x_wconf 96' lang='deu'>im</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 41 874 2005 912; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_103' title='bbox 41 874 263 912; x_wconf 96' lang='deu'>Allgemeinen</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 280 874 398 904; x_wconf 95' lang='deu'>sollten</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 416 874 467 904; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 485 874 615 912; x_wconf 96' lang='deu'>Klingen</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 633 874 697 904; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 714 874 910 912; x_wconf 96' lang='deu'>Werkzeuge</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 927 882 985 904; x_wconf 96' lang='deu'>aus</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1002 874 1197 904; x_wconf 96' lang='deu'>Materialien</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1216 874 1385 909; x_wconf 95' lang='deu'>bestehen,</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1403 874 1454 904; x_wconf 93' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1472 874 1838 912; x_wconf 91' lang='deu'>korrosionsbeständig,</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1857 874 1952 904; x_wconf 96' lang='deu'>leicht</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1968 883 2005 904; x_wconf 96' lang='deu'>zu</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 939 2006 978; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_116' title='bbox 41 939 192 970; x_wconf 96' lang='deu'>schärfen</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 206 940 270 970; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 284 940 396 970; x_wconf 96' lang='deu'>robust</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 407 940 487 970; x_wconf 95' lang='deu'>sind.</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 501 941 551 969; x_wconf 96' lang='deu'>Ein</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 563 941 711 970; x_wconf 96' lang='deu'>weiteres</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 721 940 887 978; x_wconf 96' lang='deu'>wichtiges</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 901 940 1053 970; x_wconf 95' lang='deu'>Merkmal</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1065 941 1154 970; x_wconf 96' lang='deu'>eines</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1166 943 1267 978; x_wconf 93' lang='deu'>guten</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1280 940 1627 970; x_wconf 92' lang='deu'>Outdoor-Multitools</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1639 940 1703 970; x_wconf 92' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1718 941 1855 970; x_wconf 91' lang='deu'>Messers</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1867 941 1906 970; x_wconf 96' lang='deu'>ist</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1917 941 2006 970; x_wconf 96' lang='deu'>seine</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 41 1006 2007 1044; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_131' title='bbox 41 1006 277 1044; x_wconf 96' lang='deu'>Vielseitigkeit.</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 293 1007 342 1035; x_wconf 96' lang='deu'>Ein</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 356 1009 452 1044; x_wconf 93' lang='deu'>gutes</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 466 1006 627 1036; x_wconf 92' lang='deu'>Multitool</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 639 1006 734 1036; x_wconf 96' lang='deu'>sollte</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 748 1007 819 1036; x_wconf 95' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 831 1006 971 1036; x_wconf 96' lang='deu'>Vielzahl</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 983 1014 1045 1036; x_wconf 96' lang='deu'>von</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1059 1006 1277 1044; x_wconf 96' lang='deu'>Werkzeugen</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1292 1006 1356 1036; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1371 1006 1569 1036; x_wconf 96' lang='deu'>Funktionen</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1584 1006 1700 1041; x_wconf 96' lang='deu'>haben,</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1713 1007 1772 1036; x_wconf 96' lang='deu'>wie</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1785 1014 1857 1036; x_wconf 96' lang='deu'>zum</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1873 1006 2007 1043; x_wconf 96' lang='deu'>Beispiel</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 42 1071 2005 1110; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_146' title='bbox 42 1073 113 1102; x_wconf 96' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 132 1073 224 1110; x_wconf 96' lang='deu'>Säge,</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 243 1073 359 1110; x_wconf 94' lang='deu'>Zange,</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 379 1072 504 1107; x_wconf 93' lang='deu'>Schere,</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 524 1072 820 1102; x_wconf 92' lang='deu'>Schraubenzieher</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 838 1072 902 1102; x_wconf 97' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 922 1071 1190 1102; x_wconf 96' lang='deu'>Flaschenöffner.</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1210 1073 1301 1102; x_wconf 96' lang='deu'>Diese</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1319 1072 1515 1110; x_wconf 96' lang='deu'>Werkzeuge</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1532 1072 1650 1102; x_wconf 96' lang='deu'>sollten</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1669 1071 1796 1102; x_wconf 96' lang='deu'>einfach</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1815 1072 2005 1110; x_wconf 96' lang='deu'>zugänglich</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

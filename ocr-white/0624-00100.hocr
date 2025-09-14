@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0624-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 16 2008 1089">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 16 1699 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 16 1699 55; baseline 0 -9; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 57'>«</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 65 17 438 47; x_wconf 91' lang='deu'>THW-Landesverband</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 454 17 562 52; x_wconf 96' lang='deu'>Berlin,</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 579 17 807 55; x_wconf 96'>Brandenburg</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 823 17 886 47; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 902 17 1188 47; x_wconf 93' lang='deu'>Sachsen-Anhalt:</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1203 16 1699 55; x_wconf 90' lang='deu'>https://www.thw-berlin.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 82 1318 121">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 1318 121; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_8' title='bbox 42 96 53 107; x_wconf 39'>«</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 65 83 438 113; x_wconf 91' lang='deu'>THW-Landesverband</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 454 83 717 118; x_wconf 95' lang='deu'>Niedersachsen,</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 733 84 877 113; x_wconf 93' lang='deu'>Bremen:</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 892 82 1318 121; x_wconf 91'>https://www.thw-ni.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 148 1603 187">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 148 1603 187; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_13' title='bbox 42 162 53 173; x_wconf 52'>«</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 65 149 438 179; x_wconf 91' lang='deu'>THW-Landesverband</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 454 150 586 184; x_wconf 96' lang='deu'>Hessen,</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 602 148 891 184; x_wconf 96' lang='deu'>Rheinland-Pfalz,</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 907 149 1069 179; x_wconf 93'>Saarland:</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1085 148 1603 187; x_wconf 89' lang='deu'>https://www.thw-hessen.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 214 1357 253">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 1357 253; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_19' title='bbox 42 228 53 239; x_wconf 44'>+</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 65 215 438 245; x_wconf 92'>THW-Landesverband</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 453 215 604 250; x_wconf 95'>Sachsen,</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 618 215 809 253; x_wconf 93'>Thüringen:</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 824 214 1357 253; x_wconf 90'>https://www.thw-sachsen.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 280 1289 319">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 280 1289 319; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_24' title='bbox 42 294 53 305; x_wconf 38'>«</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 65 281 438 311; x_wconf 91' lang='deu'>THW-Landesverband</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 454 281 830 319; x_wconf 91' lang='deu'>Baden-Württemberg:</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 845 280 1289 319; x_wconf 91' lang='deu'>https://www.thw-bw.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 40 346 2006 451">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 346 2006 385; baseline 0 -9; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_28' title='bbox 42 360 53 371; x_wconf 39'>*</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 74 347 447 377; x_wconf 91' lang='eng'>THW-Landesverband</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 472 347 644 385; x_wconf 93' lang='eng'>Hamburg,</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 669 347 1157 385; x_wconf 91' lang='eng'>Mecklenburg-Vorpommern,</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1182 347 1528 385; x_wconf 91' lang='eng'>Schleswig-Holstein:</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1553 346 2006 384; x_wconf 90'>https://www.thw-hh-mv-</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 40 412 153 451; baseline 0 0; x_size 49.952278; x_descenders 10.952277; x_ascenders 11.800291">
+      <span class='ocrx_word' id='word_1_34' title='bbox 40 412 153 451; x_wconf 92' lang='eng'>sh.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 43 501 169 531">
+     <span class='ocr_line' id='line_1_8' title="bbox 43 501 169 531; baseline 0 -1; x_size 37.455894; x_descenders 8.4558926; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_35' title='bbox 43 501 169 531; x_wconf 95'>Thorax</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 566 2008 935">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 566 2005 605; baseline 0.001 -9; x_size 37; x_descenders 7; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_36' title='bbox 43 569 103 597; x_wconf 95'>Der</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 114 567 237 597; x_wconf 95'>Thorax</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 251 568 290 597; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 303 568 353 597; x_wconf 93'>ein</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 367 567 532 605; x_wconf 96' lang='deu'>wichtiger</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 546 567 672 597; x_wconf 96'>Bereich</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 688 567 746 597; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 761 567 1001 597; x_wconf 96' lang='deu'>menschlichen</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1017 568 1159 605; x_wconf 95' lang='deu'>Körpers,</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1174 567 1231 597; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1243 566 1294 597; x_wconf 94'>fiir</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1307 567 1358 597; x_wconf 90'>die</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1371 569 1522 605; x_wconf 96' lang='deu'>Atmung,</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1537 567 1596 597; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1611 566 2005 605; x_wconf 91'>Herz-Kreislauf-System</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 633 2005 671; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_51' title='bbox 43 633 107 663; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 127 633 247 663; x_wconf 91'>andere</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 267 633 531 671; x_wconf 91'>lebenswichtige</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 551 633 749 663; x_wconf 93'>Funktionen</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 768 633 1027 663; x_wconf 96' lang='deu'>verantwortlich</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1048 634 1095 663; x_wconf 96'>ist.</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1116 635 1144 662; x_wconf 96'>In</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1164 633 1221 663; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1240 633 1472 671; x_wconf 56'>praklinischen</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1491 635 1703 671; x_wconf 96' lang='deu'>Versorgung,</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1724 633 1957 663; x_wconf 96' lang='deu'>insbesondere</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1977 634 2005 662; x_wconf 95'>in</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 42 698 2008 737; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_63' title='bbox 42 699 99 729; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 121 698 391 734; x_wconf 95' lang='deu'>Notfallmedizin,</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 415 700 454 729; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 475 699 533 729; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 553 699 761 729; x_wconf 96' lang='deu'>Verständnis</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 782 699 839 729; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 858 700 1030 729; x_wconf 96'>Anatomie</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1053 699 1116 729; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1139 699 1196 729; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1218 699 1407 737; x_wconf 96'>Pathologie</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1429 699 1487 729; x_wconf 96'>des</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1507 699 1629 729; x_wconf 96'>Thorax</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1649 708 1711 729; x_wconf 92'>von</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1734 699 2008 729; x_wconf 96' lang='deu'>entscheidender</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 43 764 2006 803; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_77' title='bbox 43 765 233 803; x_wconf 94'>Bedeutung</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 255 764 306 795; x_wconf 94'>fiir</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 326 765 377 795; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 400 765 604 803; x_wconf 92'>Beurteilung</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 628 765 691 795; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 715 765 925 803; x_wconf 96'>Behandlung</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 947 774 1009 795; x_wconf 92'>von</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1033 766 1210 795; x_wconf 92'>Patienten.</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1234 767 1262 794; x_wconf 96'>In</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1285 765 1408 795; x_wconf 92'>diesem</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1431 765 1685 803; x_wconf 91'>Glossarbeitrag</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1707 765 1836 795; x_wconf 93'>werden</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1858 765 2006 803; x_wconf 92'>wichtige</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 43 830 2005 869; baseline 0.001 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_90' title='bbox 43 830 180 869; x_wconf 96' lang='deu'>Begriffe</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 201 832 241 860; x_wconf 93'>im</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 261 831 545 869; x_wconf 95' lang='deu'>Zusammenhang</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 567 832 624 861; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 643 831 718 861; x_wconf 95'>dem</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 737 831 860 861; x_wconf 93'>Thorax</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 878 831 1033 861; x_wconf 96' lang='deu'>erläutert</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1053 831 1117 861; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1139 831 1298 861; x_wconf 96' lang='deu'>nützliche</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1319 833 1514 861; x_wconf 96' lang='deu'>Ressourcen</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1533 830 1585 861; x_wconf 96'>fiir</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1602 832 1732 861; x_wconf 96'>weitere</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1753 830 2005 861; x_wconf 96'>Informationen</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 897 287 935; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_103' title='bbox 43 897 287 935; x_wconf 91'>bereitgestellt.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 42 985 2006 1089">
+     <span class='ocr_line' id='line_1_15' title="bbox 42 985 2005 1023; baseline 0 -8; x_size 41; x_descenders 11; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_104' title='bbox 42 999 53 1010; x_wconf 55'>«</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 70 985 236 1015; x_wconf 92'>Brustbein</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 254 985 439 1020; x_wconf 89'>(Sternum):</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 457 987 518 1015; x_wconf 93'>Das</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 536 985 701 1015; x_wconf 91'>Brustbein</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 720 986 758 1015; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 774 986 824 1015; x_wconf 93'>ein</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 840 985 963 1015; x_wconf 96' lang='deu'>flacher</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 980 985 1130 1015; x_wconf 96' lang='deu'>Knochen</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1148 986 1176 1015; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1194 985 1251 1015; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1267 986 1357 1015; x_wconf 96'>Mitte</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1374 985 1432 1015; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 1449 985 1645 1021; x_wconf 92'>Brustkorbs,</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 1663 985 1720 1015; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1735 985 1786 1015; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1804 986 1923 1023; x_wconf 96' lang='deu'>Rippen</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1941 985 2005 1015; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1051 2006 1089; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_122' title='bbox 42 1051 93 1081; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 111 1051 319 1081; x_wconf 96' lang='deu'>Wirbelsäule</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 337 1051 516 1081; x_wconf 95' lang='deu'>verbindet.</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 538 1053 573 1081; x_wconf 95'>Es</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 592 1051 682 1081; x_wconf 95'>dient</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 700 1051 747 1081; x_wconf 93'>als</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 765 1051 989 1089; x_wconf 96' lang='deu'>Verankerung</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1009 1051 1060 1081; x_wconf 95'>fiir</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1077 1051 1158 1081; x_wconf 93'>viele</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1179 1051 1322 1081; x_wconf 95' lang='deu'>Muskeln</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 1343 1051 1407 1081; x_wconf 94'>und</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1429 1052 1468 1081; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 1487 1052 1536 1081; x_wconf 93'>ein</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1556 1051 1721 1089; x_wconf 96' lang='deu'>wichtiger</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1740 1051 1866 1081; x_wconf 95'>Bereich</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1886 1051 1937 1081; x_wconf 95'>fiir</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1955 1051 2006 1081; x_wconf 96'>die</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0617-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 17 2008 1111">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 43 17 159 47">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 17 159 47; baseline 0.009 -1; x_size 37.813808; x_descenders 8.8138084; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 159 47; x_wconf 91'>Rinella</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 40 105 305 143">
+     <span class='ocr_line' id='line_1_2' title="bbox 40 105 305 143; baseline 0.004 -9; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_2' title='bbox 40 105 305 143; x_wconf 92'>SWOT-Analyse</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 171 2006 341">
+     <span class='ocr_line' id='line_1_3' title="bbox 43 171 2005 209; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_3' title='bbox 43 172 97 201; x_wconf 93'>Die</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 120 171 379 209; x_wconf 91'>SWOT-Analyse</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 403 172 442 201; x_wconf 94'>ist</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 464 172 536 201; x_wconf 94'>eine</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 561 171 716 201; x_wconf 96'>Methode</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 738 180 793 201; x_wconf 96'>zur</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 816 173 1006 209; x_wconf 96'>Bewertung</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1031 171 1087 201; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1110 171 1252 206; x_wconf 96'>Stärken,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1276 171 1482 206; x_wconf 96'>Schwächen,</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1507 171 1654 201; x_wconf 96'>Chancen</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1680 171 1743 201; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1769 171 2005 209; x_wconf 96'>Bedrohungen</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 236 2006 275; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_16' title='bbox 42 238 131 267; x_wconf 95'>eines</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 159 237 429 272; x_wconf 95'>Unternehmens,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 458 238 546 267; x_wconf 96'>einer</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 573 238 799 275; x_wconf 95'>Organisation</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 828 237 908 267; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 934 238 1023 267; x_wconf 96'>eines</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1052 237 1201 275; x_wconf 96'>Projekts.</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1230 238 1280 267; x_wconf 96'>Sie</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1306 237 1381 267; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1409 236 1460 267; x_wconf 96'>oft</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1486 237 1683 272; x_wconf 96'>verwendet,</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1712 246 1765 267; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1793 237 2006 275; x_wconf 90'>strategische</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 302 1660 341; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_29' title='bbox 43 303 324 341; x_wconf 96'>Entscheidungen</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 338 312 376 333; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 389 302 509 333; x_wconf 96'>treffen</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 525 303 588 333; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 603 303 686 333; x_wconf 96'>Ziele</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 699 312 737 333; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 751 307 873 333; x_wconf 96'>setzen.</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 889 304 943 333; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 955 303 1092 341; x_wconf 96'>Analyse</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1107 303 1239 333; x_wconf 95'>besteht</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1252 312 1310 333; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1322 304 1387 333; x_wconf 96'>vier</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1401 305 1660 341; x_wconf 96'>Komponenten:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 391 2008 495">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 391 2008 429; baseline 0 -8; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_42' title='bbox 42 405 53 416; x_wconf 32'>o</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 84 391 227 421; x_wconf 95' lang='deu'>Stärken:</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 261 392 314 421; x_wconf 96' lang='deu'>Die</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 346 392 493 421; x_wconf 96' lang='deu'>internen</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 527 391 708 427; x_wconf 96' lang='deu'>Merkmale,</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 743 391 944 429; x_wconf 96' lang='deu'>Fähigkeiten</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 977 391 1041 421; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1075 393 1279 427; x_wconf 96' lang='deu'>Ressourcen,</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1312 391 1363 421; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1394 392 1500 421; x_wconf 96' lang='deu'>einem</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1534 391 1777 421; x_wconf 96' lang='deu'>Unternehmen</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1810 391 1890 421; x_wconf 96' lang='deu'>oder</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1920 392 2008 421; x_wconf 96' lang='deu'>einer</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 43 457 1096 495; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_55' title='bbox 43 458 269 495; x_wconf 96' lang='deu'>Organisation</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 284 458 378 487; x_wconf 96' lang='deu'>einen</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 391 457 510 487; x_wconf 96' lang='deu'>Vorteil</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 523 457 714 495; x_wconf 96' lang='deu'>gegenüber</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 726 457 869 487; x_wconf 96' lang='deu'>anderen</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 883 457 1096 487; x_wconf 95' lang='deu'>verschaffen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 42 523 2008 627">
+     <span class='ocr_line' id='line_1_8' title="bbox 42 523 2008 561; baseline 0 -8; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_61' title='bbox 42 537 53 548; x_wconf 41'>se</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 79 523 285 553; x_wconf 96'>Schwächen:</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 313 524 366 553; x_wconf 95'>Die</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 394 524 540 553; x_wconf 95'>internen</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 569 523 750 559; x_wconf 96'>Merkmale,</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 779 523 980 561; x_wconf 96'>Fähigkeiten</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1009 523 1072 553; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1101 525 1306 559; x_wconf 96'>Ressourcen,</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1333 523 1384 553; x_wconf 96' lang='eng'>die</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1410 524 1516 553; x_wconf 96'>einem</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1545 523 1788 553; x_wconf 96'>Unternehmen</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1815 523 1895 553; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1920 524 2008 553; x_wconf 96'>einer</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 589 1124 627; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_74' title='bbox 43 590 269 627; x_wconf 96'>Organisation</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 284 590 378 619; x_wconf 96'>einen</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 394 589 538 619; x_wconf 95'>Nachteil</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 551 589 742 627; x_wconf 96'>gegenüber</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 754 589 897 619; x_wconf 96'>anderen</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 910 589 1124 619; x_wconf 96'>verschaffen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 42 655 1955 693">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 655 1955 693; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_80' title='bbox 42 669 53 680; x_wconf 3'>e</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 67 655 225 685; x_wconf 96'>Chancen:</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 241 656 295 685; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 308 659 463 685; x_wconf 96'>externen</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 479 655 641 691; x_wconf 96'>Faktoren,</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 656 655 707 685; x_wconf 97'>die</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 719 655 771 685; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 783 656 833 685; x_wconf 96' lang='eng'>ein</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 849 655 1092 685; x_wconf 96'>Unternehmen</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1107 655 1187 685; x_wconf 96' lang='eng'>oder</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1200 656 1271 685; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1286 656 1512 693; x_wconf 96'>Organisation</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1526 664 1588 685; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1602 655 1721 685; x_wconf 96'>Vorteil</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1734 656 1801 685; x_wconf 96'>sein</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1817 655 1955 685; x_wconf 95'>können.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 41 721 2008 1111">
+     <span class='ocr_line' id='line_1_11' title="bbox 42 721 2006 759; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_96' title='bbox 42 735 53 746; x_wconf 66'>«</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 67 721 313 759; x_wconf 96' lang='deu'>Bedrohungen:</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 328 722 381 751; x_wconf 96' lang='deu'>Die</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 394 725 548 751; x_wconf 96' lang='deu'>externen</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 563 721 725 757; x_wconf 96' lang='deu'>Faktoren,</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 739 721 789 751; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 801 721 852 751; x_wconf 96' lang='deu'>für</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 863 722 913 751; x_wconf 96' lang='deu'>ein</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 928 721 1171 751; x_wconf 96' lang='deu'>Unternehmen</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1185 721 1265 751; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1276 722 1348 751; x_wconf 96' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 1361 722 1587 759; x_wconf 95' lang='deu'>Organisation</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1602 721 1772 759; x_wconf 96' lang='deu'>nachteilig</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1786 722 1853 751; x_wconf 96' lang='deu'>sein</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1868 721 2006 751; x_wconf 95' lang='deu'>können.</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 43 809 2005 848; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_111' title='bbox 43 811 72 839; x_wconf 89' lang='deu'>In</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 113 809 302 840; x_wconf 89' lang='deu'>unsicheren</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 342 811 451 839; x_wconf 96' lang='deu'>Zeiten</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 491 809 571 839; x_wconf 96' lang='deu'>oder</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 611 811 715 839; x_wconf 96' lang='deu'>Krisen</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 757 809 840 839; x_wconf 96' lang='deu'>kann</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 880 809 931 839; x_wconf 93' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 971 809 1230 848; x_wconf 92' lang='deu'>SWOT-Analyse</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1271 809 1389 845; x_wconf 96' lang='deu'>helfen,</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1430 809 1481 839; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1522 811 1602 847; x_wconf 96' lang='deu'>Lage</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1642 819 1679 839; x_wconf 94' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 1721 809 1900 840; x_wconf 94' lang='deu'>beurteilen</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1941 809 2005 839; x_wconf 96' lang='deu'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 43 875 2008 914; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_125' title='bbox 43 875 485 914; x_wconf 87' lang='deu'>Handlungsmöglichkeiten</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 501 885 539 905; x_wconf 96' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 557 875 798 905; x_wconf 95' lang='deu'>identifizieren.</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 816 875 924 905; x_wconf 96' lang='deu'>Indem</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 942 884 1016 905; x_wconf 96' lang='deu'>man</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1033 875 1083 905; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1100 875 1232 906; x_wconf 96' lang='deu'>Stärken</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 1250 875 1314 905; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1332 875 1527 906; x_wconf 96' lang='deu'>Schwächen</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 1544 876 1634 905; x_wconf 96' lang='deu'>eines</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1650 875 1912 906; x_wconf 96' lang='deu'>Unternehmens</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1928 875 2008 906; x_wconf 96' lang='deu'>oder</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 42 941 2008 980; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_137' title='bbox 42 943 130 972; x_wconf 96' lang='deu'>einer</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 144 943 371 980; x_wconf 96' lang='deu'>Organisation</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 388 941 495 977; x_wconf 96' lang='deu'>kennt,</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 512 941 595 971; x_wconf 96' lang='deu'>kann</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 612 950 686 971; x_wconf 96' lang='deu'>man</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 704 941 923 971; x_wconf 96' lang='deu'>Maßnahmen</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 939 941 1107 979; x_wconf 96' lang='deu'>ergreifen,</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1124 950 1177 971; x_wconf 96' lang='deu'>um</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1193 941 1389 972; x_wconf 96' lang='deu'>Schwächen</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1405 951 1442 971; x_wconf 96' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 1459 941 1639 979; x_wconf 96' lang='deu'>beseitigen</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1655 941 1735 971; x_wconf 96' lang='deu'>oder</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1749 941 1882 972; x_wconf 96' lang='deu'>Stärken</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1897 943 2008 972; x_wconf 96' lang='deu'>weiter</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 41 1007 2005 1046; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_151' title='bbox 41 1017 79 1037; x_wconf 96' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 96 1007 234 1037; x_wconf 96' lang='deu'>stärken.</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 253 1007 361 1037; x_wconf 96' lang='deu'>Indem</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 380 1016 454 1037; x_wconf 96' lang='deu'>man</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 472 1007 620 1037; x_wconf 96' lang='deu'>Chancen</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 639 1007 703 1037; x_wconf 96' lang='deu'>und</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 723 1007 959 1045; x_wconf 96' lang='deu'>Bedrohungen</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 977 1007 1120 1043; x_wconf 96' lang='deu'>erkennt,</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1139 1007 1222 1037; x_wconf 96' lang='deu'>kann</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1240 1016 1314 1037; x_wconf 96' lang='deu'>man</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 1332 1007 1396 1038; x_wconf 96' lang='deu'>sich</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 1414 1007 1471 1037; x_wconf 96' lang='deu'>auf</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 1487 1007 1647 1046; x_wconf 96' lang='deu'>mögliche</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 1666 1007 1785 1037; x_wconf 96' lang='deu'>Risiken</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 1802 1007 2005 1037; x_wconf 96' lang='deu'>vorbereiten</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1073 2005 1111; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_166' title='bbox 42 1073 122 1104; x_wconf 96' lang='deu'>oder</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 133 1073 222 1103; x_wconf 96' lang='deu'>diese</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 235 1073 281 1103; x_wconf 96' lang='deu'>als</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 294 1073 420 1103; x_wconf 96' lang='deu'>Chance</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 434 1077 562 1103; x_wconf 96' lang='deu'>nutzen.</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 577 1073 719 1111; x_wconf 96' lang='deu'>Beispiel:</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 735 1075 763 1103; x_wconf 96' lang='deu'>In</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 777 1073 833 1103; x_wconf 93' lang='deu'>der</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 846 1073 1197 1104; x_wconf 90' lang='deu'>Covid-19-Pandemie</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 1211 1073 1332 1103; x_wconf 96' lang='deu'>könnte</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 1345 1075 1416 1103; x_wconf 96' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 1431 1075 1526 1103; x_wconf 96' lang='deu'>Firma</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 1540 1073 1591 1103; x_wconf 93' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 1604 1073 1863 1111; x_wconf 92' lang='deu'>SWOT-Analyse</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 1877 1077 2005 1109; x_wconf 96' lang='deu'>nutzen,</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0430-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2008 1112">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 43 17 1217 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 17 1217 55; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 107 47; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 122 17 178 47; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 190 18 245 46; x_wconf 96'>Art</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 258 17 315 47; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 329 18 529 55; x_wconf 96'>Freisetzung</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 544 17 594 47; x_wconf 95'>ab.</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 610 17 768 55; x_wconf 93'>Mögliche</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 783 17 1122 55; x_wconf 91'>Erkennungszeichen</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1137 17 1217 47; x_wconf 96'>sind:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 43 104 2008 209">
+     <span class='ocr_line' id='line_1_2' title="bbox 44 104 2008 143; baseline 0.001 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_10' title='bbox 44 107 71 135; x_wconf 83'>1.</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 111 105 497 143; x_wconf 83'>Krankheitssymptome:</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 537 105 736 143; x_wconf 92' lang='deu'>Biologische</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 776 104 994 143; x_wconf 91' lang='deu'>Kampfstoffe</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1034 105 1162 135; x_wconf 96' lang='deu'>können</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1202 106 1393 143; x_wconf 96' lang='deu'>Symptome</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1433 105 1638 135; x_wconf 96' lang='deu'>bestimmter</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1677 105 1888 135; x_wconf 96' lang='deu'>Krankheiten</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1928 105 2008 135; x_wconf 96'>oder</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 43 170 1862 209; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_19' title='bbox 43 171 334 201; x_wconf 96' lang='deu'>Krankheitsbilder</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 345 171 568 206; x_wconf 95' lang='deu'>verursachen,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 583 171 634 201; x_wconf 96' lang='deu'>die</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 648 171 765 201; x_wconf 96' lang='deu'>anders</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 778 171 825 201; x_wconf 96' lang='deu'>als</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 839 171 943 201; x_wconf 96' lang='deu'>üblich</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 957 171 1027 201; x_wconf 96' lang='deu'>sind</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1042 171 1122 201; x_wconf 96' lang='deu'>oder</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1134 172 1206 201; x_wconf 96' lang='deu'>eine</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1220 171 1467 209; x_wconf 96' lang='deu'>ungewöhnlich</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1483 171 1569 201; x_wconf 96' lang='deu'>hohe</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1584 173 1661 201; x_wconf 96' lang='deu'>Rate</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1674 170 1862 201; x_wconf 95' lang='deu'>aufweisen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 43 236 2005 341">
+     <span class='ocr_line' id='line_1_4' title="bbox 43 236 2005 275; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_32' title='bbox 43 238 71 267; x_wconf 93'>2.</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 96 237 323 267; x_wconf 90'>Unnatürliche</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 345 237 540 267; x_wconf 90'>Ausbrüche:</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 565 237 943 272; x_wconf 92'>Krankheitsausbrüche,</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 968 237 1019 267; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1042 237 1289 275; x_wconf 96'>ungewöhnlich</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1313 236 1395 275; x_wconf 96'>groß</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1417 237 1497 267; x_wconf 93'>oder</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1519 236 1723 275; x_wconf 92'>geografisch</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1748 237 1904 275; x_wconf 96'>begrenzt</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1926 237 2005 272; x_wconf 96'>sind,</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 302 1532 341; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_43' title='bbox 43 303 171 333; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 186 302 242 333; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 254 304 326 333; x_wconf 93'>eine</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 340 303 548 333; x_wconf 92'>absichtliche</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 564 304 764 341; x_wconf 96'>Freisetzung</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 778 312 840 333; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 856 303 1077 341; x_wconf 93'>biologischen</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1094 302 1334 341; x_wconf 92'>Kampfstoffen</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1350 303 1532 333; x_wconf 96'>hinweisen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 369 2005 473">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 369 2005 407; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_52' title='bbox 42 371 71 399; x_wconf 95'>3.</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 98 369 313 399; x_wconf 93'>Unbekannte</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 339 369 664 407; x_wconf 88'>Krankheitserreger:</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 689 371 789 399; x_wconf 95'>Wenn</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 815 370 887 399; x_wconf 95'>eine</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 913 369 1082 399; x_wconf 96'>Krankheit</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1107 369 1204 399; x_wconf 96'>durch</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1230 370 1324 399; x_wconf 96'>einen</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1351 369 1584 399; x_wconf 96'>unbekannten</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1610 369 1690 399; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1714 369 2005 407; x_wconf 96'>ungewöhnlichen</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 43 434 1483 473; baseline 0.001 -9; x_size 39; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_63' title='bbox 43 437 171 473; x_wconf 96'>Erreger</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 182 435 368 465; x_wconf 96'>verursacht</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 380 435 464 470; x_wconf 95'>wird,</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 480 435 563 465; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 578 444 613 465; x_wconf 96'>es</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 626 435 690 465; x_wconf 95'>sich</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 706 444 759 465; x_wconf 95'>um</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 774 436 868 465; x_wconf 96'>einen</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 883 435 1104 473; x_wconf 93'>biologischen</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1121 434 1319 473; x_wconf 91'>Kampfstoff</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1333 435 1483 465; x_wconf 95'>handeln.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 43 523 2008 693">
+     <span class='ocr_line' id='line_1_8' title="bbox 43 523 2008 561; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_74' title='bbox 43 524 97 553; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 125 523 335 561; x_wconf 96'>Behandlung</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 361 532 424 553; x_wconf 95'>von</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 452 523 673 561; x_wconf 93'>biologischen</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 702 523 942 561; x_wconf 91'>Kampfstoffen</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 971 523 1072 561; x_wconf 96'>hängt</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1097 532 1159 553; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1187 523 1244 553; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1268 525 1323 553; x_wconf 96'>Art</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1349 523 1407 553; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1434 525 1578 561; x_wconf 91'>Erregers</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1605 523 1668 553; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1696 523 1753 553; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1779 523 1924 553; x_wconf 96'>Schwere</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1951 523 2008 553; x_wconf 96'>der</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 589 2005 627; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_89' title='bbox 43 589 244 627; x_wconf 96'>Erkrankung</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 257 589 307 619; x_wconf 95'>ab.</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 321 590 426 627; x_wconf 96'>Einige</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 440 589 659 619; x_wconf 96'>Maßnahmen</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 673 589 801 619; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 812 589 929 627; x_wconf 96'>jedoch</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 942 598 997 619; x_wconf 96'>zur</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1009 589 1219 627; x_wconf 96'>Behandlung</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1232 598 1294 619; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1309 589 1521 619; x_wconf 96'>Krankheiten</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1534 589 1695 627; x_wconf 96'>aufgrund</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1707 598 1770 619; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1784 589 2005 627; x_wconf 96'>biologischen</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 655 779 693; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_102' title='bbox 43 655 283 693; x_wconf 91'>Kampfstoffen</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 298 655 449 693; x_wconf 95'>ergriffen</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 463 655 602 691; x_wconf 96'>werden,</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 617 655 779 685; x_wconf 96'>darunter:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 41 743 2007 848">
+     <span class='ocr_line' id='line_1_11' title="bbox 44 743 2007 782; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_106' title='bbox 44 745 71 773; x_wconf 95'>1.</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 96 743 300 773; x_wconf 96'>Antibiotika:</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 327 744 377 773; x_wconf 96'>Bei</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 404 743 615 773; x_wconf 96'>bestimmten</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 643 743 851 773; x_wconf 96'>bakteriellen</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 879 745 1028 782; x_wconf 95'>Erregern</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1053 745 1112 773; x_wconf 93'>wie</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1136 743 1277 773; x_wconf 92'>Anthrax</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1301 743 1381 773; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1407 745 1479 773; x_wconf 96'>Pest</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1505 743 1587 773; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 1614 745 1686 773; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 1713 743 1923 782; x_wconf 96'>Behandlung</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1950 745 2007 773; x_wconf 96'>mit</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 809 1211 848; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_120' title='bbox 41 809 234 839; x_wconf 96'>Antibiotika</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 248 809 394 839; x_wconf 96'>wirksam</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 409 810 486 845; x_wconf 96'>sein,</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 499 818 594 839; x_wconf 96'>wenn</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 609 809 697 839; x_wconf 96'>diese</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 710 809 880 848; x_wconf 96'>frühzeitig</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 895 809 1114 848; x_wconf 95'>angewendet</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1125 809 1211 839; x_wconf 95'>wird.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 41 875 2007 1045">
+     <span class='ocr_line' id='line_1_13' title="bbox 43 875 2006 914; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_128' title='bbox 43 877 71 905; x_wconf 93'>2.</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 82 875 252 905; x_wconf 92'>Antivirale</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 265 875 514 906; x_wconf 96'>Medikamente:</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 529 877 583 905; x_wconf 96'>Für</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 594 876 698 913; x_wconf 96'>einige</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 710 877 810 911; x_wconf 96'>Viren,</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 822 876 881 905; x_wconf 96'>wie</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 893 875 951 905; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 964 875 1173 911; x_wconf 91'>Ebola-Virus,</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1186 875 1255 914; x_wconf 96'>gibt</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1266 884 1302 905; x_wconf 93'>es</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1313 875 1477 905; x_wconf 92'>antivirale</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1490 875 1739 911; x_wconf 96'>Medikamente,</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1752 875 1803 905; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1816 877 1844 905; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1857 875 1914 905; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1926 877 2006 913; x_wconf 96'>Lage</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 41 941 2007 980; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_145' title='bbox 41 941 121 977; x_wconf 96'>sind,</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 140 941 190 972; x_wconf 97'>die</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 207 941 422 980; x_wconf 96'>Ausbreitung</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 441 941 499 972; x_wconf 96'>des</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 515 943 603 971; x_wconf 96'>Virus</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 621 943 661 971; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 682 943 799 979; x_wconf 96'>Körper</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 815 951 852 971; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 872 941 1036 972; x_wconf 96'>hemmen.</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1053 941 1139 971; x_wconf 96'>Auch</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1159 941 1225 971; x_wconf 96'>hier</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1242 942 1281 971; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1298 943 1369 972; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1386 941 1578 980; x_wconf 96'>frühzeitige</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1597 941 1807 980; x_wconf 96'>Behandlung</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1827 941 2007 971; x_wconf 96'>besonders</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 41 1007 178 1045; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_161' title='bbox 41 1007 178 1045; x_wconf 96'>wichtig.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 42 1073 2005 1112">
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1073 2005 1112; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_162' title='bbox 42 1075 71 1103; x_wconf 96'>3.</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 90 1073 371 1111; x_wconf 96'>Immuntherapie:</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 390 1075 439 1103; x_wconf 96'>Bei</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 457 1075 584 1111; x_wconf 93'>einigen</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 600 1075 746 1109; x_wconf 92'>Toxinen,</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 763 1075 822 1103; x_wconf 96'>wie</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 839 1073 914 1104; x_wconf 96'>dem</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 933 1073 1215 1109; x_wconf 96'>Botulinumtoxin,</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 1234 1073 1361 1103; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 1379 1073 1570 1111; x_wconf 96'>spezifische</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1586 1073 1776 1111; x_wconf 96'>Antikörper</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1791 1073 1842 1103; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 1858 1073 2005 1112; x_wconf 96'>Wirkung</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

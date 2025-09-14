@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0041-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 16 1116 440">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 41 16 1116 440">
+     <span class='ocr_line' id='line_1_1' title="bbox 41 16 749 55; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 41 17 270 55; x_wconf 91'>vorbeigehen,</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 284 18 338 46; x_wconf 96'>wir</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 350 16 472 55; x_wconf 96'>fangen</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 487 17 607 55; x_wconf 96'>gerade</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 621 20 686 47; x_wconf 96'>erst</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 699 25 749 46; x_wconf 96'>an.</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 918 257 1102 278; baseline 0 0; x_size 32.965771; x_descenders 7; x_ascenders 7.9657702">
+      <span class='ocrx_word' id='word_1_7' title='bbox 918 264 999 278; x_wconf 37'>ra</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1094 257 1102 264; x_wconf 25' lang='eng'>:</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 932 415 1116 440; baseline 0 -1; x_size 40.578949; x_descenders 9.5263157; x_ascenders 9.5263157">
+      <span class='ocrx_word' id='word_1_9' title='bbox 932 415 1062 440; x_wconf 92' lang='eng'>3-Phasen</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1073 417 1116 439; x_wconf 96' lang='eng'>2.0</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

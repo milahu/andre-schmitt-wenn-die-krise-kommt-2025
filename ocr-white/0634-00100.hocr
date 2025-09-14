@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0634-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 249 1386 1087">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 249 689 302">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 249 689 302; baseline -0.002 -11; x_size 53; x_descenders 11; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 252 85 291; x_wconf 93'>7.</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 103 249 689 302; x_wconf 90'>Abbildungsverzeichnis</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 46 322 1033 361">
+     <span class='ocr_line' id='line_1_2' title="bbox 46 322 1033 361; baseline 0 -8; x_size 40; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_3' title='bbox 46 325 59 352; x_wconf 92'>1</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 72 323 250 361; x_wconf 96' lang='deu'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 267 325 293 353; x_wconf 96'>1:</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 303 323 412 353; x_wconf 96' lang='deu'>Adobe</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 423 323 519 353; x_wconf 96' lang='deu'>Stock</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 530 324 735 353; x_wconf 93'>378304444</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 750 322 1033 358; x_wconf 90'>(ProstockStudio)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 41 388 874 427">
+     <span class='ocr_line' id='line_1_3' title="bbox 41 388 874 427; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_10' title='bbox 41 390 62 418; x_wconf 91'>2</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 72 389 250 427; x_wconf 96' lang='deu'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 262 390 293 419; x_wconf 96'>2:</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 303 389 412 419; x_wconf 96'>Adobe</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 423 389 519 419; x_wconf 96'>Stock</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 531 390 736 419; x_wconf 93'>637025413</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 750 388 874 424; x_wconf 84'>(Andrii)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 41 454 862 493">
+     <span class='ocr_line' id='line_1_4' title="bbox 41 454 862 493; baseline 0 -8; x_size 39; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_17' title='bbox 41 457 62 485; x_wconf 89'>3</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 72 455 250 493; x_wconf 89'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 263 457 293 485; x_wconf 96'>3:</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 303 455 412 485; x_wconf 96'>Adobe</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 423 455 519 485; x_wconf 95'>Stock</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 530 456 736 485; x_wconf 94'>563867739</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 750 454 862 490; x_wconf 96'>(Carlo)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 41 521 839 559">
+     <span class='ocr_line' id='line_1_5' title="bbox 41 521 839 559; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_24' title='bbox 41 523 61 550; x_wconf 93'>4</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 72 521 250 559; x_wconf 91'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 262 523 293 551; x_wconf 96'>4:</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 303 521 412 551; x_wconf 96'>Adobe</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 423 521 519 551; x_wconf 96'>Stock</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 530 522 737 551; x_wconf 93'>383046146</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 749 523 839 556; x_wconf 92'>H_Ko</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 586 968 625">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 586 968 625; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_31' title='bbox 42 589 62 617; x_wconf 90'>5</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 72 587 250 625; x_wconf 96' lang='deu'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 263 589 293 617; x_wconf 96'>5:</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 303 587 412 617; x_wconf 96'>Adobe</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 423 587 519 617; x_wconf 96'>Stock</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 530 588 736 617; x_wconf 93'>239912822</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 750 586 863 622; x_wconf 86'>(Andrii</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 875 586 968 622; x_wconf 91'>Gorb)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 43 652 1386 757">
+     <span class='ocr_line' id='line_1_7' title="bbox 43 652 1386 691; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_39' title='bbox 43 654 63 683; x_wconf 93'>6</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 72 653 250 691; x_wconf 96' lang='deu'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 264 654 293 683; x_wconf 96'>6:</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 303 653 412 683; x_wconf 96'>Adobe</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 424 652 532 691; x_wconf 96'>Firefly</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 543 654 666 688; x_wconf 96' lang='deu'>39024;</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 676 653 853 691; x_wconf 96' lang='deu'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 866 654 952 683; x_wconf 93'>eines</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 965 653 1168 683; x_wconf 96' lang='deu'>brennenden</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1179 655 1386 690; x_wconf 96'>Apartments</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 44 718 912 757; baseline 0 -8; x_size 39; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_49' title='bbox 44 721 64 748; x_wconf 92'>7</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 72 719 250 757; x_wconf 90'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 265 721 293 749; x_wconf 96'>7:</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 303 719 412 749; x_wconf 96'>Adobe</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 423 719 519 749; x_wconf 96'>Stock</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 530 720 737 749; x_wconf 93'>599425956</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 750 718 912 754; x_wconf 92'>(wetzkaz)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 784 990 823">
+     <span class='ocr_line' id='line_1_9' title="bbox 42 784 990 823; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_56' title='bbox 42 786 63 815; x_wconf 93'>8</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 72 785 250 823; x_wconf 92'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 263 786 293 815; x_wconf 93'>8:</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 306 786 419 823; x_wconf 92'>Eigene</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 431 785 633 823; x_wconf 93'>Darstellung</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 643 784 666 820; x_wconf 89'>/</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 674 785 859 823; x_wconf 89'>Regionaler</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 867 784 990 815; x_wconf 92'>Ausfall</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 42 850 952 889">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 850 952 889; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_64' title='bbox 42 852 62 881; x_wconf 93'>9</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 72 851 250 889; x_wconf 92'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 263 852 293 881; x_wconf 93'>9:</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 306 852 419 889; x_wconf 92'>Eigene</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 431 851 633 889; x_wconf 93'>Darstellung</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 643 850 666 886; x_wconf 91'>/</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 675 851 821 881; x_wconf 92'>Globaler</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 829 850 952 881; x_wconf 91'>Ausfall</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 46 916 964 955">
+     <span class='ocr_line' id='line_1_11' title="bbox 46 916 964 955; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_72' title='bbox 46 918 86 947; x_wconf 93'>10</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 95 917 273 955; x_wconf 90'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 291 918 340 947; x_wconf 93'>10:</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 353 918 465 955; x_wconf 92'>Eigene</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 478 917 679 955; x_wconf 91'>Darstellung</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 689 916 712 952; x_wconf 91'>/</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 719 918 964 954; x_wconf 89'>Strom-Report,</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 42 982 933 1021">
+     <span class='ocr_line' id='line_1_12' title="bbox 42 982 933 1021; baseline -0.001 -8; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_79' title='bbox 42 983 152 1019; x_wconf 93'>Quelle</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 164 983 219 1013; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 230 982 325 1013; x_wconf 93'>Infos:</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 339 982 933 1021; x_wconf 88'>https://strom-report.com/strom/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='deu' title="bbox 46 1048 1126 1087">
+     <span class='ocr_line' id='line_1_13' title="bbox 46 1048 1126 1087; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_83' title='bbox 46 1051 82 1078; x_wconf 89'>11</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 95 1049 273 1087; x_wconf 96'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 291 1051 340 1078; x_wconf 93' lang='eng'>11:</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 353 1050 465 1087; x_wconf 95'>Eigene</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 478 1049 679 1087; x_wconf 92' lang='eng'>Darstellung</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 689 1048 712 1084; x_wconf 91' lang='eng'>/</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 719 1050 891 1079; x_wconf 88' lang='eng'>Strommix</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 902 1049 1126 1084; x_wconf 95' lang='eng'>Deutschland,</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

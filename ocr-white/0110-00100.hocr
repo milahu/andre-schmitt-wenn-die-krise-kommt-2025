@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0110-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 16 2008 1067">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 43 16 1721 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 16 1721 55; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 270 47; x_wconf 96'>Koordination</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 286 18 343 46; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 356 17 419 47; x_wconf 97'>den</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 435 17 617 47; x_wconf 96'>Betreibern</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 631 25 694 47; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 710 16 925 47; x_wconf 96'>Kraftwerken</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 940 17 1020 47; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1032 17 1269 47; x_wconf 96'>erneuerbaren</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1285 17 1547 55; x_wconf 96'>Energiequellen</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1562 16 1721 55; x_wconf 95'>erfolgen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 42 82 2008 319">
+     <span class='ocr_line' id='line_1_2' title="bbox 43 82 2005 121; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_11' title='bbox 43 82 73 118; x_wconf 89'>b)</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 111 84 428 121; x_wconf 92'>Lastmanagement:</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 467 84 538 113; x_wconf 96'>Eine</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 573 84 703 113; x_wconf 96'>weitere</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 741 82 938 113; x_wconf 96'>Maßnahme</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 976 83 1108 113; x_wconf 96'>besteht</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1143 83 1241 118; x_wconf 96'>darin,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1278 83 1341 113; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1379 83 1662 113; x_wconf 96'>Stromverbrauch</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1699 92 1737 113; x_wconf 95'>zu</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1774 86 1914 118; x_wconf 92'>steuern,</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1953 91 2005 113; x_wconf 96'>um</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 43 143 2005 187; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_23' title='bbox 43 143 302 187; x_wconf 91'>Überlastungen</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 325 158 362 179; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 384 149 581 179; x_wconf 95'>vermeiden.</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 605 150 676 179; x_wconf 96'>Dies</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 699 149 781 179; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 805 149 902 179; x_wconf 96'>durch</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 925 149 976 179; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 997 150 1190 187; x_wconf 96'>Anpassung</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1212 157 1275 179; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1299 149 1688 186; x_wconf 91'>Produktionsprozessen</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1713 150 1740 178; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1764 149 1821 179; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1843 149 2005 184; x_wconf 96'>Industrie,</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 215 2008 253; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_36' title='bbox 42 215 93 245; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 117 216 264 253; x_wconf 96'>Nutzung</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 287 223 349 245; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 374 216 870 253; x_wconf 92'>Lastmanagement-Systemen</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 894 215 974 245; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 995 215 1045 245; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1066 216 1239 253; x_wconf 96'>Anregung</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1261 223 1324 245; x_wconf 97'>von</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1346 215 1584 245; x_wconf 96'>Verbrauchern</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1607 224 1662 245; x_wconf 96'>zur</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1685 215 1903 253; x_wconf 95'>Reduzierung</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1927 215 2008 245; x_wconf 96'>ihrer</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 280 956 319; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_48' title='bbox 43 280 223 319; x_wconf 96'>Nachfrage</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 236 281 389 311; x_wconf 93'>während</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 405 282 655 319; x_wconf 92'>Engpasszeiten</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 670 281 805 311; x_wconf 96'>erreicht</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 816 281 956 311; x_wconf 95'>werden.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 41 346 2007 583">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 346 2007 385; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_53' title='bbox 42 346 69 382; x_wconf 90'>c)</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 88 347 303 377; x_wconf 90'>Netzausbau:</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 321 348 349 376; x_wconf 96'>In</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 367 348 494 385; x_wconf 96'>einigen</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 513 347 614 377; x_wconf 96'>Fällen</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 633 347 715 377; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 733 347 790 377; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 803 347 932 377; x_wconf 96'>Ausbau</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 950 347 1008 377; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1024 348 1247 377; x_wconf 90'>Stromnetzes</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1263 346 1469 377; x_wconf 96'>erforderlich</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1486 348 1563 382; x_wconf 96'>sein,</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1582 355 1634 377; x_wconf 95'>um</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1653 348 1816 385; x_wconf 96'>Engpässe</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1833 346 2007 377; x_wconf 96'>dauerhaft</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 41 407 2005 451; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_68' title='bbox 41 422 79 443; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 94 413 283 451; x_wconf 96'>beseitigen.</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 298 414 370 443; x_wconf 96'>Dies</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 383 412 522 443; x_wconf 96'>umfasst</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 534 413 597 443; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 613 414 674 443; x_wconf 96'>Bau</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 690 421 789 443; x_wconf 93'>neuer</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 802 407 1215 451; x_wconf 92'>Übertragungsleitungen</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1229 413 1309 443; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1320 413 1383 443; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1399 414 1521 443; x_wconf 96'>Einsatz</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1533 421 1595 443; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1610 413 2005 451; x_wconf 92'>Speichertechnologien,</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 43 478 2007 517; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_81' title='bbox 43 487 95 509; x_wconf 92'>um</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 117 479 364 517; x_wconf 92'>überschüssige</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 385 480 514 517; x_wconf 96'>Energie</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 533 488 571 509; x_wconf 92'>zu</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 592 478 720 516; x_wconf 91'>puffern</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 741 479 805 509; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 826 479 875 509; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 897 478 1014 509; x_wconf 96'>Bedarf</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1032 478 1219 509; x_wconf 96'>abzurufen.</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1241 480 1348 509; x_wconf 96'>Dieser</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1368 479 1470 509; x_wconf 96'>Punkt</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1487 479 1597 509; x_wconf 96'>wurde</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1613 479 1730 517; x_wconf 96'>jedoch</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1752 479 1858 509; x_wconf 96'>bisher</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1876 479 2007 509; x_wconf 96'>absolut</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 41 545 1131 583; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_96' title='bbox 41 545 295 583; x_wconf 96'>vernachlässigt</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 309 545 372 575; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 387 545 492 575; x_wconf 96'>steckt</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 506 545 627 575; x_wconf 96'>derzeit</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 641 545 723 575; x_wconf 96'>noch</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 739 546 767 574; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 782 545 845 575; x_wconf 93'>den</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 861 545 1131 575; x_wconf 89'>Kinderschuhen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 632 979 671">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 632 979 671; baseline -0.001 -8; x_size 38.872581; x_descenders 8.8725815; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_104' title='bbox 42 632 521 671; x_wconf 91'>Redispatching-Maßnahmen</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 535 633 601 663; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 612 633 979 663; x_wconf 91'>Blackout-Prävention:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 41 693 2007 1067">
+     <span class='ocr_line' id='line_1_11' title="bbox 43 693 2005 737; baseline 0 -8; x_size 38.872581; x_descenders 8.8725815; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_107' title='bbox 43 700 97 729; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 112 699 374 729; x_wconf 95'>kontinuierliche</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 390 693 634 737; x_wconf 96'>Überwachung</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 650 699 708 729; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 722 700 953 734; x_wconf 90'>Stromnetzes,</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 970 699 1365 737; x_wconf 89'>Echtzeit-Datenanalyse</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1380 699 1444 729; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1460 699 1617 729; x_wconf 96'>moderne</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1630 699 1867 737; x_wconf 96'>Technologien</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1882 699 2005 737; x_wconf 96'>spielen</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 42 764 2005 803; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_117' title='bbox 42 766 113 795; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 127 765 385 795; x_wconf 96'>entscheidende</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 400 765 485 795; x_wconf 95'>Rolle</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 500 765 549 795; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 564 765 621 795; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 634 764 809 795; x_wconf 96'>effektiven</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 825 767 1024 803; x_wconf 96'>Umsetzung</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1038 774 1100 795; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1117 764 1614 803; x_wconf 92'>Redispatching-Maßnahmen.</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1630 765 1730 795; x_wconf 96'>Durch</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1745 765 1796 795; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1811 766 2005 803; x_wconf 96'>Integration</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 41 831 2007 869; baseline 0 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_129' title='bbox 41 840 103 861; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 132 831 355 869; x_wconf 96'>intelligenten</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 383 832 553 869; x_wconf 96'>Systemen</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 582 831 645 861; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 673 832 955 861; x_wconf 93'>automatisierten</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 983 831 1430 869; x_wconf 92'>Steuerungsmechanismen</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1459 831 1586 861; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1616 831 1859 861; x_wconf 96'>Netzbetreiber</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1884 831 2007 861; x_wconf 96'>schnell</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 42 896 2005 935; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_138' title='bbox 42 896 98 927; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 119 897 392 935; x_wconf 96'>Veränderungen</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 417 898 457 926; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 483 898 668 927; x_wconf 96'>Stromnetz</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 692 898 855 935; x_wconf 96'>reagieren</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 881 897 945 927; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 970 897 1020 927; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1044 896 1295 927; x_wconf 96'>erforderlichen</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1321 896 1540 927; x_wconf 96'>Maßnahmen</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 1565 896 1733 935; x_wconf 96'>ergreifen.</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1759 899 1794 927; x_wconf 96'>Es</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1818 898 1857 927; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1878 897 2005 935; x_wconf 96'>wichtig</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 42 962 2005 1001; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_151' title='bbox 42 963 268 998; x_wconf 95'>anzumerken,</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 293 963 369 993; x_wconf 92'>dass</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 394 962 881 1001; x_wconf 91'>Redispatching-Maßnahmen</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 906 963 1000 993; x_wconf 95'>allein</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1026 963 1112 993; x_wconf 95'>nicht</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1136 963 1333 998; x_wconf 96'>ausreichen,</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1359 972 1412 993; x_wconf 95'>um</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1437 963 1496 993; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1521 963 1620 993; x_wconf 96'>Risiko</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1643 972 1706 993; x_wconf 92'>von</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 1733 963 1901 993; x_wconf 92'>Blackouts</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 1925 963 2005 993; x_wconf 96'>auch</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 43 1029 2007 1067; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_163' title='bbox 43 1038 100 1059; x_wconf 96'>nur</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 123 1029 313 1059; x_wconf 96'>annähernd</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 338 1038 375 1059; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 402 1029 591 1067; x_wconf 96'>beseitigen.</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 618 1030 668 1058; x_wconf 93'>Ein</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 693 1029 945 1067; x_wconf 91'>ganzheitlicher</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 967 1031 1085 1059; x_wconf 96'>Ansatz</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 1109 1038 1164 1059; x_wconf 93'>zur</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 1188 1029 1423 1067; x_wconf 92'>Netzplanung,</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1449 1029 1705 1067; x_wconf 92'>-überwachung</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1731 1029 1795 1059; x_wconf 92'>und</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 1821 1029 2007 1059; x_wconf 92'>-sicherheit</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

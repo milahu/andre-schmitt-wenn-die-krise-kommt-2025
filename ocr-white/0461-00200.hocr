@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0461-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 17 1223 1111">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 313 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 313 55; baseline 0.004 -9; x_size 38; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 64'>+</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 65 17 313 55; x_wconf 92'>Werkzeugsatz</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 42 83 341 120">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 83 341 120; baseline -0.003 -7; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_3' title='bbox 42 96 53 107; x_wconf 35'>»</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 65 83 341 120; x_wconf 96' lang='deu'>Taschenlampen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 149 286 186">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 149 286 186; baseline 0.004 -8; x_size 37; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_5' title='bbox 42 162 53 173; x_wconf 38'>+</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 68 149 286 186; x_wconf 91'>Klappspaten</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 214 745 377">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 722 253; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_7' title='bbox 42 228 53 239; x_wconf 60'>*</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 68 214 275 245; x_wconf 93' lang='eng'>Ersatzreifen</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 291 216 348 244; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 361 215 436 245; x_wconf 96'>dem</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 452 215 605 253; x_wconf 96'>richtigen</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 621 215 722 245; x_wconf 96'>Druck</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 42 281 745 319; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_13' title='bbox 42 294 53 305; x_wconf 65' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 67 281 295 319; x_wconf 96'>Sicherungen,</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 311 281 506 316; x_wconf 92'>Keilriemen,</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 520 281 745 311; x_wconf 92'>Wischwasser</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 42 347 291 377; baseline 0 -1; x_size 37.519592; x_descenders 8.5195932; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_17' title='bbox 42 360 53 371; x_wconf 81'>*</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 68 347 291 377; x_wconf 91'>Ersatzbenzin</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 413 206 443">
+     <span class='ocr_line' id='line_1_7' title="bbox 42 413 206 443; baseline 0 -1; x_size 37.519592; x_descenders 8.5195932; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_19' title='bbox 42 426 53 437; x_wconf 43'>«</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 68 413 206 443; x_wconf 92'>Ersatzol</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 479 509 517">
+     <span class='ocr_line' id='line_1_8' title="bbox 42 479 509 517; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_21' title='bbox 42 492 53 503; x_wconf 78'>«</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 67 479 509 517; x_wconf 89'>Sicherheitsgurtschneider</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 545 324 583">
+     <span class='ocr_line' id='line_1_9' title="bbox 42 545 324 583; baseline 0.004 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_23' title='bbox 42 558 53 569; x_wconf 43'>«</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 68 545 324 583; x_wconf 90'>Ratschengurte</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 611 391 649">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 611 391 649; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_25' title='bbox 42 624 53 635; x_wconf 64'>»</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 68 611 391 649; x_wconf 67'>Dachgepacktrager</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 42 677 282 715">
+     <span class='ocr_line' id='line_1_11' title="bbox 42 677 282 715; baseline 0.004 -9; x_size 38; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_27' title='bbox 42 690 53 701; x_wconf 67'>+</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 65 677 282 715; x_wconf 47' lang='eng'>Windensage</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 42 743 363 780">
+     <span class='ocr_line' id='line_1_12' title="bbox 42 743 363 780; baseline -0.003 -7; x_size 36; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_29' title='bbox 42 756 53 767; x_wconf 79'>«</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 67 743 363 780; x_wconf 89'>Siphon-Schlauch</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='deu' title="bbox 42 808 1223 913">
+     <span class='ocr_line' id='line_1_13' title="bbox 42 808 1223 847; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_31' title='bbox 42 822 53 833; x_wconf 39'>+</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 65 810 191 839; x_wconf 96' lang='eng'>Wasser</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 202 808 253 839; x_wconf 95' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 266 810 309 839; x_wconf 96' lang='eng'>30</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 321 810 404 847; x_wconf 96' lang='eng'>Tage</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 419 809 483 839; x_wconf 96' lang='eng'>und</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 498 810 570 839; x_wconf 93' lang='eng'>eine</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 585 809 789 847; x_wconf 96'>Möglichkeit</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 802 818 856 839; x_wconf 93' lang='eng'>zur</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 868 808 1223 847; x_wconf 91' lang='eng'>Wasseraufbereitung</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 42 874 571 913; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_41' title='bbox 42 888 53 899; x_wconf 50'>+</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 66 875 264 905; x_wconf 96'>Zusätzliche</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 280 875 433 913; x_wconf 96'>Kleidung</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 446 874 498 905; x_wconf 95' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 510 875 571 905; x_wconf 96' lang='eng'>alle</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='deu' title="bbox 42 941 264 979">
+     <span class='ocr_line' id='line_1_15' title="bbox 42 941 264 979; baseline 0.005 -9; x_size 37; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_46' title='bbox 42 954 53 965; x_wconf 33'>+</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 68 941 264 979; x_wconf 96'>Ladegeräte</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 42 1007 549 1037">
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1007 549 1037; baseline 0 -1; x_size 37.519592; x_descenders 8.5195932; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_48' title='bbox 42 1020 53 1031; x_wconf 49'>«</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 68 1007 274 1037; x_wconf 95' lang='deu'>Elektrischer</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 286 1007 549 1037; x_wconf 96' lang='deu'>Wechselrichter</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_14' lang='deu' title="bbox 42 1073 568 1111">
+     <span class='ocr_line' id='line_1_17' title="bbox 42 1073 568 1111; baseline -0.002 -8; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_51' title='bbox 42 1086 53 1097; x_wconf 60'>*</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 68 1073 180 1103; x_wconf 96'>Lokale</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 195 1073 259 1103; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 275 1073 438 1111; x_wconf 96'>regionale</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 453 1074 568 1103; x_wconf 96' lang='eng'>Karten</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

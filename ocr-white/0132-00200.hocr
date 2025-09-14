@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0132-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 17 1491 440">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 1491 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 1491 55; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 18 116 52; x_wconf 96'>Zeit,</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 130 17 195 47; x_wconf 96'>sich</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 211 25 263 47; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 278 18 350 47; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 363 17 466 47; x_wconf 96'>solide</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 478 17 697 55; x_wconf 96'>Absicherung</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 713 18 741 46; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 757 18 971 47; x_wconf 91'>Krisenzeiten</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 985 17 1088 47; x_wconf 96'>selbst</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1102 17 1276 47; x_wconf 96'>Gedanken</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1291 26 1328 47; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1344 17 1491 47; x_wconf 95'>machen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 889 92 1158 274">
+     <span class='ocr_line' id='line_1_2' title="bbox 889 92 1158 143; baseline 0 0; x_size 85.820679; x_descenders 15; x_ascenders 19.820675">
+      <span class='ocrx_word' id='word_1_13' title='bbox 889 92 1012 143; x_wconf 30'>[Ex</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1106 92 1158 143; x_wconf 13' lang='eng'>AE]</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 933 220 1115 244; baseline -0.005 -6; x_size 15.646257; x_descenders 2.6462579; x_ascenders 3.6383271">
+      <span class='ocrx_word' id='word_1_15' title='bbox 933 231 947 238; x_wconf 46' lang='eng'>~</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1024 220 1030 244; x_wconf 81' lang='eng'>|</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1034 220 1044 244; x_wconf 49' lang='eng'>5,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1107 231 1115 237; x_wconf 0' lang='eng'>-</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 911 231 1115 274; baseline 0 -14; x_size 29; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_19' title='bbox 911 238 932 260; x_wconf 15' lang='eng'>a</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1057 231 1115 274; x_wconf 16' lang='eng'>=</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 911 231 1144 304">
+     <span class='ocr_line' id='line_1_5' title="bbox 911 231 1144 304; baseline 0.004 -1; x_size 35.391121; x_descenders 5.9857144; x_ascenders 8.2297297">
+      <span class='ocrx_word' id='word_1_21' title='bbox 911 281 970 296; x_wconf 24'>rH</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 991 231 1115 303; x_wconf 36'>a</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1135 296 1144 304; x_wconf 0'>:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 889 281 1151 362">
+     <span class='ocr_line' id='line_1_6' title="bbox 889 281 1151 362; baseline 0 0; x_size 110; x_descenders 29; x_ascenders 29">
+      <span class='ocrx_word' id='word_1_24' title='bbox 889 281 1151 362; x_wconf 24'>ERE</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 955 347 1107 362; baseline 0 -8; x_size 35.391121; x_descenders 5.9857144; x_ascenders 8.2297297">
+      <span class='ocrx_word' id='word_1_25' title='bbox 955 348 961 354; x_wconf 26'>x</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1071 347 1107 362; x_wconf 0'>Le</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 642 409 1407 440">
+     <span class='ocr_line' id='line_1_8' title="bbox 642 409 1407 440; baseline 0 -6; x_size 30; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_27' title='bbox 642 410 887 440; x_wconf 72'>Expertengesprdch</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 896 409 980 434; x_wconf 96'>André</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 987 410 1097 434; x_wconf 93'>Schmitt</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1107 411 1126 434; x_wconf 93'>&amp;</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1138 410 1229 434; x_wconf 93'>Robert</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1236 410 1407 440; x_wconf 92'>Jungnischke</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

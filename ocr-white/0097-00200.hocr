@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0097-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2005 1076">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 41 17 2005 1072">
+     <span class='ocr_line' id='line_1_1' title="bbox 41 17 2005 55; baseline 0 -8; x_size 39.633987; x_descenders 9.6339874; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 41 17 386 47; x_wconf 89'>Wetterverhältnisse.</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 422 18 484 47; x_wconf 96'>Das</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 518 17 677 47; x_wconf 96'>bedeutet</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 707 17 825 55; x_wconf 96'>jedoch</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 859 17 950 52; x_wconf 96'>auch,</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 985 17 1061 47; x_wconf 95'>dass</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1094 17 1158 47; x_wconf 95'>sich</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1193 17 1250 47; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1284 18 1480 55; x_wconf 91'>Energiemix</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1509 17 1607 55; x_wconf 96'>jeden</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1641 18 1702 55; x_wconf 96'>Tag</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1738 17 2005 47; x_wconf 95'>unterschiedlich</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 41 83 1180 121; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_13' title='bbox 41 86 329 118; x_wconf 96'>zusammensetzt,</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 343 83 507 121; x_wconf 96'>abhängig</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 520 91 583 113; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 597 83 781 118; x_wconf 96'>Jahreszeit,</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 795 84 961 121; x_wconf 95'>Tageszeit</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 975 83 1039 113; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1052 84 1180 113; x_wconf 95'>Wetter.</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 643 176 1404 211; baseline 0 -1; x_size 42.764374; x_descenders 9.7643747; x_ascenders 10.70225">
+      <span class='ocrx_word' id='word_1_20' title='bbox 643 176 1019 211; x_wconf 91'>STROM-REPORT:</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1035 176 1283 211; x_wconf 93'>STROMMIX</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1298 176 1404 211; x_wconf 96'>2023</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 536 273 1509 314; baseline 0 -9; x_size 41; x_descenders 9; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_23' title='bbox 536 274 748 305; x_wconf 96'>Monatliche</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 760 277 1076 314; x_wconf 96'>Stromerzeugung</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1085 274 1123 305; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1133 274 1373 305; x_wconf 96'>Deutschland</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1384 273 1509 311; x_wconf 95'>[Netto]</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 258 362 1306 391; baseline 0.001 -6; x_size 29; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_28' title='bbox 258 363 280 385; x_wconf 96'>In</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 290 363 345 385; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 356 363 439 385; x_wconf 95'>ersten</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 450 363 465 386; x_wconf 96'>6</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 475 363 603 385; x_wconf 96'>Monaten</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 614 363 663 385; x_wconf 96'>des</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 673 363 762 386; x_wconf 96'>Jahres</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 773 362 836 386; x_wconf 96'>2023</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 845 363 951 385; x_wconf 96'>wurden</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 961 362 1008 385; x_wconf 93'>224</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1018 363 1075 385; x_wconf 91'>TWh</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1088 362 1181 391; x_wconf 95'>[Netto]</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1194 362 1306 391; x_wconf 96'>erzeugt,</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 257 397 1044 426; baseline 0.001 -7; x_size 28; x_descenders 6; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_41' title='bbox 257 403 352 420; x_wconf 95'>wovon</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 363 397 417 421; x_wconf 96'>58%</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 426 403 474 420; x_wconf 93'>aus</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 485 398 674 420; x_wconf 89'>Erneuerbaren</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 686 398 895 426; x_wconf 96'>Energiequellen</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 906 398 1044 420; x_wconf 96'>stammen.</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 258 465 1402 519; baseline 0 -21; x_size 33.622807; x_descenders 7.6770835; x_ascenders 8.4144735">
+      <span class='ocrx_word' id='word_1_47' title='bbox 258 467 269 517; x_wconf 50' lang='eng'>J</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 283 480 334 498; x_wconf 59' lang='eng'>solor</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 355 466 366 518; x_wconf 20' lang='eng'>f</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 386 482 433 498; x_wconf 17' lang='eng'>wind</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 450 465 574 518; x_wconf 29' lang='eng'>Jeomose</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 586 465 604 519; x_wconf 53' lang='eng'>I</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 618 483 691 498; x_wconf 93' lang='eng'>Wasser</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 708 468 730 510; x_wconf 85' lang='eng'>||</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 741 482 782 498; x_wconf 95' lang='eng'>Gas</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 801 467 817 517; x_wconf 80' lang='eng'>I</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 832 468 961 510; x_wconf 88' lang='eng'>Kemenergie</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 975 465 993 518; x_wconf 53' lang='eng'>I</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1008 468 1124 510; x_wconf 91' lang='eng'>Braunkohle</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1140 465 1157 518; x_wconf 37' lang='eng'>{</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1172 468 1250 510; x_wconf 96' lang='eng'>Andere</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1263 465 1282 519; x_wconf 83'>I</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1295 482 1402 498; x_wconf 96'>Steinkohle</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 254 553 1790 622; baseline 0 -25; x_size 31; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_64' title='bbox 254 577 349 597; x_wconf 82'>Januar:</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 359 577 386 596; x_wconf 93'>44</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 396 576 454 598; x_wconf 90'>TWh,</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 465 576 548 597; x_wconf 96'>davon</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 558 575 587 597; x_wconf 93'>23</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 595 576 647 596; x_wconf 92'>TWh</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 657 570 779 597; x_wconf 96'>Ökostrom</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 791 575 854 602; x_wconf 94'>[53%]</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 938 557 1159 618; x_wconf 27' lang='eng'>NE</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1319 553 1331 622; x_wconf 85' lang='eng'>|</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1345 579 1384 597; x_wconf 87' lang='eng'>513</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1397 553 1790 622; x_wconf 33'>&quot;EDEN</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 257 639 1743 710; baseline 0.001 -26; x_size 28; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_76' title='bbox 257 664 361 684; x_wconf 96'>Februar:</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 371 664 394 684; x_wconf 93'>41</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 408 664 466 686; x_wconf 93'>TWh,</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 477 664 560 684; x_wconf 96'>davon</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 574 663 598 684; x_wconf 92'>19</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 607 664 659 684; x_wconf 91'>TWh</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 668 658 791 685; x_wconf 96'>Ökostrom</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 803 663 866 690; x_wconf 95'>[47%]</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 939 643 1268 706; x_wconf 54' lang='eng'>S|</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1278 665 1316 683; x_wconf 80' lang='eng'>516</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1337 639 1743 710; x_wconf 0' lang='eng'>YEE</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 253 729 1806 800; baseline -0.001 -25; x_size 27; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_87' title='bbox 253 755 321 775; x_wconf 81'>März:</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 330 754 358 775; x_wconf 96' lang='eng'>42</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 368 755 426 777; x_wconf 95' lang='eng'>TWh,</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 435 755 520 775; x_wconf 95' lang='eng'>davon</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 529 754 557 775; x_wconf 96' lang='eng'>24</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 567 755 618 775; x_wconf 93' lang='eng'>TWh</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 628 749 751 776; x_wconf 95'>Ökostrom</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 763 754 825 781; x_wconf 91'>[55%]</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 950 768 956 775; x_wconf 85' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1028 729 1390 800; x_wconf 57' lang='eng'>[ETE</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1394 749 1438 784; x_wconf 94' lang='eng'>483</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1445 729 1611 800; x_wconf 19' lang='eng'>oa</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1699 729 1806 800; x_wconf 33' lang='eng'>os)</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 258 820 1750 891; baseline 0.002 -29; x_size 27; x_descenders 4; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_100' title='bbox 258 841 320 867; x_wconf 88' lang='eng'>April:</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 330 841 358 863; x_wconf 96' lang='eng'>35</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 367 841 425 864; x_wconf 96' lang='eng'>TWh,</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 435 841 519 862; x_wconf 95' lang='eng'>davon</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 529 841 552 862; x_wconf 95' lang='eng'>21</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 566 842 618 862; x_wconf 93' lang='eng'>TWh</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 627 834 750 863; x_wconf 96'>Ökostrom</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 762 840 825 867; x_wconf 96'>[59%]</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 937 837 984 872; x_wconf 92' lang='eng'>5.62</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1071 820 1314 891; x_wconf 31' lang='eng'>hy</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1396 820 1456 891; x_wconf 45' lang='eng'>BB</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1461 820 1519 891; x_wconf 32'>N</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1620 820 1750 891; x_wconf 51'>0]</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 258 907 1723 978; baseline 0.001 -27; x_size 30; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_113' title='bbox 258 931 311 952; x_wconf 96' lang='eng'>Mai:</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 321 931 372 953; x_wconf 96' lang='eng'>32,6</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 380 931 439 953; x_wconf 96' lang='eng'>TWh,</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 449 931 533 952; x_wconf 96'>davon</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 542 931 570 952; x_wconf 96' lang='eng'>22</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 579 931 631 951; x_wconf 93' lang='eng'>TWh</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 641 926 764 952; x_wconf 95'>Ökostrom</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 776 930 839 957; x_wconf 66'>[69%]</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 942 934 967 953; x_wconf 66' lang='eng'>81</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1138 911 1321 973; x_wconf 21' lang='eng'>a</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 1440 907 1497 977; x_wconf 8'>AR</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1504 907 1723 978; x_wconf 7' lang='eng'>IER</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 258 1004 1691 1076; baseline -0.001 -26; x_size 31; x_descenders 5; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_125' title='bbox 258 1028 314 1050; x_wconf 94' lang='eng'>Juni:</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 324 1027 352 1050; x_wconf 96' lang='eng'>30</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 361 1028 419 1050; x_wconf 96' lang='eng'>TWh,</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 429 1028 513 1049; x_wconf 95' lang='eng'>davon</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 523 1027 552 1050; x_wconf 96' lang='eng'>20</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 560 1028 611 1048; x_wconf 93' lang='eng'>TWh</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 622 1023 744 1050; x_wconf 95'>Ökostrom</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 756 1027 819 1054; x_wconf 92'>[68%]</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 942 1031 971 1050; x_wconf 94' lang='eng'>89</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 1168 1004 1330 1076; x_wconf 47' lang='eng'>ry</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1414 1004 1471 1076; x_wconf 60' lang='eng'>EB</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1478 1004 1577 1076; x_wconf 31'>52</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1652 1008 1691 1072; x_wconf 22' lang='eng'>|</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

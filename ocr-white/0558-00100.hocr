@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0558-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 18 2007 627">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 18 177 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 18 177 55; baseline 0.007 -9; x_size 37; x_descenders 9; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 63'>«</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 65 18 177 55; x_wconf 96'>Augen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 42 83 174 113">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 83 174 113; baseline -0.008 0; x_size 38.246967; x_descenders 8.2469683; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_3' title='bbox 42 96 53 107; x_wconf 41'>+</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 67 83 174 113; x_wconf 96'>Ohren</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 149 354 179">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 149 354 179; baseline -0.003 0; x_size 38.639679; x_descenders 8.6396809; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_5' title='bbox 42 162 53 173; x_wconf 40'>+</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 67 149 354 179; x_wconf 91' lang='eng'>Geschlechtsteile</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 216 142 245">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 216 142 245; baseline 0.01 -1; x_size 36.639679; x_descenders 8.6396809; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_7' title='bbox 42 228 53 239; x_wconf 47'>+</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 68 216 142 245; x_wconf 96'>Knie</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 281 280 311">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 281 280 311; baseline 0 -1; x_size 37.246967; x_descenders 8.2469683; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 42 294 53 305; x_wconf 50'>«</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 67 281 280 311; x_wconf 92' lang='deu'>Schienbeine</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 42 346 2007 451">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 346 2007 385; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_11' title='bbox 42 360 53 371; x_wconf 74'>*</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 89 348 138 377; x_wconf 96' lang='eng'>Bei</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 174 348 261 377; x_wconf 96' lang='eng'>einer</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 295 348 424 384; x_wconf 96' lang='eng'>Gruppe</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 458 347 521 377; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 556 346 714 377; x_wconf 93'>Anführer</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 747 347 946 384; x_wconf 90'>schnappen,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 983 346 1054 376; x_wconf 95'>hilft</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1089 347 1175 376; x_wconf 96' lang='eng'>nicht</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1210 348 1329 382; x_wconf 96'>immer,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1364 347 1442 377; x_wconf 96'>aber</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1475 347 1596 377; x_wconf 96'>andere</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1630 347 1699 377; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1735 346 2007 385; x_wconf 96'>gegebenenfalls</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 42 413 336 451; baseline -0.003 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_25' title='bbox 42 413 336 451; x_wconf 91'>eingeschüchtert.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 43 500 1783 539">
+     <span class='ocr_line' id='line_1_8' title="bbox 43 500 1783 539; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_26' title='bbox 43 502 132 539; x_wconf 96'>Bring</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 149 501 262 531; x_wconf 96'>Kinder</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 274 510 311 531; x_wconf 93'>zu</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 326 500 544 536; x_wconf 92'>Judo/Karate</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 558 501 638 531; x_wconf 95'>oder</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 650 501 793 531; x_wconf 92'>anderen</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 809 500 1147 539; x_wconf 91'>Kampfsport-Orten.</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1163 503 1198 531; x_wconf 96'>Es</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1210 501 1285 531; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1300 501 1381 531; x_wconf 96'>dazu</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1397 501 1479 531; x_wconf 96'>noch</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1496 501 1634 539; x_wconf 96'>Respekt</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1647 501 1783 539; x_wconf 93'>gelehrt.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 43 589 1591 627">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 589 1591 627; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_39' title='bbox 43 589 90 619; x_wconf 96'>Ich</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 106 589 205 625; x_wconf 95'>hoffe,</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 221 589 267 619; x_wconf 96'>ich</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 283 589 404 619; x_wconf 96'>konnte</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 416 589 468 619; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 480 590 530 619; x_wconf 96'>ein</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 546 598 623 627; x_wconf 95'>paar</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 636 590 779 619; x_wconf 96'>Minuten</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 794 598 866 619; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 883 589 1099 619; x_wconf 96'>Nachdenken</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1114 598 1266 627; x_wconf 96'>anregen.</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1282 589 1389 619; x_wconf 96'>Danke</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1402 589 1470 619; x_wconf 96'>fürs</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1484 591 1591 619; x_wconf 95'>Lesen.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0210-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 137 1306 723">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 137 1306 723">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 137 1306 200; baseline 0 0; x_size 112.39285; x_descenders 17.142857; x_ascenders 31.75">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 101 744 222; x_wconf 10'>Trew</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 925 101 1306 222; x_wconf 57'>[www</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 267 1306 330; baseline 0 0; x_size 112.39285; x_descenders 17.142857; x_ascenders 31.75">
+      <span class='ocrx_word' id='word_1_3' title='bbox 42 267 273 330; x_wconf 14' lang='deu'>7</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 499 231 764 352; x_wconf 0' lang='deu'>rtuskelfaseriss</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 786 231 863 352; x_wconf 63' lang='deu'>Grad</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 869 267 1306 330; x_wconf 33' lang='deu'>128</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 42 333 1306 396; baseline 0 0; x_size 112.39285; x_descenders 17.142857; x_ascenders 31.75">
+      <span class='ocrx_word' id='word_1_7' title='bbox 38 297 270 418; x_wconf 0'>TT</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 461 297 885 418; x_wconf 0' lang='deu'>[riskelfasenissörad2</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 955 297 1309 418; x_wconf 6'>usm]</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 398 1306 461; baseline 0 0; x_size 112.39285; x_descenders 17.142857; x_ascenders 31.75">
+      <span class='ocrx_word' id='word_1_10' title='bbox 38 362 291 483; x_wconf 39'>EE</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 491 362 734 483; x_wconf 19'>TT</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 786 362 885 483; x_wconf 52' lang='deu'>Grad3</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 946 398 1306 461; x_wconf 28'>PR</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 42 529 1306 592; baseline 0 0; x_size 112.39285; x_descenders 17.142857; x_ascenders 31.75">
+      <span class='ocrx_word' id='word_1_14' title='bbox 38 493 250 614; x_wconf 11' lang='deu'>7</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 453 529 463 592; x_wconf 46' lang='deu'>|</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 491 493 681 614; x_wconf 57' lang='deu'>Bänderriss</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 695 493 802 614; x_wconf 10' lang='deu'>Grad2</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 885 493 1117 614; x_wconf 0'>Juve</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1227 529 1306 592; x_wconf 37'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 42 594 1306 657; baseline 0 0; x_size 112.39285; x_descenders 17.142857; x_ascenders 31.75">
+      <span class='ocrx_word' id='word_1_20' title='bbox 42 594 1306 657; x_wconf 33' lang='deu'> [Bänderriss</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 695 558 961 679; x_wconf 33' lang='deu'>Grad3_|</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 983 558 1150 679; x_wconf 32' lang='deu'>3sbis368</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1237 558 1309 679; x_wconf 67'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 42 660 1306 723; baseline 0 0; x_size 112.39285; x_descenders 17.142857; x_ascenders 31.75">
+      <span class='ocrx_word' id='word_1_24' title='bbox 42 660 1306 723; x_wconf 54' lang='deu'>|</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 481 624 583 745; x_wconf 34'>|</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 713 624 875 745; x_wconf 9'>TS</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 965 660 1306 723; x_wconf 25'>CTS</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

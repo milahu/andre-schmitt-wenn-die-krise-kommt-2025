@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0099-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 179 17 1870 1050">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 179 17 1870 1050">
+     <span class='ocr_line' id='line_1_1' title="bbox 334 17 1710 57; baseline 0.001 -9; x_size 41; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 334 17 451 49; x_wconf 96'>Anteil</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 461 17 522 49; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 532 18 789 57; x_wconf 96'>Energieträger</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 800 27 845 49; x_wconf 96'>an</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 856 17 917 49; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 927 20 1243 57; x_wconf 96'>Stromerzeugung</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1253 18 1303 48; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1314 22 1431 49; x_wconf 96'>ersten</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1441 17 1606 57; x_wconf 96'>Halbjahr</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1618 20 1710 49; x_wconf 96'>2023</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 234 94 1368 136; baseline 0 -9; x_size 42; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_11' title='bbox 234 95 297 128; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 312 94 591 136; x_wconf 96'>Energieträger</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 605 102 655 128; x_wconf 96'>an</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 671 95 740 128; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 753 95 1090 136; x_wconf 96'>Stromerzeugung</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1106 94 1151 127; x_wconf 95'>im</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1172 96 1198 128; x_wconf 95'>1.</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1216 96 1259 128; x_wconf 96'>HJ</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1276 95 1368 128; x_wconf 96'>2023</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 505 217 746 255; baseline -0.004 -8; x_size 39; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_20' title='bbox 505 217 654 255; x_wconf 95' lang='eng'>Sonstige</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 670 225 697 243; x_wconf 69' lang='eng'>59</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 705 225 746 240; x_wconf 69' lang='eng'>wn</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 370 278 586 315; baseline -0.005 -7; x_size 37; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_23' title='bbox 370 278 586 315; x_wconf 90' lang='eng'>Kernenergie</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 363 330 439 348; baseline -0.013 -2; x_size 19.095976; x_descenders 4.0959759; x_ascenders 4.1116343">
+      <span class='ocrx_word' id='word_1_24' title='bbox 363 330 391 348; x_wconf 92' lang='eng'>6,7</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 400 330 439 345; x_wconf 93' lang='eng'>TWh</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1347 377 1516 406; baseline 0.006 -3; x_size 34.147404; x_descenders 7.1474032; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_26' title='bbox 1347 377 1516 406; x_wconf 90' lang='eng'>Windkraft</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 270 422 1522 458; baseline 0.001 -15; x_size 29; x_descenders 8; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_27' title='bbox 270 422 389 458; x_wconf 91' lang='eng'>Erdgas</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1434 428 1474 446; x_wconf 91'>66,8</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1480 428 1522 444; x_wconf 7' lang='eng'>TWh</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 267 461 744 495; baseline -0.002 -1; x_size 39.090172; x_descenders 8.3846149; x_ascenders 8.416667">
+      <span class='ocrx_word' id='word_1_30' title='bbox 267 478 307 495; x_wconf 87'>23,3</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 315 478 356 493; x_wconf 7' lang='eng'>TWh</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 664 461 744 489; x_wconf 96'>10,4%</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 821 602 1283 650; baseline 0.004 -3; x_size 39.652119; x_descenders 8.6521196; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_33' title='bbox 821 625 961 650; x_wconf 63'>TWh[Mrd.</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 968 625 1037 650; x_wconf 68'>kWh)</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1104 618 1111 642; x_wconf 68'>|</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1206 602 1283 623; x_wconf 34' lang='eng'>my</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 267 651 1274 690; baseline -0.002 -9; x_size 43; x_descenders 13; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_37' title='bbox 267 651 450 681; x_wconf 91' lang='eng'>Steinkohle</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1268 667 1274 690; x_wconf 89' lang='eng'>/</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 264 685 1573 738; baseline 0.002 -16; x_size 45; x_descenders 11; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_39' title='bbox 264 685 291 738; x_wconf 19' lang='eng'>20</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 295 685 334 738; x_wconf 19' lang='eng'>TWh</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1037 690 1258 735; x_wconf 24' lang='eng'>Pa</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1352 696 1573 726; x_wconf 91' lang='eng'>Photovoltaik</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 1044 740 1580 772; baseline 0 -8; x_size 32; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_43' title='bbox 1044 740 1079 772; x_wconf 34' lang='eng'>\N</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1240 751 1243 757; x_wconf 70' lang='eng'>4</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1506 736 1532 776; x_wconf 87' lang='eng'>30</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1542 748 1580 764; x_wconf 87' lang='eng'>TWh</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 370 823 1500 880; baseline 0 -13; x_size 47.27594; x_descenders 8.2759409; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_47' title='bbox 370 824 568 880; x_wconf 90' lang='eng'>Braunkohle</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1150 828 1174 845; x_wconf 30'>a</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1336 823 1500 853; x_wconf 95'>Biomasse</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 1410 867 1498 885; baseline -0.011 -1; x_size 21.13797; x_descenders 4.1379704; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_50' title='bbox 1410 867 1446 885; x_wconf 91'>21,1</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1457 867 1498 883; x_wconf 87' lang='eng'>TWh</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 362 899 1445 932; baseline 0.001 -1; x_size 40.27594; x_descenders 8.2759409; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_52' title='bbox 362 899 398 916; x_wconf 19'>AN</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 410 899 450 914; x_wconf 0' lang='eng'>Twn</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1240 902 1445 932; x_wconf 50'>Wasserkraft</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 969 943 1447 970; baseline 0 -2; x_size 31.018866; x_descenders 6.0188661; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_55' title='bbox 969 943 978 944; x_wconf 0' lang='eng'>h</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1370 952 1399 970; x_wconf 44' lang='eng'>9.4</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1407 952 1447 969; x_wconf 44' lang='eng'>TWh</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 179 1019 1870 1050; baseline 0 -6; x_size 31; x_descenders 7; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_58' title='bbox 179 1021 207 1044; x_wconf 96' lang='eng'>Es</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 217 1020 273 1044; x_wconf 95' lang='eng'>sind</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 285 1020 325 1044; x_wconf 93' lang='eng'>die</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 337 1020 575 1050; x_wconf 90' lang='eng'>Nettoproduktion</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 586 1020 648 1044; x_wconf 93' lang='eng'>aller</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 659 1019 814 1044; x_wconf 92' lang='eng'>Kraftwerke</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 824 1020 984 1050; x_wconf 92' lang='eng'>dargestellt.</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 996 1020 1094 1048; x_wconf 96' lang='eng'>Quelle:</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1107 1019 1263 1044; x_wconf 93' lang='eng'>Fraunhofer</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1274 1021 1315 1044; x_wconf 92' lang='eng'>ISE</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1326 1021 1396 1044; x_wconf 93' lang='eng'>2023</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1409 1019 1870 1050; x_wconf 91' lang='eng'>https://strom-report.com/strom</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

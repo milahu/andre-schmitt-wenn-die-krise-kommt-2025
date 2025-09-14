@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0280-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 17 2008 1067">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 2008 253">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 17 2006 55; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 390 55; x_wconf 91'>Feuchtigkeitsgehalt</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 404 25 467 47; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 485 18 520 46; x_wconf 96'>11</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 543 17 590 47; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 607 18 647 46; x_wconf 92'>12</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 663 18 697 46; x_wconf 92'>%</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 714 17 806 52; x_wconf 96'>kann,</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 824 20 918 47; x_wconf 96'>unter</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 933 17 1235 55; x_wconf 96'>Berücksichtigung</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1251 17 1388 47; x_wconf 96'>anderer</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1404 17 1566 52; x_wconf 96'>Faktoren,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1584 17 1702 47; x_wconf 96'>bereits</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1717 18 1788 47; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1805 17 2006 47; x_wconf 96'>beachtliche</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 43 83 2005 121; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_15' title='bbox 43 83 240 113; x_wconf 96'>Haltbarkeit</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 265 91 327 113; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 354 83 457 113; x_wconf 96'>vielen</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 484 83 600 113; x_wconf 96'>Jahren</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 628 83 763 113; x_wconf 95'>erreicht</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 788 83 927 118; x_wconf 95'>werden,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 956 83 1189 113; x_wconf 96'>insbesondere</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1217 83 1266 113; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1295 84 1458 121; x_wconf 96'>Lagerung</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1487 83 1536 113; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1565 83 1729 121; x_wconf 96'>niedrigen</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1755 84 2005 120; x_wconf 96'>Temperaturen</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 42 148 2008 187; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_27' title='bbox 42 148 204 184; x_wconf 96'>(maximal</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 218 150 258 178; x_wconf 96'>12</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 270 148 329 184; x_wconf 95'>°C).</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 343 150 392 178; x_wconf 93'>Ein</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 407 149 754 187; x_wconf 91'>Feuchtigkeitsgehalt</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 764 157 826 179; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 842 150 883 179; x_wconf 91'>10</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 894 150 928 178; x_wconf 91'>%</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 940 149 1020 179; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1029 150 1171 187; x_wconf 96'>weniger</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1183 150 1222 179; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1233 149 1369 186; x_wconf 96'>optimal</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1379 148 1431 179; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1441 149 1492 179; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1505 149 1821 187; x_wconf 89'>Langzeitlagerung,</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1834 149 1915 179; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1929 149 2008 179; x_wconf 96'>über</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 819 253; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_44' title='bbox 42 216 136 245; x_wconf 96'>einen</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 150 216 308 245; x_wconf 96'>Zeitraum</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 322 223 385 245; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 399 215 481 245; x_wconf 96'>zehn</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 497 215 544 245; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 557 214 678 253; x_wconf 96'>dreißig</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 692 215 819 245; x_wconf 96'>Jahren.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 42 303 392 341">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 303 392 341; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_51' title='bbox 42 303 253 341; x_wconf 96'>Feuchtigkeit</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 265 311 392 333; x_wconf 96'>messen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 40 368 2008 1067">
+     <span class='ocr_line' id='line_1_6' title="bbox 43 368 2005 407; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_53' title='bbox 43 370 97 399; x_wconf 95'>Die</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 120 370 341 407; x_wconf 96'>Bestimmung</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 364 369 422 399; x_wconf 93'>des</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 444 369 808 407; x_wconf 91'>Feuchtigkeitsgehalts</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 828 378 891 399; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 914 369 1063 399; x_wconf 96'>Getreide</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1085 368 1206 407; x_wconf 96'>erfolgt</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1228 370 1349 407; x_wconf 96'>präzise</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1372 368 1508 399; x_wconf 96'>mithilfe</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1529 378 1591 399; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1615 369 2005 407; x_wconf 91'>Feuchtigkeitsmessern,</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 42 435 2005 473; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_64' title='bbox 42 435 93 465; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 120 435 244 465; x_wconf 95'>sowohl</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 272 436 312 464; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 341 435 542 465; x_wconf 96'>Fachhandel</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 569 435 615 465; x_wconf 96'>als</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 642 435 722 465; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 751 435 859 465; x_wconf 96'>online</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 886 435 1051 465; x_wconf 96'>erhältlich</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1079 435 1158 465; x_wconf 96'>sind.</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1188 437 1245 465; x_wconf 96'>Um</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1273 435 1324 465; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1350 435 1536 473; x_wconf 96'>Trocknung</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1564 444 1601 465; x_wconf 95'>zu</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1631 435 1893 473; x_wconf 96'>beschleunigen,</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1923 435 2005 465; x_wconf 96'>kann</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 42 500 2008 539; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_79' title='bbox 42 501 100 531; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 121 501 270 531; x_wconf 95'>Getreide</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 291 500 348 531; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 367 501 442 531; x_wconf 96'>dem</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 465 501 574 531; x_wconf 96'>Boden</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 595 501 723 531; x_wconf 96'>verteilt</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 742 501 881 531; x_wconf 96'>werden.</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 904 502 976 531; x_wconf 96'>Eine</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 997 500 1150 531; x_wconf 96'>effektive</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1172 501 1327 531; x_wconf 96'>Methode</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1348 510 1402 531; x_wconf 93'>zur</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1423 501 1869 539; x_wconf 92'>Feuchtigkeitsreduzierung</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1892 502 1931 531; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1951 501 2008 531; x_wconf 96'>der</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 566 2005 605; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_93' title='bbox 43 568 166 597; x_wconf 96'>Einsatz</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 177 576 239 597; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 251 567 596 605; x_wconf 92'>Trocknungsmitteln,</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 609 567 660 597; x_wconf 97'>die</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 672 567 723 597; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 736 566 1163 605; x_wconf 91'>Umgebungsfeuchtigkeit</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1174 567 1392 597; x_wconf 91'>absorbieren.</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1407 567 1514 597; x_wconf 96'>Indem</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1529 576 1602 597; x_wconf 96'>man</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1616 567 1674 597; x_wconf 92'>das</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1684 567 2005 605; x_wconf 91'>Trocknungsmittel,</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 632 2005 671; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_104' title='bbox 43 633 292 671; x_wconf 93'>beispielsweise</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 313 633 469 671; x_wconf 92'>Silikagel,</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 491 634 693 671; x_wconf 96'>gemeinsam</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 716 634 773 663; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 793 633 868 663; x_wconf 96'>dem</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 890 633 1039 663; x_wconf 96'>Getreide</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1061 634 1089 662; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1111 634 1204 663; x_wconf 93'>einen</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1227 632 1421 663; x_wconf 91'>luftdichten</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1444 634 1544 663; x_wconf 96'>Eimer</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1563 633 1640 671; x_wconf 95'>gibt,</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1662 633 1807 663; x_wconf 96'>entzieht</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1827 642 1862 663; x_wconf 96'>es</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 1882 633 2005 663; x_wconf 96'>diesem</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 42 698 2007 737; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_118' title='bbox 42 699 93 729; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 124 699 347 737; x_wconf 96'>Feuchtigkeit.</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 379 699 464 729; x_wconf 96'>Nach</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 494 700 544 729; x_wconf 96'>ein</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 576 699 622 729; x_wconf 95'>bis</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 651 700 727 729; x_wconf 96'>zwei</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 757 699 898 729; x_wconf 96'>Wochen</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 927 699 1002 729; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1032 699 1091 729; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1120 698 1308 737; x_wconf 92'>erschöpfte</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1337 699 1649 737; x_wconf 92'>Trocknungsmittel</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1679 698 1824 729; x_wconf 96'>entfernt</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1854 699 1918 729; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1949 699 2007 729; x_wconf 96'>das</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 764 2007 803; baseline 0 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_132' title='bbox 41 764 453 803; x_wconf 92'>feuchtigkeitsreduzierte</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 469 765 618 795; x_wconf 97'>Getreide</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 632 765 706 795; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 724 765 804 795; x_wconf 96'>nach</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 820 766 908 795; x_wconf 93'>einer</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 923 765 1221 803; x_wconf 89'>Kontrollmessung</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1236 765 1408 803; x_wconf 96'>versiegelt</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1423 765 1579 803; x_wconf 96'>gelagert.</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1594 765 1680 795; x_wconf 93'>Viele</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1694 765 2007 803; x_wconf 91'>Trocknungsmittel</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 41 830 2007 869; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_142' title='bbox 41 831 111 861; x_wconf 93'>sind</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 138 831 477 866; x_wconf 91'>wiederverwendbar,</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 506 831 613 861; x_wconf 95'>indem</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 642 840 716 861; x_wconf 95'>man</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 743 832 788 861; x_wconf 96'>sie</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 815 832 855 860; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 884 830 968 861; x_wconf 96'>Ofen</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 996 831 1111 861; x_wconf 96'>erhitzt</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1138 831 1202 861; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 1230 831 1420 861; x_wconf 92'>reaktiviert.</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1449 832 1502 861; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1530 831 1755 861; x_wconf 96'>Lebensdauer</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1779 840 1842 861; x_wconf 95'>von</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1870 832 2007 869; x_wconf 95'>Saatgut</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 41 897 2005 935; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_156' title='bbox 41 897 225 935; x_wconf 96'>verlängert</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 240 897 304 927; x_wconf 96'>sich</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 322 897 419 927; x_wconf 96'>durch</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 436 898 508 927; x_wconf 93'>eine</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 523 897 880 935; x_wconf 92'>Temperatursenkung</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 898 906 950 927; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 964 897 1085 935; x_wconf 96'>jeweils</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 1102 898 1153 932; x_wconf 95'>5,6</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 1170 898 1205 927; x_wconf 96'>°C</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 1222 898 1262 926; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 1281 897 1407 927; x_wconf 96'>Bereich</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 1423 906 1485 927; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 1502 898 1522 927; x_wconf 91'>0</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 1538 898 1574 927; x_wconf 94'>°C</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 1591 897 1637 927; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 1654 898 1696 927; x_wconf 96'>50</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1712 898 1756 927; x_wconf 93'>°C.</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1775 897 2005 927; x_wconf 92'>Frostschäden</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 40 962 2007 1001; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_174' title='bbox 40 967 147 993; x_wconf 96'>treten</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 171 963 220 993; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 242 964 348 993; x_wconf 93'>einem</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 372 963 719 1001; x_wconf 92'>Feuchtigkeitsgehalt</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 739 972 802 993; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 823 964 965 1001; x_wconf 96'>weniger</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 985 963 1032 993; x_wconf 96'>als</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 1055 965 1096 992; x_wconf 91'>14</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 1117 965 1151 993; x_wconf 91'>%</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 1174 963 1260 993; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 1281 962 1342 993; x_wconf 95'>auf.</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 1365 965 1441 993; x_wconf 95'>Zum</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 1465 963 1599 1001; x_wconf 96'>Beispiel</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1621 963 1704 993; x_wconf 93'>kann</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 1728 964 1927 993; x_wconf 92'>Hartweizen</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 1950 964 2007 993; x_wconf 96'>mit</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1028 2006 1067; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_190' title='bbox 42 1033 125 1059; x_wconf 96'>etwa</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 148 1030 189 1059; x_wconf 92'>10</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 207 1030 241 1059; x_wconf 91'>%</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 262 1029 609 1067; x_wconf 92'>Feuchtigkeitsgehalt</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 628 1033 722 1059; x_wconf 93'>unter</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 740 1028 1109 1059; x_wconf 91'>Sauerstoffausschluss</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 1129 1029 1192 1059; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 1214 1029 1400 1067; x_wconf 96'>Beachtung</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 1420 1029 1556 1059; x_wconf 96'>anderer</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 1575 1029 1728 1059; x_wconf 96'>Faktoren</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 1749 1029 1798 1059; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 1819 1030 1861 1059; x_wconf 96'>20</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 1880 1030 1916 1059; x_wconf 96'>°C</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 1935 1030 2006 1059; x_wconf 96'>eine</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

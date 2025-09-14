@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0098-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 20 2007 1123">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 930 20 1118 51">
+     <span class='ocr_line' id='line_1_1' title="bbox 930 20 1118 51; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 930 20 1072 51; x_wconf 96'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1086 22 1118 44; x_wconf 93'>10</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 42 117 2007 1026">
+     <span class='ocr_line' id='line_1_2' title="bbox 43 117 925 171; baseline 0 -10; x_size 46; x_descenders 10; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_3' title='bbox 43 127 101 161; x_wconf 92'>2.1</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 124 117 472 161; x_wconf 91'>Ökostromanteil</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 488 135 552 161; x_wconf 93'>am</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 570 125 786 161; x_wconf 92'>Strommix</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 801 125 925 171; x_wconf 96'>steigt</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 43 217 2006 256; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_8' title='bbox 43 219 97 248; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 119 218 343 256; x_wconf 96'>Windenergie</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 365 226 430 247; x_wconf 96'>war</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 452 219 509 247; x_wconf 95'>mit</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 531 219 574 248; x_wconf 93'>66</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 596 218 676 247; x_wconf 92'>TWh</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 700 219 936 256; x_wconf 92'>eingespeister</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 957 219 1187 256; x_wconf 91'>Strommenge</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1211 218 1318 248; x_wconf 96'>bisher</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1339 218 1396 247; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1416 218 1597 256; x_wconf 96'>wichtigste</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1622 219 1862 256; x_wconf 96'>Energieträger</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1883 217 1934 247; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1955 218 2006 248; x_wconf 96'>die</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 283 2006 322; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_22' title='bbox 42 285 338 322; x_wconf 95'>Stromerzeugung</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 364 285 451 314; x_wconf 96'>2023</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 477 284 541 314; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 565 287 637 322; x_wconf 96'>trug</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 662 283 728 314; x_wconf 96'>fast</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 752 285 794 314; x_wconf 92'>30</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 818 285 852 313; x_wconf 92'>%</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 876 292 949 313; x_wconf 93'>zum</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 974 285 1146 314; x_wconf 92'>Strommix</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1170 284 1229 319; x_wconf 95'>bei,</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1254 283 1383 322; x_wconf 96'>gefolgt</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1405 292 1467 313; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1494 284 1591 314; x_wconf 96'>Kohle</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1616 285 1673 313; x_wconf 95'>mit</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1697 285 1734 314; x_wconf 93'>61</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1762 284 1843 313; x_wconf 92'>TWh</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1869 283 1924 319; x_wconf 93'>[27</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1949 283 2006 319; x_wconf 91'>%].</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 349 1866 388; baseline 0 -9; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_40' title='bbox 43 350 263 380; x_wconf 92'>Drittstärkste</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 278 350 519 388; x_wconf 96'>Energiequelle</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 533 351 572 380; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 585 350 636 379; x_wconf 92'>die</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 651 350 857 385; x_wconf 91'>Fotovoltaik,</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 872 350 923 380; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 937 351 994 379; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1008 351 1050 380; x_wconf 93'>30</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1063 350 1143 379; x_wconf 92'>TWh</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1158 349 1215 379; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1229 351 1303 385; x_wconf 91'>13,4</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1316 351 1350 379; x_wconf 91'>%</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1363 350 1467 379; x_wconf 96'>Anteil</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1480 358 1532 379; x_wconf 93'>am</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1547 351 1719 380; x_wconf 88'>Strommix</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1733 350 1866 379; x_wconf 96'>kommt.</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 42 438 732 476; baseline 0.001 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_56' title='bbox 42 440 103 468; x_wconf 93'>Der</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 112 439 284 468; x_wconf 92'>Strommix</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 295 439 336 467; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 350 441 455 468; x_wconf 96'>ersten</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 469 438 621 476; x_wconf 96'>Halbjahr</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 631 439 732 468; x_wconf 96'>2023:</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 42 504 1447 542; baseline -0.001 -8; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_62' title='bbox 42 518 53 528; x_wconf 54'>*</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 67 505 362 542; x_wconf 96'>Stromerzeugung</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 377 512 435 534; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 449 504 732 534; x_wconf 96'>konventionellen</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 749 505 1010 542; x_wconf 96'>Energieträgern</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1025 504 1104 542; x_wconf 96'>geht</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1118 512 1171 534; x_wconf 96' lang='eng'>um</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1188 505 1261 539; x_wconf 92'>12,2</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1275 505 1309 533; x_wconf 92'>%</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1323 504 1447 534; x_wconf 96'>zurück.</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 42 569 1367 608; baseline 0.001 -9; x_size 38; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_72' title='bbox 42 584 53 594; x_wconf 30' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 65 570 170 600; x_wconf 96'>Anteil</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 183 570 240 600; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 253 571 548 608; x_wconf 90'>Stromerzeugung</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 563 578 621 600; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 634 570 871 600; x_wconf 96'>erneuerbaren</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 887 571 1039 608; x_wconf 96'>Energien</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1053 571 1152 608; x_wconf 96'>steigt</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1165 569 1222 600; x_wconf 96' lang='eng'>auf</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1235 572 1309 605; x_wconf 93' lang='eng'>57,7</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1324 571 1367 600; x_wconf 93' lang='eng'>%.</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 42 635 1364 674; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_83' title='bbox 42 650 53 660; x_wconf 62' lang='eng'>»</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 65 635 244 666; x_wconf 96'>Windkraft</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 258 637 297 666; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 311 637 368 665; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 382 637 456 671; x_wconf 93' lang='eng'>29,8</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 470 637 504 665; x_wconf 93'>%</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 517 636 714 674; x_wconf 96'>wichtigster</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 728 637 968 674; x_wconf 96'>Energieträger</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 980 645 1036 666; x_wconf 96'>vor</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1050 636 1147 666; x_wconf 96'>Kohle</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1162 637 1219 665; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1233 637 1307 671; x_wconf 93' lang='eng'>27,2</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1321 637 1364 666; x_wconf 93' lang='eng'>%.</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 42 702 1021 740; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_96' title='bbox 42 716 53 726; x_wconf 75'>*</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 68 702 266 732; x_wconf 92' lang='eng'>Fotovoltaik</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 279 703 318 732; x_wconf 93'>ist</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 331 702 548 732; x_wconf 92'>drittstärkste</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 564 702 804 740; x_wconf 96'>Energiequelle</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 819 703 876 731; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 891 704 965 737; x_wconf 93' lang='eng'>13,4</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 978 703 1021 731; x_wconf 93' lang='eng'>%.</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 42 767 1020 805; baseline 0 -8; x_size 37; x_descenders 7; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_104' title='bbox 42 782 53 792; x_wconf 79' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 68 769 140 798; x_wconf 96'>Kein</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 155 769 260 798; x_wconf 96' lang='eng'>Strom</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 276 768 368 798; x_wconf 96' lang='eng'>mehr</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 380 776 438 798; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 450 767 634 798; x_wconf 96'>Atomkraft</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 647 769 708 798; x_wconf 96'>seit</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 722 769 812 798; x_wconf 96'>Mitte</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 825 768 908 805; x_wconf 96'>April</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 922 769 1020 798; x_wconf 96' lang='eng'>2023.</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 43 856 2005 894; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_114' title='bbox 43 857 97 886; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 117 857 412 894; x_wconf 96'>Stromerzeugung</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 433 865 491 886; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 510 856 746 886; x_wconf 96'>erneuerbaren</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 769 857 921 894; x_wconf 96'>Energien</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 942 857 981 886; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1001 857 1058 886; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1078 856 1185 894; x_wconf 96'>knapp</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1207 857 1271 886; x_wconf 96'>130</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 1292 856 1465 886; x_wconf 93'>Milliarden</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1487 856 1777 886; x_wconf 92'>Kilowattstunden</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1799 856 1830 891; x_wconf 93'>[=</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1849 856 1943 891; x_wconf 92'>TWh]</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1965 857 2005 886; x_wconf 96'>im</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 42 922 2007 960; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_128' title='bbox 42 926 149 952; x_wconf 96'>ersten</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 168 922 317 960; x_wconf 96'>Halbjahr</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 333 923 420 952; x_wconf 96'>2023</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 437 922 628 960; x_wconf 96'>gegenüber</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 643 922 718 952; x_wconf 96'>dem</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 734 922 864 960; x_wconf 96'>Vorjahr</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 878 922 980 960; x_wconf 96'>gleich</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 998 922 1180 960; x_wconf 96'>geblieben,</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1197 922 1280 952; x_wconf 96'>doch</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1298 922 1355 952; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1368 922 1472 952; x_wconf 96'>Anteil</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1488 931 1540 952; x_wconf 93'>am</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1557 923 1729 952; x_wconf 92' lang='eng'>Strommix</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1744 923 1826 960; x_wconf 95'>stieg</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1844 931 1896 952; x_wconf 96' lang='eng'>um</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1916 924 1951 952; x_wconf 92' lang='eng'>11</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1972 924 2007 952; x_wconf 92' lang='eng'>%</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 988 595 1026; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_145' title='bbox 43 988 159 1023; x_wconf 96'>[erstes</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 173 988 323 1026; x_wconf 96'>Halbjahr</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 336 989 434 1018; x_wconf 95'>2022:</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 449 989 524 1024; x_wconf 91'>51,8</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 538 988 595 1023; x_wconf 91'>%].</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 478 1080 1570 1123">
+     <span class='ocr_line' id='line_1_15' title="bbox 478 1080 1570 1123; baseline 0 -7; x_size 39.527344; x_descenders 8.9227276; x_ascenders 9.0451393">
+      <span class='ocrx_word' id='word_1_150' title='bbox 478 1083 565 1116; x_wconf 92'>DER</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 580 1082 828 1117; x_wconf 91'>STROMMIX</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 845 1083 887 1116; x_wconf 96'>IN</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 907 1082 1243 1117; x_wconf 96'>DEUTSCHLAND</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1261 1082 1367 1116; x_wconf 96'>2023</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1386 1080 1570 1123; x_wconf 96'>[NETTO]</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

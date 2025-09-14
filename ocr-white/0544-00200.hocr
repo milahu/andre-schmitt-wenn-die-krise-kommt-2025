@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0544-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 16 2008 1089">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 16 979 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 16 979 55; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 18 103 47; x_wconf 96'>Der</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 113 18 203 47; x_wconf 93'>Brain</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 217 18 310 47; x_wconf 92'>Drain</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 324 17 390 47; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 400 18 487 47; x_wconf 96'>seine</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 500 17 685 55; x_wconf 96'>Bedeutung</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 699 16 750 47; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 761 17 979 47; x_wconf 96'>Deutschland</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 41 82 2008 385">
+     <span class='ocr_line' id='line_1_2' title="bbox 43 82 2005 121; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 43 84 97 113; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 109 83 356 121; x_wconf 96'>Abwanderung</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 370 91 432 113; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 447 82 680 120; x_wconf 96'>qualifizierten</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 696 82 913 118; x_wconf 96'>Fachkräften,</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 929 83 1187 113; x_wconf 96'>Unternehmern</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1202 83 1266 113; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1279 83 1511 113; x_wconf 91'>Akademikern</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1526 91 1584 113; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1598 83 1815 113; x_wconf 96'>Deutschland</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1831 83 1886 113; x_wconf 96'>hat</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1900 84 1928 112; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1942 83 2005 113; x_wconf 96'>den</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 43 148 2006 187; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_22' title='bbox 43 149 163 179; x_wconf 96'>letzten</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 178 149 294 179; x_wconf 93'>Jahren</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 310 149 543 179; x_wconf 92'>alarmierende</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 557 148 721 179; x_wconf 96'>Ausmaße</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 736 149 879 179; x_wconf 96'>erreicht.</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 896 150 950 179; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 966 149 1126 179; x_wconf 96'>Ursachen</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1141 148 1192 179; x_wconf 97'>für</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1206 149 1317 179; x_wconf 97'>diesen</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1334 150 1422 179; x_wconf 93'>Brain</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1439 150 1529 178; x_wconf 93'>Drain</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1545 149 1614 179; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1629 148 1793 187; x_wconf 96'>vielfältig.</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1809 149 2006 179; x_wconf 96'>Steuerliche</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 43 214 2006 253; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_36' title='bbox 43 215 270 253; x_wconf 96'>Belastungen,</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 293 215 484 250; x_wconf 96'>Bürokratie,</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 507 215 571 245; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 594 216 643 245; x_wconf 95'>ein</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 666 215 880 253; x_wconf 93'>mangelnder</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 901 215 1238 245; x_wconf 92'>unternehmerischer</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1259 216 1412 245; x_wconf 96'>Freiraum</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1435 215 1541 245; x_wconf 96'>haben</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1564 215 1645 245; x_wconf 96'>dazu</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1667 214 1808 253; x_wconf 96'>geführt,</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1830 215 1906 245; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1925 215 2006 245; x_wconf 96'>viele</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 41 280 2008 311; baseline 0 -1; x_size 37.418491; x_descenders 8.4184904; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_48' title='bbox 41 281 171 311; x_wconf 96'>Talente</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 188 281 234 310; x_wconf 96'>ihr</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 249 281 347 311; x_wconf 96'>Glück</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 363 282 391 310; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 408 281 550 311; x_wconf 96'>anderen</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 569 281 710 311; x_wconf 96'>Ländern</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 727 281 858 311; x_wconf 96'>suchen.</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 877 281 963 311; x_wconf 96'>Doch</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 980 281 1037 311; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1053 282 1140 310; x_wconf 93'>Brain</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1159 282 1249 310; x_wconf 91'>Drain</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1267 282 1306 311; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1323 281 1409 310; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1425 289 1483 311; x_wconf 96'>nur</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1498 282 1548 311; x_wconf 96'>ein</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1566 281 1712 311; x_wconf 96'>Problem</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1728 280 2008 311; x_wconf 96'>wirtschaftlicher</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 43 346 1749 385; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_65' title='bbox 43 348 147 377; x_wconf 94'>Natur.</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 163 348 196 376; x_wconf 96'>Er</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 210 347 265 377; x_wconf 96'>hat</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 278 347 359 377; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 374 347 557 377; x_wconf 96'>erhebliche</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 570 347 821 385; x_wconf 96'>Auswirkungen</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 836 346 893 377; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 905 347 956 377; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 969 347 1088 377; x_wconf 96'>soziale</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1102 347 1166 377; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1182 347 1349 377; x_wconf 96'>kulturelle</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1362 346 1490 377; x_wconf 96'>Vielfalt</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1505 347 1749 377; x_wconf 95'>Deutschlands.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 434 1068 473">
+     <span class='ocr_line' id='line_1_7' title="bbox 42 434 1068 473; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_78' title='bbox 42 436 96 465; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 109 435 356 465; x_wconf 96'>unmittelbaren</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 367 435 613 473; x_wconf 96'>Auswirkungen</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 626 435 681 465; x_wconf 97'>der</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 693 434 972 465; x_wconf 96'>wirtschaftlichen</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 986 436 1068 465; x_wconf 96'>Krise</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 41 500 2006 825">
+     <span class='ocr_line' id='line_1_8' title="bbox 43 500 2005 539; baseline 0.001 -9; x_size 34; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_84' title='bbox 43 502 97 531; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 116 500 379 531; x_wconf 96'>wirtschaftliche</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 400 502 491 536; x_wconf 96'>Krise,</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 513 501 563 531; x_wconf 95'>die</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 584 501 681 531; x_wconf 96'>durch</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 702 501 765 531; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 788 502 875 531; x_wconf 93'>Brain</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 898 502 988 531; x_wconf 91'>Drain</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1008 501 1166 531; x_wconf 96'>verstärkt</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1184 501 1269 536; x_wconf 96'>wird,</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1291 501 1347 531; x_wconf 96'>hat</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1367 501 1485 531; x_wconf 96'>bereits</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1506 501 1735 531; x_wconf 96'>unmittelbare</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1754 501 2005 539; x_wconf 96'>Auswirkungen</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 42 566 2006 605; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_98' title='bbox 42 566 98 597; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 113 567 340 597; x_wconf 96'>Deutschland.</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 357 567 600 597; x_wconf 96'>Unternehmen</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 616 568 747 597; x_wconf 96'>müssen</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 764 568 821 597; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 834 568 940 597; x_wconf 96'>einem</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 957 567 1085 605; x_wconf 96'>Mangel</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1099 576 1139 597; x_wconf 96'>an</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1156 566 1363 597; x_wconf 96'>Fachkräften</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 1379 566 1543 605; x_wconf 96'>kämpfen,</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1557 567 1710 597; x_wconf 96'>während</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1725 567 1806 597; x_wconf 96'>viele</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1819 567 2006 597; x_wconf 96'>talentierte</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 632 2006 671; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_111' title='bbox 43 634 160 671; x_wconf 96'>Bürger</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 178 634 225 663; x_wconf 96'>ins</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 242 633 382 663; x_wconf 96'>Ausland</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 403 633 519 671; x_wconf 96'>gehen,</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 540 642 593 663; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 614 633 678 663; x_wconf 96'>ihre</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 698 632 896 663; x_wconf 96'>beruflichen</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 914 633 1121 663; x_wconf 96'>Ambitionen</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1140 642 1178 663; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1197 632 1376 671; x_wconf 96'>verfolgen.</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1397 634 1451 663; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1471 635 1726 671; x_wconf 95'>Konsequenzen</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 1746 633 1815 663; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1835 633 2006 671; x_wconf 96'>steigende</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 41 698 1878 737; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_125' title='bbox 41 699 388 734; x_wconf 92'>Arbeitslosenzahlen,</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 402 699 558 729; x_wconf 93'>sinkende</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 573 698 866 729; x_wconf 91'>Innovationskraft</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 880 699 943 729; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 958 700 1030 729; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1044 700 1212 737; x_wconf 93'>geringere</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1224 698 1619 737; x_wconf 92'>Wettbewerbsfähigkeit</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 1633 699 1878 729; x_wconf 96'>Deutschlands.</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 42 787 972 825; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_133' title='bbox 42 787 249 825; x_wconf 96'>Langfristige</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 258 787 504 825; x_wconf 96'>Auswirkungen</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 517 787 578 817; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 587 787 821 817; x_wconf 96'>Deutschlands</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 832 787 972 817; x_wconf 96'>Zukunft</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 41 853 2008 1089">
+     <span class='ocr_line' id='line_1_13' title="bbox 43 853 2008 891; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_138' title='bbox 43 854 97 883; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 127 853 348 891; x_wconf 96'>langfristigen</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 377 853 628 891; x_wconf 96'>Auswirkungen</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 658 853 727 883; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 758 853 840 883; x_wconf 93'>noch</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 871 853 1243 891; x_wconf 92'>besorgniserregender.</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1274 854 1323 883; x_wconf 96'>Ein</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1353 853 1569 883; x_wconf 96'>anhaltender</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1598 854 1685 883; x_wconf 92'>Brain</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 1716 854 1806 883; x_wconf 92'>Drain</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1835 853 1925 883; x_wconf 96'>führt</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1953 862 2008 883; x_wconf 96'>zur</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 41 919 2008 957; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_150' title='bbox 41 921 237 957; x_wconf 92'>Verarmung</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 253 919 311 949; x_wconf 96'>des</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 327 919 581 949; x_wconf 96'>intellektuellen</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 598 919 662 949; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 679 919 1022 949; x_wconf 91'>unternehmerischen</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1039 919 1219 949; x_wconf 91'>Potenzials</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1233 919 1292 949; x_wconf 96'>des</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1308 919 1438 949; x_wconf 96'>Landes.</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1455 920 1526 949; x_wconf 96'>Dies</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1539 919 1715 949; x_wconf 96'>wiederum</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1732 919 1787 949; x_wconf 96'>hat</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 1803 919 1937 949; x_wconf 96'>Einfluss</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 1951 919 2008 949; x_wconf 96'>auf</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 42 985 2005 1023; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_163' title='bbox 42 985 93 1015; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 107 985 266 1023; x_wconf 96'>Fähigkeit</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 280 985 524 1021; x_wconf 95'>Deutschlands,</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 540 986 597 1015; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 609 985 672 1015; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 687 985 839 1023; x_wconf 93'>globalen</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 855 985 1198 1023; x_wconf 92'>Herausforderungen</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 1212 985 1269 1015; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 1281 985 1421 1015; x_wconf 96'>Zukunft</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1434 985 1650 1023; x_wconf 96'>umzugehen.</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1666 986 1719 1015; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 1733 985 1852 1015; x_wconf 96'>Gefahr</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 1865 985 2005 1021; x_wconf 96'>besteht,</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1051 2005 1089; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_176' title='bbox 42 1051 117 1081; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 133 1051 350 1081; x_wconf 96'>Deutschland</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 366 1060 404 1081; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 420 1052 526 1081; x_wconf 96'>einem</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 543 1051 625 1081; x_wconf 96'>Land</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 640 1051 725 1087; x_wconf 96'>wird,</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 741 1051 799 1081; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 815 1051 901 1081; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 916 1051 1007 1081; x_wconf 96'>mehr</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 1022 1052 1050 1081; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 1066 1051 1123 1081; x_wconf 95'>der</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1138 1053 1218 1089; x_wconf 96'>Lage</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 1234 1052 1281 1087; x_wconf 96'>ist,</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 1297 1051 1348 1081; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 1364 1052 1595 1081; x_wconf 96'>Innovationen</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 1612 1051 1675 1081; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 1693 1051 1952 1089; x_wconf 96'>Entwicklungen</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 1968 1060 2005 1081; x_wconf 96'>zu</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

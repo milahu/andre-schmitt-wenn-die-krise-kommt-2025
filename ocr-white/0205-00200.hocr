@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0205-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2007 1070">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 1457 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 1457 55; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 18 71 46; x_wconf 92'>7.</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 87 17 276 55; x_wconf 92'>Bauchlage,</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 292 18 387 47; x_wconf 93'>Beine</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 401 17 555 55; x_wconf 91'>gebeugt,</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 570 17 769 55; x_wconf 96'>gleichzeitig</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 784 17 946 52; x_wconf 96'>abheben,</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 961 17 1094 47; x_wconf 96'>dreimal</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1109 18 1149 47; x_wconf 96'>15</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1163 17 1457 55; x_wconf 96'>Wiederholungen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 41 82 2007 187">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 2007 121; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_10' title='bbox 42 84 71 113; x_wconf 93'>8.</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 106 83 295 121; x_wconf 92'>Bauchlage,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 332 84 426 113; x_wconf 96'>Beine</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 460 83 631 121; x_wconf 96'>gestreckt,</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 667 84 761 113; x_wconf 96'>Beine</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 795 83 947 113; x_wconf 96'>abheben</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 982 83 1046 113; x_wconf 92'>und</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1080 83 1311 113; x_wconf 92'>auseinander-</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1345 83 1409 113; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1443 82 1762 118; x_wconf 96'>zusammenführen,</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1797 83 1930 113; x_wconf 95'>dreimal</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1964 84 2007 113; x_wconf 96'>20</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 41 149 335 187; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_22' title='bbox 41 149 335 187; x_wconf 96'>Wiederholungen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 42 214 2005 319">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 2005 253; baseline -0.001 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_23' title='bbox 42 216 71 245; x_wconf 92'>9.</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 87 215 276 253; x_wconf 91'>Bauchlage,</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 293 214 377 245; x_wconf 96'>Füße</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 391 214 574 250; x_wconf 96'>aufstellen,</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 591 216 665 245; x_wconf 96'>Knie</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 679 215 841 250; x_wconf 96'>abheben,</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 855 216 949 245; x_wconf 96'>Arme</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 963 223 1036 245; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1052 216 1074 245; x_wconf 95'>U</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1089 214 1217 245; x_wconf 96'>formen</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1233 215 1297 245; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1313 215 1517 252; x_wconf 96'>Oberkörper</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1530 215 1691 250; x_wconf 96'>abheben,</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1708 215 1911 252; x_wconf 96'>Oberkörper</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1925 215 2005 245; x_wconf 96'>nach</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 281 1177 319; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_38' title='bbox 43 281 148 311; x_wconf 96'>rechts</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 162 281 226 311; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 242 281 321 311; x_wconf 96'>links</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 335 281 501 319; x_wconf 96'>bewegen,</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 516 281 650 311; x_wconf 96'>dreimal</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 665 282 706 311; x_wconf 96'>10</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 716 282 747 319; x_wconf 96'>je</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 761 282 856 316; x_wconf 96'>Seite,</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 871 289 948 319; x_wconf 96'>gern</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 964 282 1021 310; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1035 281 1177 311; x_wconf 96'>Gewicht</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 44 346 1790 385">
+     <span class='ocr_line' id='line_1_6' title="bbox 44 346 1790 385; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_49' title='bbox 44 348 94 377; x_wconf 93'>10.</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 110 347 299 385; x_wconf 91'>Bauchlage,</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 315 346 399 377; x_wconf 96'>Füße</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 413 346 596 382; x_wconf 96'>aufstellen,</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 613 348 686 377; x_wconf 96'>Knie</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 700 347 861 382; x_wconf 95'>abheben,</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 877 347 1019 377; x_wconf 96'>Gewicht</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1033 355 1086 377; x_wconf 95'>um</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1102 348 1219 384; x_wconf 96'>Körper</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1233 347 1364 382; x_wconf 96'>kreisen,</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1379 347 1460 377; x_wconf 96'>zehn</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1477 348 1621 385; x_wconf 96'>Kreise</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1591 342 1627 389; x_wconf 96'>je</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1636 347 1790 385; x_wconf 96'>Richtung</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 44 455 571 501">
+     <span class='ocr_line' id='line_1_7' title="bbox 44 455 571 501; baseline -0.002 -10; x_size 47; x_descenders 11; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_63' title='bbox 44 457 135 491; x_wconf 93'>14.6</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 152 455 571 501; x_wconf 91'>Schulterprogramm</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 41 547 2005 718">
+     <span class='ocr_line' id='line_1_8' title="bbox 41 547 2005 586; baseline 0 -9; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_65' title='bbox 41 548 229 586; x_wconf 95'>Allgemein:</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 245 548 320 577; x_wconf 96'>acht</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 337 548 383 578; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 398 547 495 577; x_wconf 96'>zwölf</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 508 548 812 586; x_wconf 95'>Wiederholungen,</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 830 548 972 578; x_wconf 96'>Gewicht</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 988 548 1037 578; x_wconf 96'>bei</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1054 549 1096 578; x_wconf 96'>65</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1114 548 1160 578; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1176 549 1219 578; x_wconf 93'>80</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1234 549 1277 583; x_wconf 90'>%,</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1294 548 1358 577; x_wconf 96'>drei</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1376 548 1423 577; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1437 549 1502 577; x_wconf 96'>vier</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1517 549 1634 583; x_wconf 95'>Serien,</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1651 549 1694 578; x_wconf 96'>60</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1711 548 1758 577; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1773 549 1816 578; x_wconf 96'>90</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1832 548 2005 578; x_wconf 96'>Sekunden</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 607 2005 652; baseline 0 -9; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_84' title='bbox 43 615 143 644; x_wconf 97'>Pause</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 163 614 322 644; x_wconf 96'>zwischen</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 343 614 406 644; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 428 615 545 649; x_wconf 93'>Serien,</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 566 614 801 644; x_wconf 92'>exzentrischer</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 821 614 921 643; x_wconf 93'>Fokus</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 941 613 1053 649; x_wconf 92'>3/0/1,</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1074 614 1166 644; x_wconf 92'>zwei-</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1188 614 1234 644; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1253 614 1384 644; x_wconf 95'>viermal</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1405 622 1461 651; x_wconf 96'>pro</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1481 614 1608 649; x_wconf 95'>Woche,</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1630 615 1744 644; x_wconf 96'>immer</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1761 615 1826 644; x_wconf 96'>vier</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1847 607 2005 652; x_wconf 96'>Übungen</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 42 673 901 718; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_99' title='bbox 42 680 228 710; x_wconf 96'>auswählen</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 243 679 305 715; x_wconf 96'>(bei</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 317 680 426 718; x_wconf 96'>jedem</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 440 681 582 718; x_wconf 96'>Training</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 598 673 713 718; x_wconf 96'>Übung</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 726 679 901 715; x_wconf 96'>wechseln)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 44 767 1648 806">
+     <span class='ocr_line' id='line_1_11' title="bbox 44 767 1648 806; baseline 0.001 -9; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_105' title='bbox 44 770 71 798; x_wconf 96'>1.</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 84 768 247 798; x_wconf 96'>Anziehen</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 263 769 319 797; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 333 768 483 803; x_wconf 96'>Gewicht,</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 500 768 696 806; x_wconf 96'>Ellenbogen</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 711 768 868 798; x_wconf 96'>oberhalb</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 883 768 1034 803; x_wconf 93'>Schulter,</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1050 767 1351 798; x_wconf 92'>Handinnenfläche</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1365 776 1437 798; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1454 769 1571 805; x_wconf 95'>Körper</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1584 768 1648 798; x_wconf 96'>und</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 43 833 750 872">
+     <span class='ocr_line' id='line_1_12' title="bbox 43 833 750 872; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_116' title='bbox 43 835 71 864; x_wconf 93'>2.</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 87 834 290 871; x_wconf 91'>Körpernahe</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 306 836 488 872; x_wconf 93'>Bewegung</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 503 833 645 872; x_wconf 91'>(upright</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 659 833 750 869; x_wconf 92'>rows)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 42 899 555 938">
+     <span class='ocr_line' id='line_1_13' title="bbox 42 899 555 938; baseline -0.002 -8; x_size 37; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_121' title='bbox 42 902 71 930; x_wconf 93'>3.</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 86 900 244 937; x_wconf 92'>Gekippte</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 259 908 383 930; x_wconf 96'>reverse</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 398 899 555 938; x_wconf 96'>Butterfly</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='deu' title="bbox 41 965 1618 1004">
+     <span class='ocr_line' id='line_1_14' title="bbox 41 965 1618 1004; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_125' title='bbox 41 968 71 996; x_wconf 93'>4.</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 86 967 251 996; x_wconf 91'>Seitwärts</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 265 966 379 1004; x_wconf 96'>liegen,</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 394 966 480 996; x_wconf 96'>oben</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 496 966 661 1004; x_wconf 96'>liegender</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 672 968 745 995; x_wconf 93'>Arm</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 759 966 984 1004; x_wconf 91'>angewinkelt,</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 997 974 1054 996; x_wconf 97'>vor</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1068 967 1185 1003; x_wconf 96'>Körper</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 1197 966 1346 1004; x_wconf 93'>ablegen,</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1360 965 1618 996; x_wconf 92'>Außenrotation</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='deu' title="bbox 43 1032 2005 1070">
+     <span class='ocr_line' id='line_1_15' title="bbox 43 1032 2005 1070; baseline 0 -9; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_136' title='bbox 43 1034 71 1062; x_wconf 96'>5.</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 99 1033 162 1062; x_wconf 96'>Sitz</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 188 1040 240 1062; x_wconf 96'>am</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 266 1032 364 1067; x_wconf 96'>Tisch,</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 393 1032 535 1062; x_wconf 96'>Gewicht</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 562 1033 590 1061; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 618 1032 668 1062; x_wconf 95'>die</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 697 1032 796 1067; x_wconf 95'>Hand,</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 823 1034 895 1061; x_wconf 96'>Arm</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 923 1033 981 1062; x_wconf 96'>90°</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1008 1033 1048 1061; x_wconf 93'>im</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 1077 1032 1350 1070; x_wconf 91'>Schultergelenk,</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1379 1032 1521 1062; x_wconf 96'>Gewicht</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1548 1032 1628 1062; x_wconf 96'>nach</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1655 1040 1732 1062; x_wconf 96'>vorn</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 1760 1032 1913 1062; x_wconf 96'>schieben</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1941 1032 2005 1062; x_wconf 96'>und</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0569-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 16 2007 1089">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 41 16 2007 121">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 16 2007 55; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 38'>*</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 90 17 346 55; x_wconf 90'>„High-Altitude</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 385 17 672 55; x_wconf 96' lang='eng'>Electromagnetic</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 710 17 801 47; x_wconf 95' lang='eng'>Pulse</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 838 16 966 52; x_wconf 95' lang='eng'>(HEMP)</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1003 17 1066 47; x_wconf 95' lang='eng'>and</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1105 17 1313 55; x_wconf 95' lang='eng'>High-Power</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1350 18 1535 47; x_wconf 93' lang='eng'>Microwave</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1572 16 1678 52; x_wconf 92'>(HPM)</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1717 18 1855 47; x_wconf 95'>Devices:</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1891 17 2007 47; x_wconf 96'>Threat</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 41 83 927 121; baseline -0.001 -8; x_size 37; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_12' title='bbox 41 84 281 113; x_wconf 76' lang='eng'>Assessments”</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 294 91 356 113; x_wconf 96' lang='eng'>von</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 372 83 619 121; x_wconf 95' lang='eng'>Congressional</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 634 83 788 113; x_wconf 96' lang='eng'>Research</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 803 84 927 113; x_wconf 96' lang='eng'>Service</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 41 148 2006 253">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 148 2006 187; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_17' title='bbox 42 162 53 173; x_wconf 56'>«</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 67 149 372 187; x_wconf 40'>Electromagnetic</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 387 149 478 179; x_wconf 96'>Pulse</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 493 148 591 184; x_wconf 96'>(EMP)</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 607 150 788 179; x_wconf 96'>Protection</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 803 149 866 179; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 883 149 1054 179; x_wconf 96'>Resilience</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1068 149 1252 179; x_wconf 96'>Guidelines</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1264 148 1316 179; x_wconf 96'>for</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1329 149 1450 179; x_wconf 96'>Critical</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1464 148 1705 179; x_wconf 96'>Infrastructure</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1719 149 1782 179; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1799 150 2006 186; x_wconf 61'>Equipment”</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 41 214 980 253; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_30' title='bbox 41 223 103 245; x_wconf 95'>von</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 120 215 247 245; x_wconf 96'>Federal</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 262 216 457 253; x_wconf 96'>Emergency</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 471 216 704 253; x_wconf 95'>Management</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 716 216 845 253; x_wconf 96'>Agency</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 859 214 980 250; x_wconf 96'>(FEMA)</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 305 108 332">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 305 108 332; baseline 0 0; x_size 34.430946; x_descenders 7.4309444; x_ascenders 8.2721863">
+      <span class='ocrx_word' id='word_1_36' title='bbox 42 305 108 332; x_wconf 96'>EPA</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 41 368 2007 539">
+     <span class='ocr_line' id='line_1_6' title="bbox 43 368 2007 407; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_37' title='bbox 43 370 97 399; x_wconf 92'>Die</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 118 369 422 407; x_wconf 90'>Einmannpackung</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 443 368 532 404; x_wconf 96'>(EPA)</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 553 370 592 399; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 611 370 682 399; x_wconf 93'>eine</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 701 369 967 399; x_wconf 96' lang='deu'>standardisierte</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 987 369 1190 399; x_wconf 96' lang='deu'>militärische</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1208 368 1436 407; x_wconf 96' lang='deu'>Verpflegung,</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1457 369 1508 399; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1528 370 1556 398; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1575 369 1678 399; x_wconf 93'>vielen</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1698 371 1835 399; x_wconf 96' lang='deu'>Armeen</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1854 369 2007 399; x_wconf 96'>weltweit</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 42 435 2005 473; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_50' title='bbox 42 436 224 473; x_wconf 91'>eingesetzt</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 253 435 338 465; x_wconf 95'>wird.</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 371 436 425 465; x_wconf 95'>Die</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 457 437 522 464; x_wconf 93'>EPA</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 553 435 685 465; x_wconf 92'>besteht</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 715 444 773 465; x_wconf 95'>aus</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 802 435 1055 465; x_wconf 95'>verschiedenen</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1089 437 1338 473; x_wconf 95'>Komponenten</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1369 436 1428 465; x_wconf 93'>wie</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1460 435 1700 473; x_wconf 92'>Hauptgericht,</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1733 435 1891 473; x_wconf 91'>Beilagen,</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1925 437 2005 470; x_wconf 96'>Brot,</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 41 500 1722 539; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_62' title='bbox 41 500 243 531; x_wconf 92'>Aufstrichen</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 259 501 323 531; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 338 500 555 539; x_wconf 96' lang='deu'>Süßigkeiten,</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 570 501 621 531; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 635 510 825 531; x_wconf 94'>zusammen</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 841 502 869 530; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 884 502 971 531; x_wconf 93'>einer</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 985 501 1139 531; x_wconf 96' lang='deu'>robusten</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1153 501 1361 539; x_wconf 96' lang='deu'>Verpackung</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1377 501 1630 539; x_wconf 96' lang='deu'>untergebracht</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1642 501 1722 531; x_wconf 96'>sind.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 43 589 1287 627">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 589 1287 627; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_73' title='bbox 43 590 114 619; x_wconf 96'>Hier</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 126 589 195 619; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 211 590 315 627; x_wconf 93'>einige</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 328 589 477 627; x_wconf 92'>wichtige</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 492 589 629 627; x_wconf 92'>Begriffe</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 644 589 707 619; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 724 589 976 619; x_wconf 96'>Informationen</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 991 598 1064 619; x_wconf 96'>zum</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1077 589 1197 619; x_wconf 95'>Thema</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1213 591 1287 619; x_wconf 95'>EPA:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 43 655 2005 751">
+     <span class='ocr_line' id='line_1_10' title="bbox 44 655 2005 693; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_83' title='bbox 44 657 71 685; x_wconf 96'>1.</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 95 655 294 685; x_wconf 95'>Geschichte:</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 319 656 372 685; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 396 657 461 685; x_wconf 96'>EPA</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 482 655 591 685; x_wconf 93'>wurde</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 614 655 764 685; x_wconf 91'>erstmals</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 786 656 826 685; x_wconf 92'>im</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 850 656 989 685; x_wconf 90'>Zweiten</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1011 655 1180 693; x_wconf 91'>Weltkrieg</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1203 664 1265 685; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1289 655 1346 685; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1369 656 1547 685; x_wconf 89'>US-Armee</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1569 655 1757 693; x_wconf 89'>eingefiihrt</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1779 655 1843 685; x_wconf 91'>und</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1867 655 2005 685; x_wconf 91'>seitdem</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 43 721 877 751; baseline 0 0; x_size 38.33252; x_descenders 8.3325176; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_98' title='bbox 43 721 283 751; x_wconf 92'>kontinuierlich</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 297 721 593 751; x_wconf 92'>weiterentwickelt</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 607 721 671 751; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 685 721 877 751; x_wconf 92'>verbessert.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 41 787 2006 883">
+     <span class='ocr_line' id='line_1_12' title="bbox 43 787 2006 825; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_102' title='bbox 43 788 71 817; x_wconf 93'>2.</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 88 787 217 817; x_wconf 91'>Inhalte:</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 234 788 288 817; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 304 789 369 817; x_wconf 93'>EPA</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 383 787 510 817; x_wconf 87'>enthalt</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 524 788 596 817; x_wconf 93'>eine</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 610 796 852 825; x_wconf 91'>ausgewogene</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 869 787 1034 825; x_wconf 89'>Mischung</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1049 796 1107 817; x_wconf 93'>aus</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1123 787 1412 825; x_wconf 92'>Kohlenhydraten,</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1430 788 1598 817; x_wconf 91'>Proteinen</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1615 787 1679 817; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1696 789 1806 817; x_wconf 91'>Fetten</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1822 788 1920 817; x_wconf 96'>sowie</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1935 788 2006 817; x_wconf 96'>eine</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 41 853 1894 883; baseline 0 0; x_size 38.33252; x_descenders 8.3325176; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_117' title='bbox 41 853 181 883; x_wconf 92'>Vielzahl</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 193 862 255 883; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 269 854 450 883; x_wconf 92'>Vitaminen</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 466 853 530 883; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 546 853 812 883; x_wconf 89'>Mineralstoffen.</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 826 853 905 883; x_wconf 91'>Jede</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 921 855 986 883; x_wconf 96'>EPA</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1000 853 1082 883; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1097 853 1255 883; x_wconf 96'>zwischen</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1272 855 1359 883; x_wconf 96'>1200</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1374 853 1438 883; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1452 854 1542 883; x_wconf 93'>4000</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1557 853 1700 883; x_wconf 91'>Kalorien</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1715 853 1894 883; x_wconf 92'>enthalten.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 919 2006 1023">
+     <span class='ocr_line' id='line_1_14' title="bbox 42 919 2006 957; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_131' title='bbox 42 921 71 949; x_wconf 92'>3.</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 96 919 314 957; x_wconf 91'>Verpackung:</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 342 920 396 949; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 423 921 488 949; x_wconf 96'>EPA</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 513 920 552 949; x_wconf 95'>ist</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 578 920 606 949; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 632 920 720 949; x_wconf 93'>einer</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 746 919 820 949; x_wconf 92'>luft-</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 847 919 911 949; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 936 919 1188 949; x_wconf 91'>wasserdichten</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1213 919 1422 957; x_wconf 90'>Verpackung</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1450 919 1710 957; x_wconf 90'>untergebracht,</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1737 919 1787 949; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1813 920 1885 949; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1912 919 2006 957; x_wconf 96'>lange</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 43 985 1630 1023; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_146' title='bbox 43 985 240 1015; x_wconf 96' lang='deu'>Haltbarkeit</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 253 986 430 1023; x_wconf 96' lang='deu'>garantiert</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 444 985 508 1015; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 523 985 723 1023; x_wconf 96'>gleichzeitig</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 738 986 809 1015; x_wconf 93'>eine</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 823 985 972 1015; x_wconf 96' lang='deu'>einfache</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 987 987 1150 1023; x_wconf 96' lang='deu'>Lagerung</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1166 985 1230 1015; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1244 987 1416 1023; x_wconf 93'>Transport</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1429 985 1630 1023; x_wconf 96' lang='deu'>ermöglicht.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 41 1051 2005 1089">
+     <span class='ocr_line' id='line_1_16' title="bbox 41 1051 2005 1089; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_156' title='bbox 41 1053 71 1081; x_wconf 90'>4.</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 106 1051 371 1089; x_wconf 91'>Einsatzgebiete:</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 406 1052 459 1081; x_wconf 95'>Die</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 494 1053 559 1081; x_wconf 96'>EPA</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 589 1051 664 1081; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 697 1060 759 1081; x_wconf 91'>von</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 792 1053 929 1081; x_wconf 90'>Armeen</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 962 1051 1115 1081; x_wconf 96'>weltweit</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 1148 1052 1176 1081; x_wconf 92'>in</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 1208 1051 1462 1081; x_wconf 92'>verschiedenen</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 1497 1051 1776 1089; x_wconf 91'>Einsatzgebieten</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 1808 1051 2005 1087; x_wconf 96'>verwendet,</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

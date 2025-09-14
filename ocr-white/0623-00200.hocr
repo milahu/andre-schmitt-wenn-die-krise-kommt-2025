@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0623-00200.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2005 1089">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 43 17 1154 52">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 17 1154 52; baseline 0 -6; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 18 104 47; x_wconf 93'>Das</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 116 18 203 46; x_wconf 92'>THW</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 216 18 255 47; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 269 18 297 46; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 311 17 542 47; x_wconf 96'>verschiedene</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 557 17 787 47; x_wconf 96'>Fachbereiche</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 801 17 976 52; x_wconf 96'>unterteilt,</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 991 17 1154 47; x_wconf 96'>darunter:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 42 83 448 121">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 83 448 121; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 42 96 53 107; x_wconf 76'>*</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 68 84 213 121; x_wconf 95'>Bergung</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 229 83 293 113; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 309 84 448 121; x_wconf 96'>Rettung</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 149 288 187">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 149 288 187; baseline -0.004 -8; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_13' title='bbox 42 162 53 173; x_wconf 36'>+</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 68 149 288 187; x_wconf 96' lang='deu'>Beleuchtung</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 215 391 253">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 215 391 253; baseline 0.003 -9; x_size 38; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_15' title='bbox 42 228 53 239; x_wconf 72'>«</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 68 215 391 253; x_wconf 91' lang='deu'>Elektroversorgung</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 280 570 319">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 280 570 319; baseline 0 -8; x_size 38; x_descenders 7; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_17' title='bbox 42 294 53 305; x_wconf 50'>«</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 68 281 273 319; x_wconf 93' lang='deu'>Fachgruppe</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 286 280 570 319; x_wconf 92' lang='deu'>Wassergefahren</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 341 472 385">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 341 472 385; baseline 0 -9; x_size 43; x_descenders 8; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_20' title='bbox 42 360 53 371; x_wconf 77'>«</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 68 347 273 385; x_wconf 93' lang='deu'>Fachgruppe</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 288 341 472 377; x_wconf 91' lang='deu'>Ölschaden</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 413 413 451">
+     <span class='ocr_line' id='line_1_7' title="bbox 42 413 413 451; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_23' title='bbox 42 426 53 437; x_wconf 23'>«</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 68 413 273 451; x_wconf 96' lang='deu'>Fachgruppe</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 288 414 413 451; x_wconf 96' lang='deu'>Ortung</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 478 513 517">
+     <span class='ocr_line' id='line_1_8' title="bbox 42 478 513 517; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_26' title='bbox 42 492 53 503; x_wconf 70'>«</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 68 479 273 517; x_wconf 96' lang='deu'>Fachgruppe</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 289 478 513 509; x_wconf 96' lang='deu'>Infrastruktur</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 42 545 425 583">
+     <span class='ocr_line' id='line_1_9' title="bbox 42 545 425 583; baseline -0.003 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_29' title='bbox 42 558 53 569; x_wconf 62'>*</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 68 545 273 583; x_wconf 95'>Fachgruppe</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 289 545 425 583; x_wconf 96'>Logistik</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 42 610 910 649">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 610 910 649; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_32' title='bbox 42 624 53 635; x_wconf 31'>+</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 68 611 273 649; x_wconf 93' lang='deu'>Fachgruppe</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 289 610 910 649; x_wconf 90' lang='deu'>Notversorgung/Notinstandsetzung</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='deu' title="bbox 41 699 2005 889">
+     <span class='ocr_line' id='line_1_11' title="bbox 43 699 2005 737; baseline 0.001 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_35' title='bbox 43 700 97 729; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 126 699 353 737; x_wconf 96'>Fachgruppen</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 382 699 451 729; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 477 699 597 737; x_wconf 95'>jeweils</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 625 700 682 729; x_wconf 95'>mit</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 709 699 876 737; x_wconf 96'>spezieller</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 901 700 1102 737; x_wconf 96'>Ausrüstung</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1132 699 1195 729; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1225 699 1516 729; x_wconf 92'>Fachkenntnissen</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1544 703 1774 737; x_wconf 96'>ausgestattet,</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1804 708 1856 729; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1886 700 1914 728; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1942 699 2005 729; x_wconf 96'>den</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 764 1394 795; baseline -0.001 0; x_size 38.515408; x_descenders 8.5154085; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_48' title='bbox 41 765 294 795; x_wconf 93'>verschiedenen</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 310 766 601 795; x_wconf 91'>Einsatzszenarien</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 616 765 739 795; x_wconf 96'>schnell</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 753 765 817 795; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 832 764 966 795; x_wconf 96'>effektiv</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 980 764 1060 795; x_wconf 96'>Hilfe</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1075 765 1189 795; x_wconf 96'>leisten</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1203 774 1240 795; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1256 765 1394 795; x_wconf 95'>können.</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 42 853 371 889; baseline 0 -6; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_57' title='bbox 42 853 178 889; x_wconf 96'>Quellen</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 194 853 258 883; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 274 853 371 883; x_wconf 96'>Links:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 42 919 948 957">
+     <span class='ocr_line' id='line_1_14' title="bbox 42 919 948 957; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_60' title='bbox 42 933 53 944; x_wconf 74'>«</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 67 919 225 949; x_wconf 96' lang='deu'>Offizielle</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 238 919 378 949; x_wconf 96' lang='deu'>Website</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 392 919 451 949; x_wconf 93' lang='deu'>des</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 463 921 558 949; x_wconf 92' lang='deu'>THW:</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 573 919 948 957; x_wconf 92' lang='deu'>https://www.thw.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 42 985 1112 1023">
+     <span class='ocr_line' id='line_1_15' title="bbox 42 985 1112 1023; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_66' title='bbox 42 999 53 1010; x_wconf 31'>«</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 65 985 438 1015; x_wconf 92' lang='deu'>THW-Landesverband</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 454 987 581 1023; x_wconf 93'>Bayern:</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 597 985 1112 1023; x_wconf 91'>https://www.thw-bayern.de/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 42 1051 1311 1089">
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1051 1311 1089; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_70' title='bbox 42 1065 53 1076; x_wconf 36'>«</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 65 1051 438 1081; x_wconf 91'>THW-Landesverband</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 454 1051 835 1081; x_wconf 88'>Nordrhein-Westfalen:</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 851 1051 1311 1089; x_wconf 89'>https://www.thw-nrw.de/</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0100-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 16 2008 1089">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 16 2007 186">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 16 2005 54; baseline 0 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 18 148 47; x_wconf 96'>Strom</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 180 17 364 54; x_wconf 96'>produziert</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 393 17 439 47; x_wconf 95'>als</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 469 18 509 46; x_wconf 96'>im</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 539 17 614 47; x_wconf 96'>Jahr</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 642 25 745 47; x_wconf 96'>zuvor.</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 777 18 838 47; x_wconf 96'>Das</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 868 17 1069 47; x_wconf 96'>Statistische</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1101 17 1300 47; x_wconf 96'>Bundesamt</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1328 16 1418 47; x_wconf 96'>führt</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1447 17 1505 47; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1535 16 1591 47; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1620 17 1717 47; x_wconf 96'>milde</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1745 18 2005 54; x_wconf 95'>Temperaturen,</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 2007 121; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_15' title='bbox 42 84 209 121; x_wconf 96'>geringere</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 228 82 408 121; x_wconf 96'>Nachfrage</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 423 91 538 121; x_wconf 96'>wegen</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 557 83 659 113; x_wconf 96'>hoher</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 675 84 888 120; x_wconf 96'>Strompreise</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 906 83 970 113; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 988 83 1039 113; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1057 83 1313 121; x_wconf 92'>konjunkturelle</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1331 83 1546 121; x_wconf 96'>Entwicklung</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1564 83 1688 113; x_wconf 96'>zurück.</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1707 84 1766 113; x_wconf 93'>Der</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1782 84 2007 120; x_wconf 92'>Stromexport</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 43 149 1663 186; baseline 0 -8; x_size 34; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_27' title='bbox 43 149 279 179; x_wconf 96'>Deutschlands</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 291 157 357 179; x_wconf 96'>war</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 370 150 427 178; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 441 150 510 184; x_wconf 96'>30,1</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 531 149 704 179; x_wconf 96'>Milliarden</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 720 149 795 178; x_wconf 96'>kWh</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 811 149 913 179; x_wconf 96'>höher</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 925 149 972 179; x_wconf 96'>als</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 985 149 1042 179; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1055 150 1285 186; x_wconf 91'>Stromimport</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1299 150 1374 184; x_wconf 96'>27,8</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1389 149 1562 179; x_wconf 96'>Milliarden</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1578 149 1663 178; x_wconf 96'>kWh.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 40 236 2008 869">
+     <span class='ocr_line' id='line_1_4' title="bbox 43 236 2005 275; baseline 0.001 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_40' title='bbox 43 237 167 267; x_wconf 96'>Kleines</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 186 238 275 272; x_wconf 96'>Fazit,</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 295 237 353 267; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 370 238 424 266; x_wconf 96'>wir</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 441 237 504 267; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 524 236 697 267; x_wconf 96'>offiziellen</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 718 239 819 267; x_wconf 96'>Daten</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 839 237 1041 267; x_wconf 96'>entnehmen</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1061 237 1200 267; x_wconf 96'>können:</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1218 239 1262 272; x_wconf 95'>Ja,</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1282 237 1333 267; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1351 237 1588 267; x_wconf 96'>erneuerbaren</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1609 238 1761 275; x_wconf 96'>Energien</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 1780 238 1916 275; x_wconf 96'>steigen,</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1936 237 2005 267; x_wconf 96'>sind</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 40 302 2008 341; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_55' title='bbox 40 303 157 341; x_wconf 96'>jedoch</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 174 312 237 333; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 253 305 314 341; x_wconf 96'>Tag</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 332 312 369 333; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 386 305 447 341; x_wconf 96'>Tag</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 465 303 742 338; x_wconf 96'>unterschiedlich,</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 761 303 847 333; x_wconf 93' lang='eng'>nicht</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 863 303 1069 341; x_wconf 92'>speicherbar</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1085 303 1149 333; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1168 303 1254 333; x_wconf 93'>nicht</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1270 302 1529 341; x_wconf 91'>grundlastfähig</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1545 320 1565 324; x_wconf 91' lang='eng'>—</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1579 312 1761 341; x_wconf 96'>weswegen</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1778 303 1859 333; x_wconf 96' lang='eng'>viele</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1877 312 2008 333; x_wconf 96'>unserer</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 43 368 2005 407; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_70' title='bbox 43 371 174 399; x_wconf 95'>Partner</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 196 369 260 399; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 284 369 457 407; x_wconf 95'>allgemein</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 481 369 538 399; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 561 371 634 399; x_wconf 96'>Rest</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 656 369 713 399; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 733 369 815 399; x_wconf 96'>Welt</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 838 378 902 399; x_wconf 95'>nun</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 924 369 1089 399; x_wconf 96'>vermehrt</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1111 368 1168 399; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1190 378 1273 399; x_wconf 93'>neue</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1295 368 1586 399; x_wconf 92'>Atomkraftwerke</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1608 373 1730 404; x_wconf 96'>setzen,</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1753 369 1875 399; x_wconf 96'>welche</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1899 369 1946 399; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1968 378 2005 399; x_wconf 96'>zu</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 42 434 2005 473; baseline -0.001 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_86' title='bbox 42 436 84 465; x_wconf 92'>98</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 97 437 132 465; x_wconf 92'>%</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 144 435 203 465; x_wconf 96'>des</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 214 435 445 465; x_wconf 96'>verwendeten</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 461 435 621 465; x_wconf 96'>Materials</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 633 435 719 465; x_wconf 92'>dank</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 730 434 1086 473; x_wconf 91'>Wiederaufarbeitung</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1099 435 1416 465; x_wconf 92'>wiederverwenden</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1431 435 1569 465; x_wconf 96'>können.</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1584 436 1637 465; x_wconf 93'>Die</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1649 434 2005 473; x_wconf 92'>Wiederaufarbeitung</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 41 500 2008 539; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_97' title='bbox 41 510 103 531; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 127 500 436 531; x_wconf 91'>Kernbrennstoffen</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 460 502 499 531; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 520 502 569 531; x_wconf 95'>ein</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 591 501 652 531; x_wconf 95'>Teil</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 673 501 732 531; x_wconf 92'>des</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 754 500 1109 531; x_wconf 91'>Brennstoffkreislaufs</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1131 502 1159 530; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1182 501 1239 531; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1260 501 1479 531; x_wconf 92'>Kerntechnik.</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 1502 502 1551 531; x_wconf 96'>Sie</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1573 501 1663 531; x_wconf 96'>dient</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1684 501 1741 531; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1760 503 1928 539; x_wconf 96'>Trennung</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1951 501 2008 531; x_wconf 96'>der</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 566 2005 602; baseline 0.001 -6; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_112' title='bbox 43 568 71 596; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 90 567 268 597; x_wconf 93'>benutzten</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 287 567 579 597; x_wconf 92'>Brennelementen</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 596 576 659 597; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 678 567 929 597; x_wconf 92'>Kernreaktoren</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 947 567 1170 602; x_wconf 96'>enthaltenen,</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 1187 567 1340 597; x_wconf 95'>während</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1358 567 1416 597; x_wconf 95'>des</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1434 567 1576 597; x_wconf 95'>Betriebs</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1593 567 1836 597; x_wconf 96'>entstandenen</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1854 566 1960 597; x_wconf 96'>Stoffe</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 1977 568 2005 596; x_wconf 95'>in</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 42 632 2007 671; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_124' title='bbox 42 634 209 663; x_wconf 93'>einerseits</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 221 633 559 663; x_wconf 92'>wiederverwertbare</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 571 633 696 663; x_wconf 92'>Anteile</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 710 632 924 671; x_wconf 91'>(ungenutzte</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 939 632 1226 663; x_wconf 91'>Kernbrennstoffe</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1240 633 1304 663; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1319 633 1442 663; x_wconf 93'>diverse</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1457 632 1698 668; x_wconf 92'>Radionuklide)</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 1713 633 1776 663; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1791 633 2007 663; x_wconf 96'>andererseits</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 43 698 2006 737; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_134' title='bbox 43 699 150 734; x_wconf 90'>hoch-,</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 169 699 288 729; x_wconf 90'>mittel-</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 306 699 369 729; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 387 699 756 729; x_wconf 91'>schwachradioaktiven</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 773 698 887 729; x_wconf 96'>Abfall.</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 905 701 966 729; x_wconf 93'>Das</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 984 699 1299 737; x_wconf 89'>Endlagerproblem,</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1316 699 1375 729; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1392 700 1505 729; x_wconf 93'>immer</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1519 699 1766 737; x_wconf 92'>vorgeschoben</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1782 699 1867 734; x_wconf 96'>wird,</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1885 699 2006 729; x_wconf 96'>könnte</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 764 2008 803; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_146' title='bbox 41 774 78 795; x_wconf 96'>so</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 97 765 238 795; x_wconf 96'>deutlich</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 257 766 434 803; x_wconf 96'>verringert</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 451 765 590 800; x_wconf 96'>werden,</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 611 765 719 795; x_wconf 96'>indem</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 739 765 797 795; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 815 774 870 795; x_wconf 96'>zur</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 886 764 1073 803; x_wconf 96'>Verfügung</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1093 765 1255 795; x_wconf 96'>stehende</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1275 765 1418 795; x_wconf 96'>Material</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1435 765 1555 795; x_wconf 96'>wieder</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1573 765 1648 795; x_wconf 93'>dem</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1669 764 2008 795; x_wconf 91'>Brennstoffkreislauf</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 41 830 313 869; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_159' title='bbox 41 830 216 869; x_wconf 96'>zugeführt</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 228 831 313 861; x_wconf 88'>wird.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 41 920 617 957">
+     <span class='ocr_line' id='line_1_14' title="bbox 41 920 617 957; baseline 0 -8; x_size 36; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_161' title='bbox 41 920 328 957; x_wconf 96'>Stromerzeugung</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 341 921 451 949; x_wconf 95'>Brutto</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 465 928 505 949; x_wconf 96'>vs.</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 521 921 617 949; x_wconf 96'>Netto</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 43 985 2008 1089">
+     <span class='ocr_line' id='line_1_15' title="bbox 43 985 2008 1023; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_165' title='bbox 43 987 142 1015; x_wconf 93'>Unter</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 168 987 572 1023; x_wconf 91'>Bruttostromerzeugung</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 598 985 744 1015; x_wconf 96'>versteht</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 770 994 844 1015; x_wconf 96'>man</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 871 985 922 1015; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 949 989 1098 1023; x_wconf 96'>gesamte</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 1125 986 1153 1015; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1182 985 1399 1015; x_wconf 96'>Deutschland</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1427 989 1580 1023; x_wconf 93'>erzeugte</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 1607 987 1846 1023; x_wconf 91'>Strommenge.</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 1874 986 1924 1015; x_wconf 96'>Bei</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 1951 985 2008 1015; x_wconf 96'>der</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 43 1051 2008 1089; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_177' title='bbox 43 1053 435 1089; x_wconf 90'>Nettostromerzeugung</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 450 1051 524 1081; x_wconf 96'>wird</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 541 1051 597 1081; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 612 1051 828 1089; x_wconf 96'>Eigenbedarf</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 841 1051 898 1081; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 913 1051 1105 1081; x_wconf 96'>Kraftwerke</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 1119 1051 1170 1081; x_wconf 96'>für</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 1184 1051 1235 1081; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 1250 1051 1555 1089; x_wconf 90'>Stromproduktion</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 1571 1051 1763 1089; x_wconf 96'>abgezogen</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1779 1051 2008 1089; x_wconf 96'>(Eigenbedarf</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

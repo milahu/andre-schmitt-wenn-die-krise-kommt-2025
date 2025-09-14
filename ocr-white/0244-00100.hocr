@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0244-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 43 268 2005 1126">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 43 268 2005 1126">
+     <span class='ocr_line' id='line_1_1' title="bbox 666 268 1154 364; baseline -0.012 -52; x_size 26; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 666 268 862 364; x_wconf 50'>TSN</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1057 291 1154 312; x_wconf 0'>Lued&#39;ze</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 930 913 1117 943; baseline -0.005 -6; x_size 31; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_3' title='bbox 930 913 1072 943; x_wconf 91'>Abbildung</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1082 914 1117 936; x_wconf 96'>22</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 43 999 1229 1037; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_5' title='bbox 43 1001 104 1029; x_wconf 93'>Das</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 117 999 513 1037; x_wconf 92'>Zwiebelschalensystem</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 529 999 661 1029; x_wconf 92'>besteht</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 675 1000 703 1029; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 718 999 775 1029; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 789 999 885 1037; x_wconf 92'>Regel</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 897 1008 956 1029; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 969 999 1033 1029; x_wconf 93'>drei</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1048 999 1229 1029; x_wconf 92'>Schichten:</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 44 1087 2005 1126; baseline 0 -9; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_14' title='bbox 44 1089 71 1117; x_wconf 93'>1.</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 92 1087 312 1118; x_wconf 90'>Basisschicht:</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 333 1088 425 1118; x_wconf 93'>Diese</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 445 1087 572 1118; x_wconf 96' lang='deu'>Schicht</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 592 1087 669 1126; x_wconf 96'>liegt</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 688 1087 790 1118; x_wconf 95'>direkt</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 809 1087 866 1118; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 883 1087 941 1118; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 960 1089 1043 1118; x_wconf 96'>Haut</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1063 1087 1127 1118; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1147 1087 1207 1118; x_wconf 93'>soll</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1227 1087 1373 1118; x_wconf 96' lang='deu'>Schweiß</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1390 1096 1453 1118; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1473 1087 1530 1118; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1550 1089 1633 1118; x_wconf 96'>Haut</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1650 1096 1721 1126; x_wconf 93'>weg</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1740 1088 2005 1125; x_wconf 96' lang='deu'>transportieren,</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

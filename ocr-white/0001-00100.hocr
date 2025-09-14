@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0001-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 646 278 1402 432">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 646 278 1402 432">
+     <span class='ocr_line' id='line_1_1' title="bbox 646 278 1402 333; baseline 0.001 -2; x_size 60.482941; x_descenders 6.4829397; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_1' title='bbox 646 282 832 333; x_wconf 96'>Wenn</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 858 278 955 333; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 983 278 1142 333; x_wconf 95'>Krise</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1168 279 1402 333; x_wconf 95'>kommt</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 858 394 1189 432; baseline 0 0; x_size 42.265091; x_descenders 4.2650919; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_5' title='bbox 858 394 997 432; x_wconf 95'>Andre</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1011 395 1189 432; x_wconf 96'>Schmitt</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

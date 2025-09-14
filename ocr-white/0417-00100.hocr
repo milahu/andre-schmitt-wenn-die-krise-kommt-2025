@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0417-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 42 17 2006 1068">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 497 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 497 55; baseline -0.002 -8; x_size 38; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 78'>*</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 68 17 497 55; x_wconf 91'>Bewusstseinseintrübung</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 42 83 362 121">
+     <span class='ocr_line' id='line_1_2' title="bbox 42 83 362 121; baseline -0.003 -8; x_size 38; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_3' title='bbox 42 96 53 107; x_wconf 70'>*</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 68 83 362 121; x_wconf 91'>Bewusstlosigkeit</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 150 297 187">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 150 297 187; baseline 0.004 -9; x_size 37; x_descenders 9; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_5' title='bbox 42 162 53 173; x_wconf 50'>«</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 65 150 297 187; x_wconf 92' lang='deu'>Atemstörung</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 42 215 323 245">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 215 323 245; baseline 0 -1; x_size 37.482067; x_descenders 8.4820681; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_7' title='bbox 42 228 53 239; x_wconf 42'>+</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 65 215 323 245; x_wconf 92'>Atemstillstand</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 42 280 501 311">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 280 501 311; baseline 0 -1; x_size 38.482067; x_descenders 8.4820681; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_9' title='bbox 42 294 53 305; x_wconf 25'>*</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 68 280 501 311; x_wconf 90'>Herz-Kreislauf-Stillstand</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 42 368 2006 539">
+     <span class='ocr_line' id='line_1_6' title="bbox 43 368 2005 407; baseline 0.001 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_11' title='bbox 43 370 198 399; x_wconf 96'>Hinweise</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 221 378 284 399; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 308 371 549 407; x_wconf 92'>Augenzeugen</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 574 370 672 399; x_wconf 96'>sowie</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 696 369 754 399; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 777 368 950 399; x_wconf 95'>Auffinden</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 974 378 1036 399; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1063 369 1335 404; x_wconf 93'>Medikamenten,</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1362 369 1583 399; x_wconf 92'>Behältnissen</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1609 369 1673 399; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1699 368 1873 399; x_wconf 91'>Giftresten</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1898 369 2005 407; x_wconf 96'>geben</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 42 434 2006 473; baseline -0.001 -8; x_size 39; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_23' title='bbox 42 435 88 465; x_wconf 96'>dir</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 109 436 261 465; x_wconf 95'>weiteren</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 284 434 472 465; x_wconf 95'>Aufschluss</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 496 435 575 465; x_wconf 96'>über</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 597 436 691 465; x_wconf 93'>einen</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 714 434 1049 473; x_wconf 90'>Vergiftungsnotfall.</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1075 437 1110 465; x_wconf 96'>Es</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1134 436 1264 465; x_wconf 96'>müssen</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1290 435 1376 465; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1400 436 1513 465; x_wconf 96'>immer</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1535 435 1596 465; x_wconf 91'>alle</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1621 435 2006 473; x_wconf 91'>Erkennungsmerkmale</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 42 500 1313 539; baseline 0 -8; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_35' title='bbox 42 500 216 531; x_wconf 96'>auftreten.</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 232 503 267 531; x_wconf 96'>Es</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 281 510 370 531; x_wconf 96'>muss</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 384 502 497 531; x_wconf 96'>immer</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 510 501 561 531; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 575 505 724 539; x_wconf 96'>gesamte</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 739 502 896 531; x_wconf 96'>Situation</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 912 501 1162 539; x_wconf 96'>berücksichtigt</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1173 501 1313 531; x_wconf 96'>werden!</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 43 589 479 619">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 589 479 619; baseline 0 0; x_size 38.482067; x_descenders 8.4820681; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_44' title='bbox 43 589 479 619; x_wconf 90'>Erste-Hilfe-Maßnahmen:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 655 569 685">
+     <span class='ocr_line' id='line_1_10' title="bbox 42 655 569 685; baseline 0 0; x_size 38.482067; x_descenders 8.4820681; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_45' title='bbox 42 669 53 680; x_wconf 32'>+</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 68 655 229 685; x_wconf 96' lang='deu'>Kontrolle</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 243 655 299 685; x_wconf 96' lang='deu'>der</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 313 655 569 685; x_wconf 96' lang='deu'>Lebenszeichen</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 42 721 855 759">
+     <span class='ocr_line' id='line_1_11' title="bbox 42 721 855 759; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_49' title='bbox 42 735 53 746; x_wconf 75'>«</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 68 722 117 751; x_wconf 96' lang='deu'>Bei</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 131 721 358 751; x_wconf 96' lang='deu'>vorhandener</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 369 723 521 759; x_wconf 94' lang='deu'>Atmung:</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 536 721 656 751; x_wconf 96' lang='deu'>Stabile</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 671 721 855 759; x_wconf 96' lang='deu'>Seitenlage</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 42 787 912 825">
+     <span class='ocr_line' id='line_1_12' title="bbox 42 787 912 825; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_55' title='bbox 42 801 53 812; x_wconf 78'>«</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 67 787 316 825; x_wconf 96' lang='deu'>Sicherstellung</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 330 796 393 817; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 408 787 583 817; x_wconf 92'>Giftresten</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 599 787 662 817; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 679 787 912 817; x_wconf 91' lang='deu'>Erbrochenem</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 43 875 2005 979">
+     <span class='ocr_line' id='line_1_13' title="bbox 43 875 2005 914; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_61' title='bbox 43 877 142 906; x_wconf 92'>Unter</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 155 875 357 906; x_wconf 96' lang='deu'>Umständen</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 371 875 441 905; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 457 875 506 905; x_wconf 93'>bei</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 521 877 648 913; x_wconf 96' lang='deu'>einigen</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 661 875 894 914; x_wconf 96' lang='deu'>Vergiftungen</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 907 877 1037 905; x_wconf 92'>weitere</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1053 875 1272 905; x_wconf 95' lang='deu'>Maßnahmen</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1287 875 1503 906; x_wconf 93'>erforderlich.</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1519 876 1624 914; x_wconf 96' lang='deu'>Einige</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1639 875 1793 913; x_wconf 96' lang='deu'>Beispiele</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1807 875 1888 905; x_wconf 93'>dazu</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1903 875 2005 905; x_wconf 95' lang='deu'>sollen</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 941 604 979; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_74' title='bbox 43 943 83 971; x_wconf 96' lang='deu'>im</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 99 941 282 979; x_wconf 96' lang='deu'>Folgenden</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 297 941 452 971; x_wconf 96' lang='deu'>erläutert</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 464 941 604 972; x_wconf 95' lang='deu'>werden.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='deu' title="bbox 43 1029 608 1068">
+     <span class='ocr_line' id='line_1_15' title="bbox 43 1029 608 1068; baseline 0.002 -9; x_size 39; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_78' title='bbox 43 1029 266 1068; x_wconf 96'>Vergiftungen</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 280 1030 357 1060; x_wconf 96'>über</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 367 1030 416 1060; x_wconf 97'>die</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 426 1032 608 1068; x_wconf 96'>Atemwege</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

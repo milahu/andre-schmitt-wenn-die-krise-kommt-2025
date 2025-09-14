@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0130-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 16 2006 979">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 41 16 2005 121">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 16 2005 55; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 261 55; x_wconf 96'>Bevölkerung</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 278 18 317 47; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 331 16 388 47; x_wconf 93'>auf</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 402 17 548 47; x_wconf 92'>haltbare</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 564 17 795 47; x_wconf 96'>Lebensmittel</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 809 18 1025 55; x_wconf 96'>angewiesen.</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1043 18 1205 55; x_wconf 96'>Engpässe</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1222 17 1285 47; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1303 18 1572 55; x_wconf 91'>Rationierungen</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1587 16 1703 47; x_wconf 96'>führen</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1719 26 1756 47; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1774 17 1924 47; x_wconf 96'>Unruhen</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1941 17 2005 47; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 41 83 429 121; baseline -0.003 -8; x_size 39; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_14' title='bbox 41 83 182 113; x_wconf 96'>sozialen</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 197 84 429 121; x_wconf 96'>Spannungen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 41 149 2005 451">
+     <span class='ocr_line' id='line_1_3' title="bbox 43 149 2005 187; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_16' title='bbox 43 150 71 178; x_wconf 89'>2.</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 104 149 446 179; x_wconf 89'>Gesundheitsrisiken:</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 480 150 533 179; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 565 149 835 187; x_wconf 96'>eingeschränkte</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 867 149 1094 179; x_wconf 95'>medizinische</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1125 150 1327 187; x_wconf 95'>Versorgung</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1359 149 1512 179; x_wconf 96'>während</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1545 150 1635 179; x_wconf 96'>eines</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1667 149 1739 187; x_wconf 96'>lang</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1772 149 2005 179; x_wconf 96'>andauernden</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 42 214 2005 253; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_26' title='bbox 42 215 289 245; x_wconf 91'>Schwarzstarts</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 307 215 389 245; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 407 224 445 245; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 463 216 569 245; x_wconf 96'>einem</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 586 216 718 253; x_wconf 96'>Anstieg</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 735 223 798 245; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 817 215 1029 245; x_wconf 96'>Krankheiten</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1048 215 1112 245; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1130 215 1365 253; x_wconf 96'>Verletzungen</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1382 214 1508 245; x_wconf 96'>führen.</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1528 215 1702 245; x_wconf 96'>Menschen</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1722 216 1778 244; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1795 215 2005 245; x_wconf 96'>chronischen</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 43 280 2005 319; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_39' title='bbox 43 281 288 319; x_wconf 95'>Erkrankungen</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 310 281 380 311; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 403 281 583 311; x_wconf 96'>besonders</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 604 280 786 319; x_wconf 96'>gefährdet,</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 809 281 848 311; x_wconf 96'>da</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 872 281 936 311; x_wconf 96'>ihre</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 957 282 1159 319; x_wconf 96'>Versorgung</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1183 281 1421 311; x_wconf 96'>unterbrochen</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1442 281 1527 310; x_wconf 96'>wird.</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1551 280 1752 311; x_wconf 95'>Infektionen</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1775 281 1918 311; x_wconf 96'>könnten</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1941 281 2005 311; x_wconf 96'>sich</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 42 346 2005 385; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_51' title='bbox 42 346 203 385; x_wconf 95'>aufgrund</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 234 347 290 377; x_wconf 95'>der</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 320 347 547 385; x_wconf 95'>hygienischen</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 579 347 747 377; x_wconf 95'>Probleme</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 775 348 887 377; x_wconf 96'>weiter</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 915 347 1109 382; x_wconf 96'>ausbreiten,</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1140 347 1179 377; x_wconf 96'>da</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1211 347 1302 377; x_wconf 96'>keine</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1332 355 1572 385; x_wconf 96'>angemessene</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1600 346 1910 385; x_wconf 96'>Abfallentsorgung</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1941 347 2005 377; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 41 413 683 451; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_62' title='bbox 41 414 334 451; x_wconf 92'>Wasserreinigung</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 349 413 590 451; x_wconf 96'>gewährleistet</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 603 413 683 443; x_wconf 96'>sind.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 41 479 2006 979">
+     <span class='ocr_line' id='line_1_8' title="bbox 42 479 2005 517; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_65' title='bbox 42 480 71 509; x_wconf 92'>3.</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 93 479 467 516; x_wconf 91'>Sicherheitsprobleme:</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 490 480 539 508; x_wconf 96'>Ein</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 562 479 635 517; x_wconf 93'>lang</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 657 479 884 509; x_wconf 92'>andauernder</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 905 479 1055 508; x_wconf 95'>Blackout</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1077 479 1159 509; x_wconf 95'>kann</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1181 488 1218 509; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1240 480 1328 509; x_wconf 96'>einer</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1347 479 1513 509; x_wconf 96'>Zunahme</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1533 487 1596 509; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1618 479 2005 516; x_wconf 92'>Sicherheitsproblemen</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 41 539 2005 583; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_77' title='bbox 41 544 167 575; x_wconf 95'>führen.</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 197 545 291 575; x_wconf 95'>Ohne</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 319 545 552 575; x_wconf 96'>ausreichende</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 582 545 801 583; x_wconf 96'>Beleuchtung</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 832 545 896 575; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 927 539 1336 583; x_wconf 90'>Überwachungssysteme</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1364 546 1463 583; x_wconf 96'>steigt</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1491 545 1549 575; x_wconf 95'>das</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1579 545 1678 575; x_wconf 96'>Risiko</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1706 553 1768 575; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1799 545 2005 580; x_wconf 92'>Einbrüchen,</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 610 2006 649; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_88' title='bbox 43 611 290 649; x_wconf 92'>Plünderungen</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 335 611 399 641; x_wconf 92'>und</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 444 611 775 641; x_wconf 87' lang='eng'>Gewaltverbrechen.</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 821 612 874 641; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 917 610 1107 641; x_wconf 80'>Öffentliche</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1151 611 1306 649; x_wconf 95'>Ordnung</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1351 612 1390 641; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1434 612 1551 641; x_wconf 96'>massiv</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1593 610 1774 649; x_wconf 95'>gefährdet,</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1817 619 1911 641; x_wconf 96'>wenn</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1955 611 2006 641; x_wconf 95'>die</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 42 676 1981 715; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_99' title='bbox 42 676 514 715; x_wconf 91'>Strafverfolgungsbehörden</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 529 678 586 706; x_wconf 96'>mit</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 600 677 799 715; x_wconf 96'>begrenzten</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 815 678 1010 707; x_wconf 96'>Ressourcen</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1026 677 1090 707; x_wconf 92'>und</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1106 677 1658 715; x_wconf 91'>Kommunikationsmöglichkeiten</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1674 676 1889 707; x_wconf 96'>konfrontiert</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1901 677 1981 707; x_wconf 95'>sind.</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 742 2005 781; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_107' title='bbox 41 744 71 772; x_wconf 93'>4.</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 88 743 211 773; x_wconf 96'>Soziale</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 228 743 292 773; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 310 743 577 781; x_wconf 96'>psychologische</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 592 743 854 781; x_wconf 96'>Auswirkungen:</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 872 744 921 772; x_wconf 96'>Ein</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 940 743 1086 781; x_wconf 96'>längerer</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1102 743 1253 772; x_wconf 96'>Blackout</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1270 743 1352 772; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1369 752 1406 773; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 1425 743 1574 773; x_wconf 96'>Isolation</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 1592 743 1656 773; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1675 743 1865 773; x_wconf 96'>Einsamkeit</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1880 742 2005 778; x_wconf 96'>führen,</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 43 809 2005 847; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_121' title='bbox 43 809 276 839; x_wconf 95'>insbesondere</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 301 817 395 839; x_wconf 96'>wenn</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 423 809 474 839; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 502 809 947 847; x_wconf 91'>Kommunikationssysteme</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 973 809 1318 839; x_wconf 92'>zusammenbrechen.</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1347 809 1521 839; x_wconf 96'>Menschen</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1550 809 1678 839; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1705 809 1769 839; x_wconf 93'>sich</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1796 810 2005 847; x_wconf 92'>verängstigt,</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 874 2005 913; baseline 0 -9; x_size 39; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_130' title='bbox 43 874 149 905; x_wconf 96'>hilflos</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 171 875 234 905; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 255 874 415 905; x_wconf 96'>frustriert</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 434 874 557 910; x_wconf 96'>fühlen,</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 579 875 618 905; x_wconf 95'>da</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 640 876 685 905; x_wconf 96'>sie</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 707 875 820 905; x_wconf 96'>keinen</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 842 876 973 913; x_wconf 96'>Zugang</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 995 884 1032 905; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1054 875 1323 913; x_wconf 96'>grundlegenden</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1347 875 1642 913; x_wconf 96'>Dienstleistungen</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1665 875 1729 905; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1753 874 2005 905; x_wconf 96'>Informationen</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 43 941 1935 979; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_143' title='bbox 43 941 159 971; x_wconf 96'>haben.</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 175 942 228 971; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 243 941 430 979; x_wconf 96'>psychische</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 445 941 646 971; x_wconf 96'>Gesundheit</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 659 941 716 971; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 729 941 947 979; x_wconf 96'>Bevölkerung</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 963 941 1046 971; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1061 944 1155 971; x_wconf 96'>unter</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 1168 941 1279 971; x_wconf 96'>diesen</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1295 941 1527 979; x_wconf 96'>Bedingungen</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1542 941 1629 971; x_wconf 96'>stark</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1642 941 1783 971; x_wconf 96'>belastet</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1795 941 1935 971; x_wconf 95'>werden.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

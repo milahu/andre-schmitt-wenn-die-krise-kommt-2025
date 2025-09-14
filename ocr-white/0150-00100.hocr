@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0150-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 17 907 113">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 40 17 907 113">
+     <span class='ocr_line' id='line_1_1' title="bbox 40 17 907 55; baseline 0 -9; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 40 18 129 52; x_wconf 96'>„Was</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 142 25 201 47; x_wconf 96'>uns</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 214 17 302 47; x_wconf 93'>nicht</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 313 17 481 55; x_wconf 92'>umbringt,</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 496 17 608 47; x_wconf 96'>macht</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 620 25 679 47; x_wconf 96'>uns</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 692 25 752 47; x_wconf 96'>nur</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 761 17 907 47; x_wconf 95'>stärker.“</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 82 384 113; baseline 0.003 -1; x_size 36.534058; x_descenders 6.5340595; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 42 82 198 113; x_wconf 96'>Friedrich</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 211 83 384 113; x_wconf 96'>Nietzsche</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

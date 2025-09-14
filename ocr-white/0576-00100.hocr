@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0576-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2007 1089">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 42 17 671 47">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 671 47; baseline 0 -1; x_size 37.3214; x_descenders 8.3214006; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 17 117 47; x_wconf 93'>dem</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 132 17 298 47; x_wconf 89'>Stahlstab</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 313 18 341 46; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 357 17 495 47; x_wconf 96'>Kontakt</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 509 17 671 47; x_wconf 95'>kommen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 41 83 2007 245">
+     <span class='ocr_line' id='line_1_2' title="bbox 41 83 2007 118; baseline 0 -6; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_6' title='bbox 41 84 71 112; x_wconf 93'>4.</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 90 83 224 113; x_wconf 91'>Zunder:</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 243 83 369 113; x_wconf 93'>Zunder</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 388 84 426 113; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 444 83 503 113; x_wconf 95'>das</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 519 83 729 113; x_wconf 96'>verwendete</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 749 83 900 118; x_wconf 95'>Material,</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 920 91 973 113; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 993 83 1056 113; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1077 83 1201 113; x_wconf 96'>Funken</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1221 92 1258 113; x_wconf 93'>zu</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1278 83 1465 113; x_wconf 92'>entzünden</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1486 83 1550 113; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1569 83 1628 113; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1647 84 1743 113; x_wconf 96'>Feuer</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1760 92 1797 113; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1817 86 1951 113; x_wconf 96'>starten.</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1972 84 2007 113; x_wconf 96'>Es</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 43 148 2005 186; baseline 0 -8; x_size 35; x_descenders 6; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_24' title='bbox 43 149 125 178; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 143 157 201 179; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 216 149 470 179; x_wconf 96'>verschiedenen</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 489 149 684 179; x_wconf 96'>Materialien</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 701 150 760 179; x_wconf 96'>wie</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 778 150 893 186; x_wconf 96'>Papier,</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 912 148 1003 184; x_wconf 95'>Stoff,</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1020 149 1207 179; x_wconf 89'>trockenem</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1226 150 1302 179; x_wconf 96'>Gras</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1319 149 1399 179; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1415 149 1565 184; x_wconf 93'>Blättern,</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1585 149 1789 186; x_wconf 91'>Holzspänen</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1807 149 1887 179; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1904 149 2005 179; x_wconf 96'>Pilzen</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 43 215 212 245; baseline -0.006 0; x_size 38.717659; x_descenders 8.717658; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_38' title='bbox 43 215 212 245; x_wconf 95'>bestehen.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 43 303 658 341">
+     <span class='ocr_line' id='line_1_5' title="bbox 43 303 658 341; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_39' title='bbox 43 304 114 333; x_wconf 96'>Hier</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 126 303 195 333; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 211 304 315 341; x_wconf 96'>einige</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 330 303 466 339; x_wconf 96'>Quellen</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 481 303 545 333; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 562 303 658 333; x_wconf 95'>Links:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 44 368 1273 407">
+     <span class='ocr_line' id='line_1_6' title="bbox 44 368 1273 407; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_45' title='bbox 44 371 71 399; x_wconf 93'>1.</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 87 369 269 399; x_wconf 92'>Feuerstahl</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 283 368 339 399; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 350 369 533 407; x_wconf 92'>Wikipedia:</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 549 368 1273 407; x_wconf 91'>https://de.wikipedia.org/wiki/Feuerstahl</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 43 434 1145 473">
+     <span class='ocr_line' id='line_1_7' title="bbox 43 434 1145 473; baseline 0 -8; x_size 36; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_50' title='bbox 43 436 71 465; x_wconf 93'>2.</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 87 434 447 465; x_wconf 90'>Bushcraft-Forum.de:</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 463 434 1145 473; x_wconf 89'>https://www.bushcraft-germany.com/</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 42 523 232 553">
+     <span class='ocr_line' id='line_1_8' title="bbox 42 523 232 553; baseline 0 0; x_size 38.3214; x_descenders 8.3214006; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_53' title='bbox 42 523 232 553; x_wconf 96'>Fischzucht</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 41 589 2006 1089">
+     <span class='ocr_line' id='line_1_9' title="bbox 43 589 2006 627; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_54' title='bbox 43 589 227 619; x_wconf 96'>Fischzucht</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 265 590 304 619; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 341 590 391 619; x_wconf 96'>ein</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 428 589 593 627; x_wconf 93'>wichtiger</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 629 589 943 627; x_wconf 91'>Wirtschaftszweig,</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 983 589 1040 619; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1075 589 1228 619; x_wconf 96'>weltweit</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1266 589 1433 619; x_wconf 96'>betrieben</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1471 589 1556 619; x_wconf 96'>wird.</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1596 589 1693 619; x_wconf 96'>Dabei</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 1731 589 1860 619; x_wconf 96'>werden</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 1901 589 2006 619; x_wconf 95'>Fische</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 655 2005 693; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_66' title='bbox 43 656 71 685; x_wconf 84'>in</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 117 655 359 685; x_wconf 84'>kontrollierten</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 406 655 644 693; x_wconf 96'>Umgebungen</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 689 655 873 693; x_wconf 96'>gezüchtet,</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 919 664 972 685; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1018 655 1081 685; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1128 655 1244 685; x_wconf 96'>Bedarf</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1287 664 1327 685; x_wconf 91'>an</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1374 655 1645 693; x_wconf 89' lang='eng'>Fischprodukten</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1690 664 1727 685; x_wconf 95'>zu</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1773 655 1895 685; x_wconf 95'>decken</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1941 655 2005 685; x_wconf 96'>und</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 41 721 2005 759; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_78' title='bbox 41 721 442 759; x_wconf 92'>Wildfischpopulationen</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 476 730 514 751; x_wconf 95'>zu</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 549 721 722 751; x_wconf 95'>entlasten.</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 758 722 811 751; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 846 721 1030 751; x_wconf 96'>Fischzucht</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1064 721 1146 751; x_wconf 96'>kann</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1182 722 1210 751; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1243 721 1387 757; x_wconf 92'>Teichen,</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1420 721 1521 751; x_wconf 96'>Tanks</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1554 721 1634 751; x_wconf 93'>oder</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1668 721 2005 751; x_wconf 91'>Meerwasserfarmen</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 42 781 2006 825; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_89' title='bbox 42 787 277 825; x_wconf 96'>durchgeführt</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 300 787 429 817; x_wconf 96'>werden</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 456 787 520 817; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 546 787 708 817; x_wconf 96'>erfordert</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 732 788 803 817; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 828 787 1018 825; x_wconf 96'>sorgfältige</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1044 781 1289 825; x_wconf 96'>Überwachung</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1316 787 1379 817; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1407 789 1647 825; x_wconf 96'>Management,</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1674 796 1727 817; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1753 788 1825 817; x_wconf 96'>eine</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1850 787 2006 825; x_wconf 96'>optimale</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 41 853 2006 891; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_101' title='bbox 41 853 315 883; x_wconf 96'>Wachstumsrate</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 329 853 393 883; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 408 853 609 883; x_wconf 96'>Gesundheit</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 621 853 678 883; x_wconf 97'>der</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 691 853 796 883; x_wconf 96'>Fische</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 809 862 846 883; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 861 853 1118 891; x_wconf 96'>gewährleisten.</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1133 853 1317 883; x_wconf 96'>Fischzucht</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1330 854 1369 883; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1382 853 1468 883; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1480 853 1567 883; x_wconf 93'>ohne</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1582 853 1934 891; x_wconf 91'>Herausforderungen,</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1947 854 2006 883; x_wconf 96'>wie</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 913 2006 957; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_114' title='bbox 43 919 466 957; x_wconf 92'>Krankheitsbekämpfung,</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 488 919 854 957; x_wconf 91'>Umweltbelastungen,</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 876 913 1131 957; x_wconf 91'>Überfütterung</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 1153 919 1216 949; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 1236 919 1422 949; x_wconf 93'>Ausbrüche</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 1441 928 1503 949; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 1525 920 1685 949; x_wconf 96'>Parasiten</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1706 919 1786 949; x_wconf 92'>oder</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1805 919 2006 949; x_wconf 92'>Raubtieren.</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 43 985 2006 1023; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_123' title='bbox 43 985 147 1015; x_wconf 96'>Daher</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 165 985 235 1015; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 258 986 447 1015; x_wconf 96'>Kenntnisse</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 468 985 532 1015; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 555 985 774 1023; x_wconf 96'>Erfahrungen</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 796 986 824 1015; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 845 985 902 1015; x_wconf 95'>der</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 923 985 1106 1015; x_wconf 96'>Fischzucht</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1124 994 1187 1015; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 1208 985 1341 1023; x_wconf 96'>größter</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1362 985 1562 1023; x_wconf 96'>Bedeutung,</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 1584 994 1637 1015; x_wconf 96'>um</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1658 985 1849 1023; x_wconf 96'>erfolgreich</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1870 994 1907 1015; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1928 986 2006 1015; x_wconf 96'>sein.</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 42 1051 2006 1089; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_138' title='bbox 42 1051 218 1081; x_wconf 96'>Zusätzlich</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 236 1060 291 1081; x_wconf 96'>zur</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 309 1051 503 1081; x_wconf 96'>Produktion</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 521 1060 583 1081; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 603 1051 874 1089; x_wconf 92'>Fischprodukten</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 894 1051 950 1081; x_wconf 96'>hat</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 967 1051 1018 1081; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 1037 1051 1221 1081; x_wconf 96'>Fischzucht</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1238 1051 1318 1081; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 1338 1052 1473 1089; x_wconf 96'>positive</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 1490 1051 1741 1089; x_wconf 96'>Auswirkungen</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1760 1051 1817 1081; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1833 1051 1884 1081; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 1903 1051 2006 1081; x_wconf 96'>lokale</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

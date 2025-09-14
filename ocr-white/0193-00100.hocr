@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../white/0193-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 17 2006 1067">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 42 17 371 47">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 17 371 47; baseline 0 -1; x_size 36.832119; x_descenders 7.8321176; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 30 53 41; x_wconf 58'>«</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 68 17 176 47; x_wconf 95' lang='deu'>Platin:</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 192 17 239 47; x_wconf 96' lang='deu'>bis</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 251 26 289 47; x_wconf 95' lang='deu'>zu</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 305 18 323 47; x_wconf 92'>5</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 337 18 371 46; x_wconf 92' lang='deu'>%</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 43 105 646 143">
+     <span class='ocr_line' id='line_1_2' title="bbox 43 105 646 143; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 43 106 98 135; x_wconf 96'>Für</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 110 105 173 135; x_wconf 96'>den</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 188 109 290 135; x_wconf 93'>etwas</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 305 106 485 143; x_wconf 92'>mutigeren</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 499 105 646 143; x_wconf 95'>Anleger:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 171 380 201">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 171 380 201; baseline 0 0; x_size 37.832119; x_descenders 7.8321176; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_12' title='bbox 42 185 53 195; x_wconf 37'>«</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 67 171 157 201; x_wconf 96' lang='deu'>Gold:</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 174 173 213 201; x_wconf 96'>15</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 229 171 276 201; x_wconf 96' lang='deu'>bis</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 290 172 332 201; x_wconf 93'>30</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 346 173 380 201; x_wconf 93'>%</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 237 399 267">
+     <span class='ocr_line' id='line_1_4' title="bbox 42 237 399 267; baseline 0 0; x_size 37.832119; x_descenders 7.8321176; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_18' title='bbox 42 251 53 261; x_wconf 76'>«</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 67 237 176 267; x_wconf 95'>Silber:</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 191 238 234 267; x_wconf 95'>50</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 248 237 295 267; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 308 239 350 267; x_wconf 93'>75</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 365 239 399 267; x_wconf 92'>%</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 303 394 333">
+     <span class='ocr_line' id='line_1_5' title="bbox 42 303 394 333; baseline 0 0; x_size 37.832119; x_descenders 7.8321176; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_24' title='bbox 42 317 53 327; x_wconf 67'>«</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 68 303 176 333; x_wconf 96' lang='deu'>Platin:</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 192 303 239 333; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 251 312 289 333; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 306 305 346 333; x_wconf 93'>15</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 360 304 394 333; x_wconf 93'>%</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 391 2006 693">
+     <span class='ocr_line' id='line_1_6' title="bbox 42 391 2006 429; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_30' title='bbox 42 391 122 421; x_wconf 96'>Gold</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 145 392 184 421; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 206 391 288 421; x_wconf 96'>noch</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 309 400 371 421; x_wconf 96'>von</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 394 391 450 421; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 472 391 755 421; x_wconf 91'>Mehrwertsteuer</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 776 391 892 421; x_wconf 92'>befreit</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 913 391 977 421; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1000 400 1035 421; x_wconf 93'>es</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1055 392 1172 429; x_wconf 92'>eignen</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1194 391 1259 421; x_wconf 96'>sich</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1280 391 1405 421; x_wconf 92'>sowohl</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1425 391 1690 429; x_wconf 89'>Anlagemiinzen</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1712 391 1758 421; x_wconf 96'>als</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1779 391 1859 421; x_wconf 96'>auch</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1883 393 2006 421; x_wconf 96'>Barren.</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 43 457 2006 495; baseline 0 -8; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_46' title='bbox 43 458 179 487; x_wconf 89'>Miinzen</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 203 457 309 487; x_wconf 95'>haben</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 331 457 394 487; x_wconf 92'>den</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 416 457 542 493; x_wconf 92'>Vorteil,</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 565 457 640 487; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 661 458 706 487; x_wconf 96'>sie</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 727 457 808 487; x_wconf 93'>auch</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 830 458 968 487; x_wconf 92'>zumeist</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 988 458 1060 487; x_wconf 93'>eine</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 1081 457 1232 487; x_wconf 92'>offizielle</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1252 457 1412 495; x_wconf 91'>Wahrung</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1435 457 1619 493; x_wconf 91'>darstellen,</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1641 457 1742 487; x_wconf 91'>daher</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1761 457 1871 487; x_wconf 92'>wiirde</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1893 457 1939 487; x_wconf 96'>ich</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1961 458 2006 487; x_wconf 96'>sie</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 43 523 2005 561; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_62' title='bbox 43 523 258 561; x_wconf 91'>bevorzugen.</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 276 524 326 553; x_wconf 96'>Bei</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 343 523 443 553; x_wconf 95'>Silber</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 456 523 555 553; x_wconf 96'>fallen</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 574 524 614 553; x_wconf 93'>19</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 630 525 664 553; x_wconf 92'>%</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 681 523 965 553; x_wconf 91'>Mehrwertsteuer</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 979 532 1029 553; x_wconf 96'>an.</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1044 525 1108 553; x_wconf 96'>Aus</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1123 523 1198 553; x_wconf 96'>dem</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1215 523 1322 553; x_wconf 93'>Grund</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1339 523 1441 553; x_wconf 92'>bietet</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 1456 523 1520 553; x_wconf 96'>sich</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 1537 524 1587 553; x_wconf 93'>ein</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 1603 523 1820 561; x_wconf 92'>Zollfreilager</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 1834 523 1885 553; x_wconf 95'>fiir</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 1900 523 2005 559; x_wconf 95'>Silber,</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 43 589 2006 619; baseline 0 0; x_size 37.832119; x_descenders 7.8321176; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_79' title='bbox 43 589 142 619; x_wconf 91'>Platin</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 161 589 225 619; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 245 589 418 619; x_wconf 95'>Palladium</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 438 590 466 619; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 484 589 541 619; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 558 589 698 619; x_wconf 96'>Schweiz</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 715 598 764 619; x_wconf 96'>an.</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 784 590 855 619; x_wconf 96'>Hier</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 870 589 969 619; x_wconf 93'>fallen</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 988 589 1125 619; x_wconf 89'>namlich</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1145 589 1194 619; x_wconf 93'>bei</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 1214 589 1293 619; x_wconf 92'>Kauf</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1310 589 1374 619; x_wconf 95'>und</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1391 589 1530 619; x_wconf 96'>Verkauf</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1546 589 1637 619; x_wconf 91'>keine</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1656 589 1940 619; x_wconf 91'>Mehrwertsteuer</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1956 598 2006 619; x_wconf 96'>an.</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 43 655 1564 693; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_96' title='bbox 43 655 334 693; x_wconf 96' lang='deu'>Empfehlenswert</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 348 656 386 685; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 399 664 472 685; x_wconf 92'>zum</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 488 655 622 693; x_wconf 93' lang='deu'>Beispiel</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 636 655 1564 693; x_wconf 84'>https://www.goldsilbershop.de/wertelager-mf.html</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 41 743 2006 840">
+     <span class='ocr_line' id='line_1_11' title="bbox 43 743 2006 782; baseline 0 -9; x_size 36; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_101' title='bbox 43 745 166 773; x_wconf 92'>Barren:</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 181 743 471 781; x_wconf 92'>Empfehlenswert</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 483 743 552 773; x_wconf 93'>sind</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 567 743 663 773; x_wconf 92'>Gold-</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 677 743 741 773; x_wconf 92'>und</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 755 743 971 774; x_wconf 91'>Silberbarren</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 984 752 1046 773; x_wconf 95'>von</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1062 745 1214 782; x_wconf 93'>Degussa,</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1227 743 1398 779; x_wconf 91'>Valcambi,</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1413 745 1566 779; x_wconf 91'>Umicore,</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1581 743 1740 779; x_wconf 91'>Haeffner,</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1755 745 1896 773; x_wconf 92'>Heareus</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1908 745 2006 773; x_wconf 96'>sowie</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 41 809 445 840; baseline 0 -1; x_size 37.832119; x_descenders 7.8321176; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_114' title='bbox 41 818 103 839; x_wconf 95'>von</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 119 809 295 840; x_wconf 93'>Schweizer</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 309 809 445 839; x_wconf 92'>Banken.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 42 897 2006 1067">
+     <span class='ocr_line' id='line_1_13' title="bbox 43 897 2006 936; baseline 0.001 -9; x_size 39; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_117' title='bbox 43 899 189 928; x_wconf 91'>Miinzen:</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 216 900 343 928; x_wconf 90'>Ratsam</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 369 898 438 928; x_wconf 92'>sind</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 463 897 621 936; x_wconf 90'>folgende</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 646 898 742 928; x_wconf 91'>Gold-</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 767 898 831 928; x_wconf 93'>und</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 857 898 1110 928; x_wconf 90'>Silbermiinzen:</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1135 898 1192 928; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1213 898 1457 928; x_wconf 91'>weltbekannte</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1483 898 1690 936; x_wconf 92'>Kriigerrand,</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1715 898 1774 928; x_wconf 93'>das</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1797 898 2006 928; x_wconf 92'>australische</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 43 963 2006 1002; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_129' title='bbox 43 965 189 1002; x_wconf 63'>Kanguru</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 206 964 286 994; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 301 966 438 1002; x_wconf 96'>Nugget,</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 455 964 512 994; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 527 964 721 994; x_wconf 96' lang='deu'>kanadische</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 738 964 843 1001; x_wconf 96'>Maple</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 860 963 939 999; x_wconf 96'>Leaf,</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 956 964 1012 994; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1026 965 1151 994; x_wconf 95'>Wiener</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1167 964 1443 999; x_wconf 96'>Philharmoniker,</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1460 964 1517 994; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1532 964 1680 994; x_wconf 93' lang='deu'>britische</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1697 965 1892 1002; x_wconf 91'>Souvereign</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1908 965 2006 994; x_wconf 96'>sowie</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 42 1029 2005 1067; baseline 0 -8; x_size 35; x_descenders 5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_143' title='bbox 42 1030 100 1060; x_wconf 97'>das</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 117 1030 293 1060; x_wconf 93'>Schweizer</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 307 1030 429 1060; x_wconf 92'>Vreneli</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 447 1029 518 1065; x_wconf 95'>(nur</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 534 1029 636 1065; x_wconf 95'>Gold).</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 655 1031 705 1060; x_wconf 96'>Bei</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 723 1030 823 1060; x_wconf 93'>Silber</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 837 1030 947 1060; x_wconf 92'>wiirde</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 965 1030 1011 1060; x_wconf 96'>ich</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1030 1030 1111 1060; x_wconf 95'>mich</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1129 1029 1186 1060; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1201 1030 1252 1060; x_wconf 92'>die</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1270 1030 1464 1060; x_wconf 91'>kanadische</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1482 1030 1587 1067; x_wconf 96'>Maple</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1605 1029 1679 1060; x_wconf 93'>Leaf</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1695 1030 1948 1065; x_wconf 91'>konzentrieren,</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1966 1030 2005 1060; x_wconf 96'>da</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
