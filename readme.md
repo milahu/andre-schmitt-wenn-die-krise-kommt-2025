@@ -1,6 +1,6 @@
-# Andre Schmitt - Wenn die Krise kommt (2025)
+# André Schmitt - Wenn die Krise kommt (2025)
 
-![Andre Schmitt - Wenn die Krise kommt (2025)](cover.jpg)
+![André Schmitt - Wenn die Krise kommt (2025)](cover.jpg)
 
 https://www.amazon.de/dp/B0DV35NFKK
 
