@@ -41,42 +41,13 @@
      </span>
     </p>
 
-    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 889 208 1160 274">
-     <span class='ocr_line' id='line_1_3' title="bbox 889 208 1160 274; baseline 0 -14; x_size 86.563667; x_descenders 14; x_ascenders 20.563669">
-      <span class='ocrx_word' id='word_1_24' title='bbox 889 208 1043 260; x_wconf 34'>[E47</span>
-      <span class='ocrx_word' id='word_1_25' title='bbox 1065 208 1160 274; x_wconf 15'>2]</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 896 274 1153 384">
-     <span class='ocr_line' id='line_1_4' title="bbox 896 274 1153 384; baseline 0 -15; x_size 157.4046; x_descenders 36; x_ascenders 34.404602">
-      <span class='ocrx_word' id='word_1_26' title='bbox 896 274 1153 384; x_wconf 23'>rE</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 896 340 1116 362">
-     <span class='ocr_line' id='line_1_5' title="bbox 896 340 1116 362; baseline 0 -8; x_size 27.536373; x_descenders 8; x_ascenders 5.5363727">
-      <span class='ocrx_word' id='word_1_27' title='bbox 896 348 911 362; x_wconf 8'>a</span>
-      <span class='ocrx_word' id='word_1_28' title='bbox 1029 340 1043 354; x_wconf 25' lang='deu'>u</span>
-      <span class='ocrx_word' id='word_1_29' title='bbox 1109 348 1116 354; x_wconf 75'>A</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 962 428 1146 450">
-     <span class='ocr_line' id='line_1_6' title="bbox 962 428 1146 450; baseline 0 -7; x_size 27.931828; x_descenders 7; x_ascenders 5.9318275">
-      <span class='ocrx_word' id='word_1_30' title='bbox 962 443 970 450; x_wconf 11'>.</span>
-      <span class='ocrx_word' id='word_1_31' title='bbox 1050 428 1146 450; x_wconf 28' lang='deu'>a5</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 889 428 1138 479">
-     <span class='ocr_line' id='line_1_7' title="bbox 889 428 1138 479; baseline 0 0; x_size 62.344582; x_descenders 11.344583; x_ascenders 14.452785">
-      <span class='ocrx_word' id='word_1_32' title='bbox 889 428 1138 479; x_wconf 13'>LE</span>
-     </span>
-    </p>
-
     <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 41 528 2007 1069">
      <span class='ocr_line' id='line_1_8' title="bbox 896 528 1156 552; baseline 0 0; x_size 29.276953; x_descenders 5.2769523; x_ascenders 7">
+      <!-- qrcode:
+       https://www.youtube.com/watch?v=8A6SfADrv-8&list=PLBg0Z-5qO8PyDyc-f3NPW5PLUi42CWmQf&index=4
+       04 BIA - Es geht ins eingemachte! / Wieso Vorbereiten?
+       videos/04 BIA -  Es geht ins eingemachte! ⧸ Wieso Vorbereiten？.8A6SfADrv-8.mp4
+      -->
       <span class='ocrx_word' id='word_1_33' title='bbox 896 529 975 552; x_wconf 96'>Wieso</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 986 528 1156 552; x_wconf 96'>vorbereiten?</span>
      </span>
