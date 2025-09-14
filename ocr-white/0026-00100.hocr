@@ -98,7 +98,7 @@
 
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 42 391 1298 429">
      <span class='ocr_line' id='line_1_6' title="bbox 42 391 1298 429; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_70' title='bbox 42 405 53 416; x_wconf 73'>«</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 42 405 53 416; x_wconf 73'>•</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 66 392 116 421; x_wconf 96' lang='deu'>ein</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 132 391 243 421; x_wconf 96' lang='deu'>Drittel</span>
       <span class='ocrx_word' id='word_1_73' title='bbox 256 391 313 421; x_wconf 96' lang='deu'>der</span>
@@ -116,7 +116,7 @@
 
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 457 1221 495">
      <span class='ocr_line' id='line_1_7' title="bbox 42 457 1221 495; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_83' title='bbox 42 471 53 482; x_wconf 75'>«</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 42 471 53 482; x_wconf 75'>•</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 66 458 116 487; x_wconf 96' lang='deu'>ein</span>
       <span class='ocrx_word' id='word_1_85' title='bbox 132 457 243 487; x_wconf 96' lang='deu'>Drittel</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 256 457 313 487; x_wconf 96' lang='deu'>der</span>
@@ -132,7 +132,7 @@
 
     <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 523 2005 619">
      <span class='ocr_line' id='line_1_8' title="bbox 42 523 2005 561; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_94' title='bbox 42 537 53 548; x_wconf 56'>«</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 42 537 53 548; x_wconf 56'>•</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 69 532 126 553; x_wconf 95' lang='deu'>nur</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 140 523 199 553; x_wconf 96'>das</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 214 523 312 553; x_wconf 96' lang='deu'>letzte</span>
