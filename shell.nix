@@ -12,6 +12,7 @@ mkShell {
     tesseract
     imagemagick
     wget
+    pdftk
 
     # not used by tesseract?
     # hunspellDicts.de-de
@@ -30,6 +31,8 @@ mkShell {
       pillow
       numpy
       opencv4
+      python-fontconfig
+      reportlab
     ]))
 
     img2pdf
