@@ -151,14 +151,7 @@
       <span class='ocrx_word' id='word_1_122' title='bbox 244 479 428 517; x_wconf 96'>bestätigen</span>
       <span class='ocrx_word' id='word_1_123' title='bbox 444 479 574 509; x_wconf 95'>konnte.</span>
      </span>
-     <span class='ocr_line' id='line_1_9' title="bbox 1265 624 1272 646; baseline 0 0; x_size 37.979839; x_descenders 7.9516129; x_ascenders 8.5213528">
-      <span class='ocrx_word' id='word_1_124' title='bbox 1265 624 1272 646; x_wconf 64' lang='eng'>|</span>
-     </span>
-     <span class='ocr_line' id='line_1_10' title="bbox 708 980 1180 1024; baseline -0.004 0.934; x_size 78.433472; x_descenders 17; x_ascenders 17.433475">
-      <span class='ocrx_word' id='word_1_125' title='bbox 692 980 829 1025; x_wconf 29'>0</span>
-      <span class='ocrx_word' id='word_1_126' title='bbox 864 981 989 1001; x_wconf 25'>PS</span>
-      <span class='ocrx_word' id='word_1_127' title='bbox 1037 982 1180 1024; x_wconf 36'>HT</span>
-     </span>
+<!-- TODO image -->
     </p>
    </div>
   </div>
