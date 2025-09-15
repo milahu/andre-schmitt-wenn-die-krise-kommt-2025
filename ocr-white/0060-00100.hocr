@@ -136,6 +136,7 @@
       <span class='ocrx_word' id='word_1_109' title='bbox 945 412 1265 443; x_wconf 96'>Mehrfamilienhaus</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 1277 413 1346 443; x_wconf 93'>sind</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 1361 413 1647 443; x_wconf 92'>unbeschreiblich.</span>
+      <!-- schon scheisse, wenn man keine komposttoilette hat... -->
       <span class='ocrx_word' id='word_1_112' title='bbox 1662 414 1727 443; x_wconf 96'>Den</span>
       <span class='ocrx_word' id='word_1_113' title='bbox 1740 414 1801 451; x_wconf 96'>Tag</span>
       <span class='ocrx_word' id='word_1_114' title='bbox 1814 413 2005 451; x_wconf 96'>verbringen</span>
@@ -249,8 +250,8 @@
 
     <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 40 919 161 963">
      <span class='ocr_line' id='line_1_14' title="bbox 40 919 161 963; baseline 0.008 -1; x_size 57.398445; x_descenders 13.398446; x_ascenders 12.497529">
-      <span class='ocrx_word' id='word_1_208' title='bbox 40 919 161 963; x_wconf 96'>Tag</span>
-      <span class='ocrx_word' id='word_1_209' title='bbox 133 915 162 980; x_wconf 96'>5</span>
+      <span class='ocrx_word' id='word_1_208' title='bbox 40 919 118 961; x_wconf 96'>Tag</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 133 915 162 954; x_wconf 96'>5</span>
      </span>
     </p>
 
