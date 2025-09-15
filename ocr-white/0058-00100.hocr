@@ -12,28 +12,7 @@
   <div class='ocr_page' id='page_1' title='image "../white/0058-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
    <div class='ocr_carea' id='block_1_1' title="bbox 41 88 2007 1089">
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 598 88 1221 911">
-     <span class='ocr_line' id='line_1_1' title="bbox 920 88 1180 114; baseline 0 -5; x_size 39.467888; x_descenders 8.4862385; x_ascenders 9.4954128">
-      <span class='ocrx_word' id='word_1_1' title='bbox 920 88 935 109; x_wconf 79'>7</span>
-      <span class='ocrx_word' id='word_1_2' title='bbox 1167 89 1180 114; x_wconf 51' lang='eng'>7</span>
-     </span>
-     <span class='ocr_line' id='line_1_2' title="bbox 876 281 1221 371; baseline 0.006 -2; x_size 98; x_descenders 27; x_ascenders 25">
-      <span class='ocrx_word' id='word_1_3' title='bbox 876 311 915 369; x_wconf 44' lang='eng'>Ny</span>
-      <span class='ocrx_word' id='word_1_4' title='bbox 1151 281 1221 355; x_wconf 14' lang='eng'>J.</span>
-     </span>
-     <span class='ocr_line' id='line_1_3' title="bbox 1045 380 1147 404; baseline -0.041 -9.837; x_size 12.739118; x_descenders 2.7391174; x_ascenders 3.0648506">
-      <span class='ocrx_word' id='word_1_5' title='bbox 1045 380 1063 404; x_wconf 0' lang='eng'>F_</span>
-      <span class='ocrx_word' id='word_1_6' title='bbox 1143 389 1147 393; x_wconf 65'>4</span>
-     </span>
-     <span class='ocr_line' id='line_1_4' title="bbox 1114 398 1143 423; baseline 0 0; x_size 31.847794; x_descenders 6.8477936; x_ascenders 7.6621265">
-      <span class='ocrx_word' id='word_1_7' title='bbox 1110 394 1124 434; x_wconf 50' lang='eng'>y</span>
-     </span>
-     <span class='ocr_line' id='line_1_5' title="bbox 850 443 856 465; baseline 0 -6; x_size 29.070879; x_descenders 6; x_ascenders 7.0708795">
-      <span class='ocrx_word' id='word_1_8' title='bbox 850 443 856 465; x_wconf 82' lang='eng'>|</span>
-     </span>
-     <span class='ocr_line' id='line_1_6' title="bbox 598 748 734 781; baseline 0 0; x_size 12.739118; x_descenders 2.7391174; x_ascenders 3.0648506">
-      <span class='ocrx_word' id='word_1_9' title='bbox 598 779 603 781; x_wconf 34'>+</span>
-      <span class='ocrx_word' id='word_1_10' title='bbox 687 748 734 771; x_wconf 22'>_-</span>
-     </span>
+<!-- TODO image -->
      <span class='ocr_line' id='line_1_7' title="bbox 940 881 1108 911; baseline -0.006 -6; x_size 30; x_descenders 6; x_ascenders 8">
       <span class='ocrx_word' id='word_1_11' title='bbox 940 881 1108 911; x_wconf 96'>Abbildung</span>
       <span class='ocrx_word' id='word_1_12' title='bbox 1092 877 1112 915; x_wconf 96'>4</span>
