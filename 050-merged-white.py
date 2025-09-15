@@ -36,11 +36,11 @@ import os
 import re
 from PIL import Image
 
-INPUT_DIR = "white"
+INPUT_DIR = "040-level-images"
 OUTPUT_DIR = "050-merged-white"
 
 # Regex to match filenames like 0336-00100.png
-pattern = re.compile(r"^(\d{4})-\d{5}\.png$")
+pattern = re.compile(r"^(\d+)-\d{5}\.png$")
 
 def merge_images_vertically(images, out_path):
     widths = [img.width for img in images]
@@ -72,22 +72,41 @@ def main():
 
     single_part_bases = []
 
-    for base, files in groups.items():
+    # Iterate over a static list of keys to avoid RuntimeError
+    for base in list(groups.keys()):
+        files = groups[base]
         files.sort()  # ensure order by suffix number
+        n = len(files)
 
-        if len(files) == 1:
+        if n == 1:
             single_part_bases.append(base)
-        else:
-            # Multiple parts: merge vertically
+        elif n == 2:
+            # Merge 2 parts
             images = [Image.open(os.path.join(INPUT_DIR, f)) for f in files]
             out_name = base + ".png"
             out_path = os.path.join(OUTPUT_DIR, out_name)
             merge_images_vertically(images, out_path)
-            print(f"Merged {len(files)} parts -> {out_name}")
+            print(f"Merged 2 parts {files} -> {out_name}")
+        elif n == 3:
+            # Merge first 2 parts
+            images = [Image.open(os.path.join(INPUT_DIR, files[0])), Image.open(os.path.join(INPUT_DIR, files[1]))]
+            out_name = base + ".png"
+            out_path = os.path.join(OUTPUT_DIR, out_name)
+            merge_images_vertically(images, out_path)
+            print(f"Merged first 2 parts of 3 {files[:2]} -> {out_name}")
 
-    # Sort single-part bases numerically
-    single_part_bases = sorted(single_part_bases, key=lambda x: int(x))
+            # Treat 3rd part as single-part image
+            new_base = base + '_part3'
+            groups[new_base] = [files[2]]
+            single_part_bases.append(new_base)
 
+    # Sort single-part bases numerically (ignore '_part3' suffix for sorting)
+    def sort_key(b):
+        return int(re.match(r'(\d+)', b).group(1))
+
+    single_part_bases = sorted(single_part_bases, key=sort_key)
+
+    # Merge consecutive single-part images
     i = 0
     while i < len(single_part_bases):
         base1 = single_part_bases[i]
@@ -97,11 +116,12 @@ def main():
         if i + 1 < len(single_part_bases):
             base2 = single_part_bases[i + 1]
             # Check if consecutive numbers
-            if int(base2) == int(base1) + 1:
+            num1 = int(re.match(r'(\d+)', base1).group(1))
+            num2 = int(re.match(r'(\d+)', base2).group(1))
+            if num2 == num1 + 1:
                 f2 = groups[base2][0]
                 img2 = Image.open(os.path.join(INPUT_DIR, f2))
-
-                out_name = f"{base1}_{base2}.png"
+                out_name = f"{num1}_{num2}.png"
                 out_path = os.path.join(OUTPUT_DIR, out_name)
                 merge_images_vertically([img1, img2], out_path)
                 print(f"Merged consecutive singles {f1} + {f2} -> {out_name}")
@@ -109,7 +129,7 @@ def main():
                 continue
 
         # No consecutive match → save single
-        out_name = base1 + ".png"
+        out_name = re.match(r'(\d+)', base1).group(1) + ".png"
         out_path = os.path.join(OUTPUT_DIR, out_name)
         img1.save(out_path)
         print(f"Copied single {f1} -> {out_name}")
