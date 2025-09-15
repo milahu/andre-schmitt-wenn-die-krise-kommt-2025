@@ -13,7 +13,7 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 40 16 2008 780">
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 40 16 2008 780">
      <span class='ocr_line' id='line_1_1' title="bbox 41 16 2005 55; baseline 0 -9; x_size 38; x_descenders 9; x_ascenders 8">
-      <span class='ocrx_word' id='word_1_1' title='bbox 41 18 117 55; x_wconf 96'>Anja</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 41 18 119 56; x_wconf 96'>Anja</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 137 17 268 47; x_wconf 96'>möchte</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 286 17 471 47; x_wconf 96'>zumindest</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 489 17 569 47; x_wconf 96'>nach</span>
