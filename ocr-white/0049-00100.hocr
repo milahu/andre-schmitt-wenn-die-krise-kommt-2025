@@ -13,7 +13,7 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 40 16 2008 993">
     <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 40 16 2007 316">
      <span class='ocr_line' id='line_1_1' title="bbox 43 16 2006 55; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
-      <span class='ocrx_word' id='word_1_1' title='bbox 43 17 90 47; x_wconf 96'>bis</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 41 18 88 48; x_wconf 96'>bis</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 109 18 239 47; x_wconf 96'>weitere</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 260 16 402 47; x_wconf 96'>Ausfälle</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 423 26 460 47; x_wconf 96'>zu</span>
