@@ -10,6 +10,8 @@ mkShell {
     gimp
     deskew
     tesseract
+    imagemagick
+    wget
 
     # not used by tesseract?
     # hunspellDicts.de-de
@@ -26,6 +28,8 @@ mkShell {
 
     (python3.withPackages (pp: with pp; [
       pillow
+      numpy
+      opencv4
     ]))
 
     img2pdf
