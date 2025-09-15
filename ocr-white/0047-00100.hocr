@@ -193,6 +193,7 @@
       <span class='ocrx_word' id='word_1_158' title='bbox 580 699 657 729; x_wconf 93'>aller</span>
       <span class='ocrx_word' id='word_1_159' title='bbox 676 699 1081 737; x_wconf 91'>Untersuchungstermine</span>
       <span class='ocrx_word' id='word_1_160' title='bbox 1101 699 1164 729; x_wconf 96'>und</span>
+<!-- TODO Nicht-Routineoperationen -->
       <span class='ocrx_word' id='word_1_161' title='bbox 1185 699 1272 729; x_wconf 93'>nicht</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 1291 700 1653 737; x_wconf 89'>Routineoperationen.</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 1671 699 1723 729; x_wconf 96'>Als</span>
