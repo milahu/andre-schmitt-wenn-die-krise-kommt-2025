@@ -12,41 +12,7 @@
   <div class='ocr_page' id='page_1' title='image "../white/0050-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
    <div class='ocr_carea' id='block_1_1' title="bbox 41 39 2008 1129">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 41 39 2008 1129">
-     <span class='ocr_line' id='line_1_1' title="bbox 1520 39 1527 55; baseline 0 0; x_size 20.379284; x_descenders 4.3792844; x_ascenders 4.9024711">
-      <span class='ocrx_word' id='word_1_1' title='bbox 1520 39 1527 55; x_wconf 83'>J</span>
-     </span>
-     <span class='ocr_line' id='line_1_2' title="bbox 1587 57 1606 74; baseline 0 0; x_size 21.65299; x_descenders 4.6529899; x_ascenders 5.2088757">
-      <span class='ocrx_word' id='word_1_2' title='bbox 1587 57 1606 74; x_wconf 80' lang='deu'>»</span>
-     </span>
-     <span class='ocr_line' id='line_1_3' title="bbox 552 95 1573 130; baseline 0.004 -23; x_size 19; x_descenders 3; x_ascenders 5">
-      <span class='ocrx_word' id='word_1_3' title='bbox 552 96 557 107; x_wconf 20' lang='deu'>&quot;</span>
-      <span class='ocrx_word' id='word_1_4' title='bbox 1505 95 1510 111; x_wconf 94'>J</span>
-      <span class='ocrx_word' id='word_1_5' title='bbox 1547 100 1573 130; x_wconf 46' lang='deu'>pP</span>
-     </span>
-     <span class='ocr_line' id='line_1_4' title="bbox 680 127 1217 164; baseline 0 -22; x_size 14.010758; x_descenders 3.0107582; x_ascenders 3.3704488">
-      <span class='ocrx_word' id='word_1_6' title='bbox 680 127 720 164; x_wconf 34' lang='deu'>Wr</span>
-      <span class='ocrx_word' id='word_1_7' title='bbox 1055 127 1217 164; x_wconf 3' lang='deu'>DA</span>
-     </span>
-     <span class='ocr_line' id='line_1_5' title="bbox 461 198 1563 255; baseline 0.006 -15; x_size 21; x_descenders 3; x_ascenders 7">
-      <span class='ocrx_word' id='word_1_8' title='bbox 461 198 503 247; x_wconf 13' lang='deu'>ww</span>
-      <span class='ocrx_word' id='word_1_9' title='bbox 634 226 658 241; x_wconf 46' lang='deu'>al</span>
-      <span class='ocrx_word' id='word_1_10' title='bbox 732 240 747 250; x_wconf 42' lang='deu'>+</span>
-      <span class='ocrx_word' id='word_1_11' title='bbox 921 203 1012 234; x_wconf 57'>a</span>
-      <span class='ocrx_word' id='word_1_12' title='bbox 1072 218 1093 255; x_wconf 67'>|</span>
-      <span class='ocrx_word' id='word_1_13' title='bbox 1331 206 1346 255; x_wconf 0'>J]</span>
-      <span class='ocrx_word' id='word_1_14' title='bbox 1441 237 1457 251; x_wconf 72'>w</span>
-      <span class='ocrx_word' id='word_1_15' title='bbox 1559 218 1563 222; x_wconf 70'>f</span>
-     </span>
-     <span class='ocr_line' id='line_1_6' title="bbox 599 449 1536 491; baseline -0.011 0; x_size 30; x_descenders 4; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_16' title='bbox 599 455 779 491; x_wconf 31'>EE</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 808 440 887 458; x_wconf 45'>—</span>
-      <span class='ocrx_word' id='word_1_18' title='bbox 1514 450 1536 481; x_wconf 46'>4</span>
-     </span>
-     <span class='ocr_line' id='line_1_7' title="bbox 678 663 1488 707; baseline 0 -12; x_size 19.859386; x_descenders 4; x_ascenders 4.8593864">
-      <span class='ocrx_word' id='word_1_19' title='bbox 678 688 690 695; x_wconf 41'>4</span>
-      <span class='ocrx_word' id='word_1_20' title='bbox 1409 704 1411 707; x_wconf 53'>i</span>
-      <span class='ocrx_word' id='word_1_21' title='bbox 1467 663 1488 703; x_wconf 36' lang='deu'>&quot;</span>
-     </span>
+<!-- TODO image -->
      <span class='ocr_line' id='line_1_8' title="bbox 940 855 1108 886; baseline 0 -7; x_size 31; x_descenders 7; x_ascenders 7">
       <span class='ocrx_word' id='word_1_22' title='bbox 940 855 1108 886; x_wconf 96' lang='deu'>Abbildung</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 1094 851 1112 890; x_wconf 96' lang='deu'>2</span>
@@ -82,6 +48,7 @@
       <span class='ocrx_word' id='word_1_49' title='bbox 1469 1026 1557 1055; x_wconf 93' lang='deu'>einer</span>
       <span class='ocrx_word' id='word_1_50' title='bbox 1583 1025 1795 1063; x_wconf 92' lang='deu'>Hirnblutung</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 1823 1025 1937 1055; x_wconf 96' lang='deu'>leiden.</span>
+      <!-- und?! abstechen, weitermachen. das "recht auf leben" ist eine dekadente idee für wohlstandsbesoffene. -->
       <span class='ocrx_word' id='word_1_52' title='bbox 1965 1027 2005 1055; x_wconf 96' lang='deu'>Im</span>
      </span>
      <span class='ocr_line' id='line_1_11' title="bbox 43 1091 2007 1129; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
