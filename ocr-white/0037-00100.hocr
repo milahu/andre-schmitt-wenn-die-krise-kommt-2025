@@ -11,36 +11,13 @@
  <body>
   <div class='ocr_page' id='page_1' title='image "../white/0037-00100.png"; bbox 0 0 2047 1141; ppageno 0; scan_res 70 70'>
    <div class='ocr_carea' id='block_1_1' title="bbox 41 7 2008 1080">
-    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 889 7 1160 59">
-     <span class='ocr_line' id='line_1_1' title="bbox 889 7 1160 59; baseline 0 0; x_size 66.218338; x_descenders 14.218338; x_ascenders 15.672524">
-      <span class='ocrx_word' id='word_1_1' title='bbox 889 7 1160 59; x_wconf 30'>OO</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 896 73 1153 102">
-     <span class='ocr_line' id='line_1_2' title="bbox 896 73 1153 102; baseline 0 -7; x_size 29; x_descenders 7; x_ascenders 8">
-      <span class='ocrx_word' id='word_1_2' title='bbox 896 73 962 102; x_wconf 32'>AO</span>
-      <span class='ocrx_word' id='word_1_3' title='bbox 1003 81 1014 102; x_wconf 18'>A</span>
-      <span class='ocrx_word' id='word_1_4' title='bbox 1117 81 1153 102; x_wconf 2' lang='eng'>yr</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 904 96 1153 147">
-     <span class='ocr_line' id='line_1_3' title="bbox 904 96 1153 147; baseline 0 -15; x_size 29; x_descenders 6; x_ascenders 8">
-      <span class='ocrx_word' id='word_1_5' title='bbox 904 96 941 117; x_wconf 10'>=</span>
-      <span class='ocrx_word' id='word_1_6' title='bbox 976 102 1006 139; x_wconf 39'>oF</span>
-      <span class='ocrx_word' id='word_1_7' title='bbox 1102 102 1153 147; x_wconf 46'>ar,</span>
-     </span>
-    </p>
-
-    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 889 220 1138 279">
-     <span class='ocr_line' id='line_1_4' title="bbox 889 220 1138 279; baseline -0.004 -22; x_size 39.137978; x_descenders 8.4036694; x_ascenders 9.2631578">
-      <span class='ocrx_word' id='word_1_8' title='bbox 889 220 1138 279; x_wconf 46'>EIER</span>
-     </span>
-    </p>
-
     <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 41 327 2008 1080">
      <span class='ocr_line' id='line_1_5' title="bbox 906 327 1143 351; baseline 0 0; x_size 30.65369; x_descenders 6.6536894; x_ascenders 7">
+      <!-- qrcode:
+       https://www.youtube.com/watch?v=KRTDyQiGjtc&list=PLBg0Z-5qO8PyDyc-f3NPW5PLUi42CWmQf&index=6
+       06 BIA - 3 Phasen
+       videos/06 BIA - 3 Phasen.KRTDyQiGjtc.mp4
+      -->
       <span class='ocrx_word' id='word_1_9' title='bbox 906 327 1143 351; x_wconf 91'>3-Phasen-Modell</span>
      </span>
      <span class='ocr_line' id='line_1_6' title="bbox 43 411 2008 450; baseline 0 -9; x_size 37; x_descenders 8; x_ascenders 8">
@@ -78,7 +55,7 @@
       <span class='ocrx_word' id='word_1_37' title='bbox 565 566 659 596; x_wconf 96'>Land:</span>
      </span>
      <span class='ocr_line' id='line_1_9' title="bbox 42 631 1143 670; baseline -0.001 -8; x_size 40; x_descenders 9; x_ascenders 10">
-      <span class='ocrx_word' id='word_1_38' title='bbox 42 646 53 656; x_wconf 37' lang='eng'>+</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 42 646 53 656; x_wconf 37' lang='eng'>•</span>
       <span class='ocrx_word' id='word_1_39' title='bbox 65 631 192 662; x_wconf 96'>Aufbau</span>
       <span class='ocrx_word' id='word_1_40' title='bbox 207 632 264 662; x_wconf 96'>der</span>
       <span class='ocrx_word' id='word_1_41' title='bbox 277 633 471 670; x_wconf 96'>Opposition</span>
@@ -89,29 +66,29 @@
       <span class='ocrx_word' id='word_1_46' title='bbox 927 631 1143 670; x_wconf 92'>Nachfolgern</span>
      </span>
      <span class='ocr_line' id='line_1_10' title="bbox 42 697 731 736; baseline 0.001 -9; x_size 38; x_descenders 8; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_47' title='bbox 42 712 53 722; x_wconf 33' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 42 712 53 722; x_wconf 33' lang='eng'>•</span>
       <span class='ocrx_word' id='word_1_48' title='bbox 68 699 256 728; x_wconf 91' lang='eng'>Munitions-</span>
       <span class='ocrx_word' id='word_1_49' title='bbox 271 698 335 728; x_wconf 93' lang='eng'>und</span>
       <span class='ocrx_word' id='word_1_50' title='bbox 349 697 731 736; x_wconf 91'>Waffenentsendungen</span>
      </span>
      <span class='ocr_line' id='line_1_11' title="bbox 42 764 883 802; baseline 0 -8; x_size 39; x_descenders 9; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_51' title='bbox 42 778 53 788; x_wconf 67' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 42 778 53 788; x_wconf 67' lang='eng'>•</span>
       <span class='ocrx_word' id='word_1_52' title='bbox 68 764 229 794; x_wconf 96'>Kontrolle</span>
       <span class='ocrx_word' id='word_1_53' title='bbox 243 764 322 794; x_wconf 96'>über</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 336 764 462 794; x_wconf 96' lang='eng'>Medien</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 478 764 542 794; x_wconf 93' lang='eng'>und</span>
-      <span class='ocrx_word' id='word_1_56' title='bbox 557 764 883 802; x_wconf 89' lang='eng'>Schliisselpersonen</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 557 764 883 802; x_wconf 89' lang='eng'>Schlüsselpersonen</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 42 829 892 868; baseline -0.001 -8; x_size 38; x_descenders 8; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_57' title='bbox 42 844 53 854; x_wconf 35' lang='eng'>+</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 42 844 53 854; x_wconf 35' lang='eng'>•</span>
       <span class='ocrx_word' id='word_1_58' title='bbox 65 830 264 868; x_wconf 96'>Ausbildung</span>
       <span class='ocrx_word' id='word_1_59' title='bbox 278 839 341 860; x_wconf 92' lang='eng'>von</span>
       <span class='ocrx_word' id='word_1_60' title='bbox 357 829 486 860; x_wconf 96'>Kräften</span>
-      <span class='ocrx_word' id='word_1_61' title='bbox 499 829 551 860; x_wconf 93' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 499 829 551 860; x_wconf 93' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_62' title='bbox 564 829 892 868; x_wconf 96'>Kampfhandlungen</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 42 895 1193 926; baseline 0.001 -1; x_size 39.219261; x_descenders 8.2192631; x_ascenders 10">
-      <span class='ocrx_word' id='word_1_63' title='bbox 42 910 53 920; x_wconf 64' lang='eng'>«</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 42 910 53 920; x_wconf 64' lang='eng'>•</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 68 895 491 926; x_wconf 92' lang='eng'>Kommunikationsaufbau</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 505 896 664 926; x_wconf 93' lang='eng'>zwischen</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 680 896 805 926; x_wconf 96'>lokalen</span>
@@ -123,7 +100,7 @@
       <span class='ocrx_word' id='word_1_70' title='bbox 42 985 193 1014; x_wconf 96' lang='eng'>Blackout</span>
      </span>
      <span class='ocr_line' id='line_1_15' title="bbox 42 1050 439 1080; baseline 0 0; x_size 38.219261; x_descenders 8.2192631; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_71' title='bbox 42 1064 53 1075; x_wconf 37'>+</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 42 1064 53 1075; x_wconf 37'>•</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 68 1050 198 1080; x_wconf 91' lang='eng'>Marode</span>
       <span class='ocrx_word' id='word_1_73' title='bbox 214 1050 439 1080; x_wconf 96'>Infrastruktur</span>
      </span>
