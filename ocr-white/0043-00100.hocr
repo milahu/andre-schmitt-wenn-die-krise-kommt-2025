@@ -87,16 +87,7 @@
       <span class='ocrx_word' id='word_1_66' title='bbox 1660 214 1801 245; x_wconf 96'>befallen</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 1815 215 1895 245; x_wconf 96'>sind.</span>
      </span>
-     <span class='ocr_line' id='line_1_5' title="bbox 1427 526 1496 606; baseline 0 0; x_size 103.63831; x_descenders 23.638306; x_ascenders 22.111034">
-      <span class='ocrx_word' id='word_1_68' title='bbox 1427 526 1496 606; x_wconf 88' lang='eng'>A</span>
-     </span>
-     <span class='ocr_line' id='line_1_6' title="bbox 759 568 1426 694; baseline 0.006 -22; x_size 130; x_descenders 19; x_ascenders 43">
-      <span class='ocrx_word' id='word_1_69' title='bbox 759 669 763 673; x_wconf 27' lang='eng'>a,</span>
-      <span class='ocrx_word' id='word_1_70' title='bbox 1417 605 1426 676; x_wconf 0' lang='eng'>SAH</span>
-     </span>
-     <span class='ocr_line' id='line_1_7' title="bbox 763 673 785 689; baseline -0.045 0; x_size 39.857613; x_descenders 9.090909; x_ascenders 8.5035458">
-      <span class='ocrx_word' id='word_1_71' title='bbox 763 673 785 689; x_wconf 29' lang='eng'>N</span>
-     </span>
+<!-- TODO image -->
     </p>
    </div>
   </div>
