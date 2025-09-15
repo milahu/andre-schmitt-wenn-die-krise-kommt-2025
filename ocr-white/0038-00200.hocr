@@ -197,7 +197,7 @@
 
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 42 875 682 913">
      <span class='ocr_line' id='line_1_13' title="bbox 42 875 682 913; baseline 0 -8; x_size 38.897476; x_descenders 8.8974743; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_152' title='bbox 42 889 52 900; x_wconf 70'>«</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 42 889 52 900; x_wconf 70'>•</span>
       <span class='ocrx_word' id='word_1_153' title='bbox 67 875 471 905; x_wconf 92' lang='deu'>China-Taiwan-Konflikt:</span>
       <span class='ocrx_word' id='word_1_154' title='bbox 487 877 682 913; x_wconf 90' lang='deu'>Pre-Impact</span>
      </span>
@@ -205,7 +205,7 @@
 
     <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 42 941 621 979">
      <span class='ocr_line' id='line_1_14' title="bbox 42 941 621 979; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_155' title='bbox 42 955 52 966; x_wconf 80'>e</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 42 955 52 966; x_wconf 80'>•</span>
       <span class='ocrx_word' id='word_1_156' title='bbox 68 941 411 971; x_wconf 87' lang='eng'>Iran-Israel-Konflikt:</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 427 943 621 979; x_wconf 91'>Pre-Impact</span>
      </span>
@@ -213,7 +213,7 @@
 
     <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 42 1007 576 1045">
      <span class='ocr_line' id='line_1_15' title="bbox 42 1007 576 1045; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_158' title='bbox 42 1021 52 1032; x_wconf 71'>«</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 42 1021 52 1032; x_wconf 71'>•</span>
       <span class='ocrx_word' id='word_1_159' title='bbox 67 1007 365 1038; x_wconf 92'>Serbien-Konflikt:</span>
       <span class='ocrx_word' id='word_1_160' title='bbox 381 1009 576 1045; x_wconf 90' lang='deu'>Pre-Impact</span>
      </span>
@@ -221,8 +221,8 @@
 
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 42 1073 645 1111">
      <span class='ocr_line' id='line_1_16' title="bbox 42 1073 645 1111; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 9">
-      <span class='ocrx_word' id='word_1_161' title='bbox 42 1087 52 1098; x_wconf 75'>«</span>
-      <span class='ocrx_word' id='word_1_162' title='bbox 65 1073 434 1103; x_wconf 76'>Tiirkei-Griechenland:</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 42 1087 52 1098; x_wconf 75'>•</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 65 1073 434 1103; x_wconf 76'>Türkei-Griechenland:</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 450 1075 645 1111; x_wconf 89'>Pre-Impact</span>
      </span>
     </p>
