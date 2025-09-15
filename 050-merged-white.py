@@ -121,7 +121,8 @@ def main():
             if num2 == num1 + 1:
                 f2 = groups[base2][0]
                 img2 = Image.open(os.path.join(INPUT_DIR, f2))
-                out_name = f"{num1}_{num2}.png"
+                # out_name = f"{num1}_{num2}.png"
+                out_name = f"{num1:04d}_{num2:04d}.png"
                 out_path = os.path.join(OUTPUT_DIR, out_name)
                 merge_images_vertically([img1, img2], out_path)
                 print(f"Merged consecutive singles {f1} + {f2} -> {out_name}")
