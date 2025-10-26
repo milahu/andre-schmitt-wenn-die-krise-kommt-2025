@@ -94,6 +94,10 @@ Jetzt bestellen und bereit sein, wenn das Licht ausgeht.
 magnet:?xt=urn:btih:876924d4fac48ffa91e3bf1e7532c106aa8fe311&dn=wenn.die.krise.kommt.von.andre.schmitt.2025.german.book.amazon.kindle.scan&xl=385940703&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
+## epub
+
+- [github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025-epub](https://github.com/milahu/andre-schmitt-wenn-die-krise-kommt-2025-epub)
+
 ## videos
 
 https://www.youtube.com/playlist?list=PLBg0Z-5qO8PyDyc-f3NPW5PLUi42CWmQf
