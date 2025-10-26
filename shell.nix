@@ -13,15 +13,22 @@ mkShell {
     imagemagick
     wget
     pdftk
+    unzip
 
     # not used by tesseract?
     # hunspellDicts.de-de
     # hunspellDicts.en-us
 
-    # hocr editors
     # nur.repos.milahu.scribeocr
+
+    nur.repos.milahu.hocr-editor-qt
+
     # hocr-tools
-    # nur.repos.milahu.archive-hocr-tools
+
+    # hocr-to-epub-fxl
+    # https://github.com/internetarchive/archive-hocr-tools/pull/23
+    nur.repos.milahu.archive-hocr-tools
+
     # gImageReader
     # gImageReader-qt
 
@@ -33,6 +40,9 @@ mkShell {
       opencv4
       python-fontconfig
       reportlab
+      ocrmypdf
+      psutil
+      pypdf2
     ]))
 
     img2pdf
